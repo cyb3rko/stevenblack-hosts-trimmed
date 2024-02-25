@@ -1,0 +1,26 @@
+name: Update hosts
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 6"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout local
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Checkout StevenBlack/hosts
+        uses: actions/checkout@v4
+        with:
+          repository: StevenBlack/hosts
+          path: stevenblack-hosts
+      - name: Run Python logic
+        run: python3 updater.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Auto-update hosts files
