@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 25 February 2024 06:09:08 (UTC)
+# Date: 29 February 2024 02:43:39 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 10,907
+# Number of unique domains: 10,909
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 21 Feb 2024 11:08 UTC+7
-# Version: 2402211108
-# Blocked: 5,445 domains
+# Last modified: 26 Feb 2024 14:34 UTC+7
+# Version: 2402261434
+# Blocked: 5,447 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1085,6 +1085,7 @@ dangkybum.club
 dangkyee88.online
 dangkygo88.in
 dangkykubet.vip
+dangkyrikvip.org
 dangkyrikvip.tv
 dangkythabet.com
 danhbaidoithuongizi.com
@@ -3153,6 +3154,7 @@ lode88.online
 lode88.vip
 lodevip.us
 lodevn789.net
+login.dangkyrikvip.org
 logs.almeriaxxx.com
 long092.com
 loto188ae.com
