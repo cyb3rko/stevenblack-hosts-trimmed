@@ -1,65 +1,3 @@
-# Title: StevenBlack/hosts extension social
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date: 05 March 2024 00:28:19 (UTC)
-# The unified hosts file was not used while generating this file.
-# Extensions used to generate this file: social
-# Number of unique domains: 2,846
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
-# ===============================================================
-# Title: Social media hosts
-# Updated: June 27, 2021
-
-# Google Plus
-#127.0.0.1 plus.l.google.com
-#127.0.0.1 plus.sandbox.google.com
-#127.0.0.1 plusone.google.com
-plus.google.com
-
-# Facebook
-0-act.channel.facebook.com
-0-edge-chat.facebook.com
-0.beta.facebook.com
-1-act.channel.facebook.com
-1-edge-chat.facebook.com
-2-act.channel.facebook.com
-2-edge-chat.facebook.com
-3-act.channel.facebook.com
-3-edge-chat.facebook.com
-4-act.channel.facebook.com
-4-edge-chat.facebook.com
-5-act.channel.facebook.com
-5-edge-chat.facebook.com
-6-act.channel.facebook.com
-6-edge-chat.facebook.com
-a.ns.facebook.com
-a1qa.m.facebook.com
-a3.sphotos.ak.fbcdn.net
-abc.facebook.com
-about.facebook.com
-act.channel.facebook.com
-act.facebook.com
-actcorp.m.facebook.com
-ads.facebook.com
-ae0.bb01.ams2.tfbnw.net
-ae0.bb01.atl1.tfbnw.net
-ae0.bb01.bos2.tfbnw.net
-ae0.bb01.hkg1.tfbnw.net
-ae0.bb01.hnd1.tfbnw.net
-ae0.bb01.lhr2.tfbnw.net
-ae0.bb01.lla1.tfbnw.net
-ae0.bb01.mia1.tfbnw.net
-ae0.bb01.nrt1.tfbnw.net
-ae0.bb01.sin1.tfbnw.net
-ae0.bb02.ams2.tfbnw.net
-ae0.bb02.atl1.tfbnw.net
-ae0.bb02.bos2.tfbnw.net
 ae0.bb02.hkg1.tfbnw.net
 ae0.bb02.lhr2.tfbnw.net
 ae0.bb02.lla1.tfbnw.net
@@ -307,7 +245,6 @@ alpha-shv-03-lla1.facebook.com
 alpha-shv-04-prn2.facebook.com
 alpha-shv-09-frc1.facebook.com
 alpha.vvv.facebook.com
-an.facebook.com
 api-read.facebook.com
 api.ak.facebook.com
 api.connect.facebook.com
@@ -1010,7 +947,6 @@ photos-f.ak.fbcdn.net
 photos-g.ak.fbcdn.net
 photos-h.ak.fbcdn.net
 photos-snc1.fbcdn.net
-pixel.facebook.com
 pl-pl.facebook.com
 platform.foursquare.com
 postmaster.facebook.com
@@ -1300,7 +1236,6 @@ snaptu-p1.facebook.com
 snaptu-p2.facebook.com
 softtech.m.facebook.com
 sok.m.facebook.com
-sonar-iad.xx.fbcdn.net
 sonar.fbsb1-1.fna.fbcdn.net
 sonar.fgua1-1.fna.fbcdn.net
 sonar.fmaa1-1.fna.fbcdn.net
@@ -1763,7 +1698,6 @@ external-prg1-1.cdninstagram.com
 external-vie1-1.cdninstagram.com
 external-waw1-1.cdninstagram.com
 external.cdninstagram.com
-fundingchoicesmessages.google.com
 help.instagram.com
 i.instagram.com
 images.instagram.com
@@ -2297,9 +2231,7 @@ www.threads.net
 about.twitter.com
 abs.twimg.com
 access.twitter.com
-ads.twitter.com
 amp.twimg.com
-analytics.twitter.com
 api-test.twitter.com
 api.twitter.com
 api2.twitter.com
@@ -2379,7 +2311,6 @@ sites.twitter.com
 sitestream.twitter.com
 sms.twitter.com
 ssl2.twitter.com.edgekey.net
-static.ads-twitter.com
 static.twitter.com
 status.twitter.com
 stream.twitter.com
@@ -2409,7 +2340,6 @@ x.com
 
 # LinkedIn
 addtoprofile.linkedin.com
-ads.linkedin.com
 ae.linkedin.com
 ajuda.linkedin.com
 ap.linkedin.com
@@ -2440,7 +2370,6 @@ content.linkedin.com
 cy.linkedin.com
 cz.linkedin.com
 data.linkedin.com
-dc.ads.linkedin.com
 de.linkedin.com
 dev-signin.lms.linkedin.com
 dev.lms.linkedin.com
@@ -2576,7 +2505,6 @@ tw.linkedin.com
 tz.linkedin.com
 uk.linkedin.com
 university.linkedin.com
-us-east-1.dc.ads.linkedin.com
 us.linkedin.com
 veterans.linkedin.com
 volunteer.linkedin.com
@@ -2672,14 +2600,12 @@ x.myspacecdn.com
 # Pinterest
 about.pinterest.com
 accounts.pinterest.com
-ads.pinterest.com
 api.pinterest.com
 api.pinterest.com.gslb.pinterest.com
 assets.pinterest.com
 blog.pinterest.com
 br.pinterest.com
 business.pinterest.com
-ct.pinterest.com
 developers.pinterest.com
 dualstack.pinterest.map.fastly.net
 engineering.pinterest.com
@@ -2690,7 +2616,6 @@ i.pinimg.com
 i.pinimg.com.edgekey.net
 i.pinimg.com.gslb.pinterest.com
 id.pinterest.com
-log.pinterest.com
 pin.it
 pinimg.com
 pinterest.com
@@ -2701,7 +2626,6 @@ s-pinimg-com.gslb.pinterest.com
 s.pinimg.com
 s.pinimg.com.edgekey.net
 s.pinimg.com.gslb.pinterest.com
-trk.pinterest.com
 uk.pinterest.com
 v.pinimg.com
 v.pinimg.com.edgekey.net
@@ -2757,7 +2681,6 @@ e.thumbs.redditmedia.com
 emoji.redditmedia.com
 en.reddit.com
 events.reddit.com
-events.redditmedia.com
 external-preview.redd.it
 f.thumbs.redditmedia.com
 fr.reddit.com
@@ -2776,7 +2699,6 @@ meta-api.reddit.com
 mod.reddit.com
 new.reddit.com
 np.reddit.com
-nsfw.reddit.com
 oauth.reddit.com
 old.reddit.com
 oops.redditmedia.com
@@ -2823,8 +2745,6 @@ abtest-va-tiktok.byteoversea.com
 dm-maliva16.byteoversea.com
 dm.bytedance.com
 ibytedtos.com
-mon-va.byteoversea.com
-mon.byteoversea.com
 muscdn.com
 musical.ly
 musically.ly

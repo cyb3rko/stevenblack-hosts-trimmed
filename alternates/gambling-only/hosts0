@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 29 February 2024 02:43:32 (UTC)
+# Date: 05 March 2024 00:28:04 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 8,064
+# Number of unique domains: 8,074
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 26 Feb 2024 14:34 UTC+7
-# Version: 2402261434
-# Blocked: 5,447 domains
+# Last modified: 02 Mar 2024 21:06 UTC+7
+# Version: 2403022106
+# Blocked: 5,457 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -487,6 +487,7 @@ ad.gamequyong.xyz
 ad.gem88.win
 ad.mibet.com
 ad.playhit.biz
+ad.qc789.vip
 ad.rikvip.uk
 ad.taihit.win
 ad.yo88.net
@@ -904,6 +905,7 @@ casinomcw.com
 cdn.868vip.live
 cdn.888loc.io
 cdn.kingbet86.info
+cdn.megawin88.mobi
 cdn.vbet88.fun
 cdn.vicplay.io
 cdn.vwin010.com
@@ -1101,6 +1103,7 @@ debet.info
 debet.top
 debet.win
 debet88.win
+deca88.com
 dfbertuah.com
 dfchoingay.com
 dffgames.com
@@ -3393,6 +3396,7 @@ mec68.com
 media.1789bet.com
 media.happynb.com
 media.lixi99.com
+megawin88.mobi
 mi3368.com
 mibet.cc
 mibet.com
@@ -3719,6 +3723,7 @@ qc.vic.win
 qc.x8.club
 qc.x8vn.top
 qc.zo88.org
+qc789.vip
 qh205.com
 qh215.com
 qh217.com
@@ -4046,6 +4051,7 @@ tai.rik.top
 tai.rikvip.tv
 tai.rikvip.us
 tai.rikvip.vip
+tai.rikvip.win
 tai.samvip.bet
 tai.son.club
 tai.taisum2.com
@@ -4127,6 +4133,7 @@ taiuk88.net
 taiv8.com
 taiv8.info
 taiv8.top
+taivip52.shop
 taiwin79.win
 taix1.club
 taixhu.gg
@@ -4144,6 +4151,7 @@ tbab953.com
 tbr.games
 tdtc.cc
 tdtc.fun
+tdtc.vn
 tdtcyy.com
 tdtczz.com
 tf2022v.com
@@ -4615,6 +4623,7 @@ wb77.net
 wbet58.com
 wbet99.net
 wc.taiuk88.net
+wcdn.megawin88.mobi
 wcdn.sdjlbg.xyz
 wcdn.vbet88.fun
 we1win.com
@@ -5112,6 +5121,7 @@ www.mb88.com
 www.mbx88.com
 www.mc876.com
 www.me88vn1.com
+www.megawin88.mobi
 www.mibet.com
 www.mibet.mobi
 www.mibet88.com
