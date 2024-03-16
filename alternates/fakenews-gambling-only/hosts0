@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 05 March 2024 00:27:47 (UTC)
+# Date: 15 March 2024 14:57:55 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 10,268
+# Number of unique domains: 10,270
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 02 Mar 2024 21:06 UTC+7
-# Version: 2403022106
-# Blocked: 5,457 domains
+# Last modified: 11 Mar 2024 16:35 UTC+7
+# Version: 2403111635
+# Blocked: 5,459 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2956,6 +2956,7 @@ bet66.com
 bet69922.com
 bet69933.com
 bet69955.com
+bet88.systems
 bet88010.com
 bet88011.com
 bet88012.com
@@ -2963,6 +2964,7 @@ bet88013.com
 bet88014.com
 bet88099.com
 bet885678.com
+bet88biz.com
 betbanh88.com
 betk8.fun
 betk8vn.live
