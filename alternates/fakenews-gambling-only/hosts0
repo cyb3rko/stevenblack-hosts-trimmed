@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 15 March 2024 14:57:55 (UTC)
+# Date: 20 March 2024 03:41:43 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 10,270
+# Number of unique domains: 10,274
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 11 Mar 2024 16:35 UTC+7
-# Version: 2403111635
-# Blocked: 5,459 domains
+# Last modified: 19 Mar 2024 22:26 UTC+7
+# Version: 2403192226
+# Blocked: 5,463 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3496,6 +3496,7 @@ fb88you.com
 fb88zo.com
 fb9.com
 fb9fun.com
+fbking33.com
 fbw.11bet.us
 fc1.fcb88d.com
 fc2.fcb88d.com
@@ -3541,6 +3542,7 @@ fun1118.com
 fun705.com
 fun7778.com
 fun789.club
+fun88.green
 fun881211.com
 fun88epl.com
 fun88event.com
@@ -5444,6 +5446,7 @@ m.cwin999.com
 m.dibongda777.com
 m.dktp88.com
 m.elo88.com
+m.fbking33.com
 m.five88.com
 m.five88.me
 m.fivevn.net
@@ -7176,6 +7179,7 @@ www.fb88wow.com
 www.fb88you.com
 www.fb88zo.com
 www.fb9.com
+www.fbking33.com
 www.fcb8.com
 www.five88.com
 www.fun1118.com
