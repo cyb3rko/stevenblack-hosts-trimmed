@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 20 March 2024 03:41:43 (UTC)
+# Date: 29 March 2024 00:46:20 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 10,274
+# Number of unique domains: 10,277
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 19 Mar 2024 22:26 UTC+7
-# Version: 2403192226
-# Blocked: 5,463 domains
+# Last modified: 26 Mar 2024 23:25 UTC+7
+# Version: 2403262325
+# Blocked: 5,466 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5880,6 +5880,8 @@ pop.h3bet.com
 portal.taisum2.com
 portal.vip11.us
 portal.xinloiduocchua.co
+pp88.dev
+pp88.icu
 pro.vuigiaitri.org
 prod.bwingmkt1.com
 prod.bwingmkt10.com
@@ -7361,6 +7363,7 @@ www.oppa888.com
 www.oppa88888888.com
 www.oxbet.club
 www.oxbet.com
+www.pp88.icu
 www.qh205.com
 www.qh215.com
 www.qh217.com
