@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 29 March 2024 00:46:20 (UTC)
+# Date: 04 April 2024 16:28:04 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 10,277
+# Number of unique domains: 10,279
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 26 Mar 2024 23:25 UTC+7
-# Version: 2403262325
-# Blocked: 5,466 domains
+# Last modified: 03 Apr 2024 15:13 UTC+7
+# Version: 2404031513
+# Blocked: 5,468 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2781,6 +2781,7 @@ alo789.vip
 alo789viet.com
 alo88.bet
 alo888.com
+aoays.xyz
 api.118kbet.com
 api.11zalo.com
 api.123bhh.com
@@ -6002,6 +6003,7 @@ s.388bet.vip
 s.8xbet.xyz
 s.p3vn.co
 s.sv66c.com
+s0106.com
 s0kn5.com
 s1.sin88.biz
 s1.sin88.cc
