@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 11 April 2024 19:07:18 (UTC)
+# Date: 18 April 2024 14:36:52 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, social
-# Number of unique domains: 13,443
+# Number of unique domains: 13,460
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 09 Apr 2024 23:15 UTC+7
-# Version: 2404092315
-# Blocked: 5,475 domains
+# Last modified: 18 Apr 2024 16:44 UTC+7
+# Version: 2404181644
+# Blocked: 5,492 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2470,6 +2470,7 @@ zombie.news
 789b.dev
 789b.live
 789b.win
+789bet.com
 789bet.run
 789beta.com
 789betf.com
@@ -2849,6 +2850,7 @@ api.mu88.mu
 api.mu9.club
 api.mu9.com
 api.mxvietnam.com
+api.nbet.vin
 api.new8808.vip
 api.new8884.com
 api.new88w.com
@@ -3405,6 +3407,7 @@ euro.sin88.biz
 eurofun88.com
 eurok8.com
 eurowin.top
+ev88.com
 event.taisum2.com
 event.xinloiduocchua.co
 ezb68.xyz
@@ -3894,6 +3897,7 @@ img.may88.top
 img.may88.us
 img.mu9.club
 img.mu9.com
+img.nbet.vin
 img.red88.vin
 img.red88.vip
 imgservice.mibet.com
@@ -5377,6 +5381,7 @@ lp.rikvipp.net
 lp.sun6.win
 lp.sunwinvn.club
 lp.taiv8.top
+lp.vip79.com
 lp.vuiuk88.club
 lp.zo.club
 lp.zo1.win
@@ -5403,14 +5408,17 @@ lucky88.casino
 lucky88.cc
 lucky88.club
 lucky88.com
+lucky88.fun
 lucky88.live
 lucky88.net
+lucky88.online
 lucky88.org
 lucky88.top
 lucky88.tv
 lucky88.uk
 lucky88.vin
 lucky88.win
+lucky88vn.com
 luckyxoso.com
 lux39.club
 lux888.club
@@ -5681,6 +5689,7 @@ nbet.net
 nbet.site
 nbet.top
 nbet.tv
+nbet.vin
 nbet.vip
 nbet.win
 nbet88.org
@@ -5844,6 +5853,7 @@ play.top88.us
 play.top88.vn
 play.vaob52.click
 play.vic.win
+play.vip79.com
 play.vuigiaitri.online
 play.win79.vip
 play.win79d.com
@@ -6099,6 +6109,7 @@ soc99.com
 sock.dabet.club
 sock.mu9.club
 sock.mu9.com
+sock.nbet.vin
 sock.red88.com
 sock.red88.us
 sock.red88.vin
@@ -6231,11 +6242,13 @@ svw38.com
 t.mibet.com
 t0gvf.com
 t1.ta88.com
+t1.ta88.vip
 t2.ta88.com
 t68bet.org
 t8bet999.com
 t8betvip.com
 ta88.com
+ta88.vip
 tai-sumvip.city
 tai.b52vn.fun
 tai.boc8.fun
@@ -6602,6 +6615,8 @@ vip.v99win.app
 vip11.club
 vip11.us
 vip130130.com
+vip79.com
+vip79.win
 vipbet001.org
 vipbet998.com
 vipclub.homes
@@ -6916,6 +6931,7 @@ wm88vn.com
 wo88.ac
 wp.choigiaitri.net
 wp.mu9.win
+wp.nbet.vin
 wp.red88.us
 wp.red88.vin
 wp.red88.vip
@@ -7644,6 +7660,7 @@ xoso66.io
 xoso6600.com
 xoso678.com
 xoso788.com
+xoso8811.com
 xoso988.com
 xoso9988.com
 xosobet.com
