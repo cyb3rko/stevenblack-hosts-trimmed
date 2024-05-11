@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 01 May 2024 17:11:26 (UTC)
+# Date: 04 May 2024 02:31:36 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 97,413
+# Number of unique domains: 97,415
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 30 Apr 2024 23:22 UTC+7
-# Version: 2404302322
-# Blocked: 5,511 domains
+# Last modified: 03 May 2024 15:35 UTC+7
+# Version: 2405031535
+# Blocked: 5,513 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5370,6 +5370,7 @@ loc88.fun
 loc89.fun
 loc89.vip
 lode247.sin88.biz
+lode555.co
 lode555.com
 lode88.online
 lode88.vip
@@ -6612,6 +6613,7 @@ vicplay.io
 victorwin555.com
 vicwin.vip
 vietbet.eu
+vietlott66.com
 vietvwin.com
 vig.vietbet.eu
 vin168.com
@@ -10354,8 +10356,8 @@ www.draftkings.com
 luckia.pt
 luckylandslots.com
 # Title: hostsVN Adult
-# Last modified: 30 Apr 2024 23:22 UTC+7
-# Version: 2404302322
+# Last modified: 03 May 2024 15:35 UTC+7
+# Version: 2405031535
 # Blocked: 3,490 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
