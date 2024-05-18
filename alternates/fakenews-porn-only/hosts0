@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 May 2024 02:31:40 (UTC)
+# Date: 12 May 2024 23:11:31 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn
-# Number of unique domains: 86,065
+# Number of unique domains: 86,089
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult
-# Last modified: 03 May 2024 15:35 UTC+7
-# Version: 2405031535
-# Blocked: 3,490 domains
+# Last modified: 12 May 2024 22:46 UTC+7
+# Version: 2405122246
+# Blocked: 3,514 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2432,6 +2432,7 @@ cliphot.online
 cliphot.space
 cliphot69.blog
 cliphot69.cc
+cliphot69.life
 cliphot69.org
 cliphot69.win
 cliphotne.com
@@ -2441,6 +2442,7 @@ cliphotvn.org
 cliphubs.com
 clipkhoe.xyz
 clipkhoehang.xyz
+clipmoivn.com
 clipnong.blog
 clipnong.club
 clipnong.co
@@ -2934,6 +2936,7 @@ heodem.com
 heodem.info
 heodem.plus
 heodem.vip
+heodemz.com
 heodemz.net
 heodemz.org
 heohay.com
@@ -2952,6 +2955,7 @@ heovl.net
 heovl.tv
 heovl1.com
 heovl1.net
+heovlx.com
 heozz.net
 heyzo.pro
 hhentai.net
@@ -3038,6 +3042,7 @@ javhd.best
 javhd.bio
 javhd.charity
 javhd.contact
+javhd.exchange
 javhd.im
 javhd.lol
 javhd.moe
@@ -3045,6 +3050,7 @@ javhd.news
 javhd.ninja
 javhd.page
 javhd.services
+javhd.team
 javhd.tech
 javhd.video
 javhd.ws
@@ -3322,8 +3328,11 @@ mobiblog.bio
 mobiblog.cc
 mobiblog.io
 mobiblog.net
+mobiblog.top
 mobiblog.us
 mobiblog.vip
+mobiblogtv.com
+mobiblogxx.com
 modelviet.us
 moihay.com
 moonlive.club
@@ -4046,6 +4055,7 @@ phimvlxx.net
 phimvnxx.com
 phimvv.net
 phimx.cc
+phimx.sexmoi.dev
 phimx.xyz
 phimx69.com
 phimx69.net
@@ -4160,6 +4170,8 @@ qqlives.app
 quatvn.cc
 quatvn.club
 quatvn.fun
+quatvn.in
+quatvn.link
 quatvn.net
 quaylen.me
 quaylen.org
@@ -4334,6 +4346,7 @@ sexditnhau.pro
 sexdong.top
 sexdotz.com
 sexdu.net
+sexdunhau.com
 sexf8.com
 sexfree.club
 sexfull-hd.com
@@ -4352,8 +4365,10 @@ sexgaixinh.org
 sexgaixinh.pro
 sexgaixinh.site
 sexgay.tv
+sexgiamdoc.com
 sexhai.com
 sexhan.top
+sexhang1.org
 sexhanquoc.net
 sexhapdan.com
 sexhay.biz
@@ -4457,6 +4472,7 @@ sexmoi.buzz
 sexmoi.click
 sexmoi.co
 sexmoi.cyou
+sexmoi.dev
 sexmoi.info
 sexmoi.live
 sexmoi.online
@@ -4495,9 +4511,11 @@ sexngonz.com
 sexnguoilon.com
 sexnguoilon.one
 sexnguoithu.xyz
+sexnhanghi.com
 sexnhanh.co
 sexnhanh69.pro
 sexnhanhz.net
+sexnhanvien.com
 sexnhat.co
 sexnhat.me
 sexnhat69.pro
@@ -4561,6 +4579,7 @@ sexsung.com
 sexsuong.net
 sext.pro
 sexthailan.com
+sexthang2.com
 sexthu.top
 sexthudam.pro
 sexthudam.top
@@ -4890,6 +4909,7 @@ trumsexviet.net
 trumsexviet.org
 trumtraibao.com
 trungquocsex.com
+trungquocsex.info
 trungquocsex.net
 truongsex.pro
 truyen-hentai.com
@@ -4997,6 +5017,7 @@ tut4k.net
 tut4k.xxx
 tuyensex3x.com
 tuyetpham.xyz
+tv.mobiblogxx.com
 twtgaixinh.com
 txxx.pics
 tzqctz.com
@@ -5025,6 +5046,7 @@ videogai.xyz
 videogaigoi.xyz
 videosexnhat.top
 videosexx.net
+vie.sexhang1.org
 viet.sex
 viet69.app
 viet69.asia
@@ -5285,6 +5307,7 @@ wapsex.wordpress.com
 waptuoinoiloan.blogspot.com
 web.sexnhanh.co
 web.sexviet88.day
+web2.sexvip1.com
 webchanrau.com
 webdoitruy.com
 webgioitinh.net
@@ -5348,6 +5371,7 @@ x.phimsec1.pro
 x.phimsexsub.co
 x.phimsexsub.pw
 x.sextop1.life
+x1.trungquocsex.info
 x10.viet69.life
 x3x.club
 xackup.com

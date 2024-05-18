@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 May 2024 02:31:33 (UTC)
+# Date: 12 May 2024 23:11:10 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 94,195
+# Number of unique domains: 94,268
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 03 May 2024 15:35 UTC+7
-# Version: 2405031535
-# Blocked: 5,513 domains
+# Last modified: 12 May 2024 22:46 UTC+7
+# Version: 2405122246
+# Blocked: 5,562 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2273,11 +2273,16 @@ zombie.news
 118kbet.com
 11bet.club
 11bet.com
+11bet.fun
+11bet.in
 11bet.life
 11bet.mobi
+11bet.mx
 11bet.net
 11bet.online
 11bet.org
+11bet.pro
+11bet.uk
 11bet.us
 11bet.vin
 11bet.win
@@ -2613,6 +2618,7 @@ zombie.news
 8live.club
 8live.com
 8live.fun
+8live.mobi
 8live.net
 8live.top
 8live.us
@@ -3063,6 +3069,7 @@ bongda2022.info
 bongda80.com
 bongdaeuro188.com
 bongvip.com
+bons.com
 boom66.com
 box2020.oxbetd.com
 bt9gl.com
@@ -3099,6 +3106,9 @@ cado.thethaofb88.com
 cado888.com
 cadomienphi.com
 cadomienphi.org
+cadovn.biz
+cadovn.com
+cadovn.pro
 cashier2.188thethao.com
 casino86.club
 casino888vn.com
@@ -3112,6 +3122,7 @@ cdn.vbet88.fun
 cdn.vicplay.io
 cdn.vwin010.com
 cdn.winclub.net
+cdvn.vip
 cf68.app
 cf68.click
 cf68.club
@@ -3197,6 +3208,7 @@ comebetvn2.com
 comebetvn3.com
 comebetvn9.com
 conggamehot.fun
+coopbet.com
 corona999.com
 cstga.com
 cuoc.choilawin.net
@@ -3268,6 +3280,7 @@ daga999.live
 dagablv.com
 dagacampuchia.com
 dagacampuchia.io
+dagachoi.tv
 dagacuadao.org
 dagahomqua.com
 dagatructiep.casino
@@ -3323,6 +3336,7 @@ dj5995.wbet58.com
 dk.choitet.vip
 dk.choiwin79.net
 dk.gamequyong.xyz
+dk.playgem.club
 dk.rikkk.net
 dk.thangiwin.org
 dk.thethaouk88.org
@@ -3459,6 +3473,7 @@ f8betaa.com
 f8betapp.net
 f8betgg.com
 f8bets.pro
+fa88.tv
 fa88.win
 fa88vn.live
 fabet.ac
@@ -3546,6 +3561,8 @@ five88.biz
 five88.com
 five88.me
 five88.net
+five88.top
+five88.vin
 five88.win
 fivevn.net
 fmapt.com
@@ -3665,6 +3682,7 @@ go88.im
 go88.info
 go88.live
 go88.luxury
+go88.org
 go88.study
 go88.tv
 go88.vip
@@ -3725,6 +3743,7 @@ hb8875.com
 hb8887.com
 hb88p.com
 hb88vn.co
+hcm66.com
 hi.oppa888.com
 hi888.app
 hi88vip1.com
@@ -3766,9 +3785,11 @@ hplay.fabet.us
 hstsc07cdn.com
 hucd0.com
 hx9119.com
+i.go88.org
 i1lnr.com
 i8bet.org
 i9-bet.com
+i9.bet
 i99902.com
 i99903.com
 i99904.com
@@ -3882,6 +3903,7 @@ i9bet92.com
 i9bet999.com
 i9betdl.com
 i9i9bet.com
+i9vn.com
 ibet268.com
 ibet889.com
 ibwinghot.com
@@ -3902,6 +3924,7 @@ img.lucky88.com
 img.lucky88.net
 img.may88.club
 img.may88.com
+img.may88.game
 img.may88.top
 img.may88.us
 img.mu9.club
@@ -5236,6 +5259,7 @@ k9vn1.com
 k9vn2.com
 kaivip.club
 kc6bet.net
+kc8.link
 kc99.vin
 kenhbong.com
 kenhthethao.net
@@ -5334,6 +5358,7 @@ kuwin.bet
 kuwin.com
 kuwinvip.com
 lambada-tx1app.fun
+lamgiau99.club
 langvuichoi.net
 ld99.club
 leto58.xyz
@@ -5601,6 +5626,7 @@ max10.vin
 may88.club
 may88.com
 may88.fun
+may88.game
 may88.top
 may88.us
 may88.vip
@@ -5693,6 +5719,8 @@ mxvietnam.com
 my188bet.com
 myk8.live
 mykubet.com
+na99.city
+na99.pro
 naapptbwf.com
 nbet.club
 nbet.com
@@ -5708,6 +5736,7 @@ nbet.win
 nbet88.org
 nearom.com
 nemo.vin
+net88.vip
 new.vx88.com
 new88.ai
 new88.love
@@ -5774,6 +5803,7 @@ onbet3.com
 onbet7.com
 onbet863.com
 onbet993.com
+one88.cc
 one88.club
 one88.com
 one88.fun
@@ -5801,6 +5831,7 @@ ox1.oxbetd.com
 oxbet.cc
 oxbet.club
 oxbet.com
+oxbet.in
 oxbet.net
 oxbet.top
 oxbet.us
@@ -5853,6 +5884,7 @@ play.loc789.club
 play.manclub.vin
 play.nemo.vin
 play.playiwin.biz
+play.rik88.life
 play.rikgame.live
 play.rikvip.tv
 play.sbotop246.com
@@ -5882,6 +5914,7 @@ player.ole777vietnam.com
 player.oleviet777.com
 player.win102.com
 playgamefa88.live
+playgem.club
 playgo88.asia
 playgo88.top
 playhit.biz
@@ -5910,6 +5943,7 @@ portal.vip11.us
 portal.xinloiduocchua.co
 pp88.dev
 pp88.icu
+prettygame666.com
 pro.vuigiaitri.org
 prod.bwingmkt1.com
 prod.bwingmkt10.com
@@ -5986,6 +6020,7 @@ record.income88.com
 record.pog79aff.com
 red88.com
 red88.top
+red88.tv
 red88.uk
 red88.us
 red88.vin
@@ -6005,6 +6040,7 @@ rik.top
 rik.vip
 rik.win
 rik6.com
+rik88.life
 rikbet789.club
 rikgame.live
 rikk.us
@@ -6263,6 +6299,7 @@ t68bet.org
 t8bet999.com
 t8betvip.com
 ta88.com
+ta88.org
 ta88.vip
 tai-sumvip.city
 tai.b52vn.fun
@@ -6549,6 +6586,7 @@ uw88vnn2.com
 uw88vnn3.com
 uw88vnn4.com
 uytin.8day66.com
+v.fa88.tv
 v111w.com
 v112w.com
 v121w.com
@@ -6691,6 +6729,7 @@ vn5858.com
 vn666.bet
 vn67801.com
 vn789.net
+vn86.shop
 vn88.bet
 vn88.biz
 vn88.casino
@@ -6826,6 +6865,7 @@ vz681.com
 vz683.com
 vz79.com
 vz99.app
+vz99.ws
 vz99vietnam.com
 w-sunwin.net
 w008.com
@@ -7554,6 +7594,7 @@ www.vn369lyds.com
 www.vn500.com
 www.vn666.bet
 www.vn67801.com
+www.vn86.shop
 www.vn88.bet
 www.vn88.casino
 www.vn88.club
@@ -7677,7 +7718,14 @@ xoso345.com
 xoso55.com
 xoso5678.com
 xoso6.com
+xoso66.com
+xoso66.info
 xoso66.io
+xoso66.life
+xoso66.me
+xoso66.men
+xoso66.one
+xoso66.org
 xoso6600.com
 xoso678.com
 xoso788.com
@@ -7717,6 +7765,7 @@ z3.zbet.vn
 z3.zbetvn.com
 z333666.com
 zbet.com
+zbet.fun
 zbet.me
 zbet.vn
 zbet.win
@@ -10356,9 +10405,9 @@ www.draftkings.com
 luckia.pt
 luckylandslots.com
 # Title: hostsVN Adult
-# Last modified: 03 May 2024 15:35 UTC+7
-# Version: 2405031535
-# Blocked: 3,490 domains
+# Last modified: 12 May 2024 22:46 UTC+7
+# Version: 2405122246
+# Blocked: 3,514 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10580,6 +10629,7 @@ cliphot.online
 cliphot.space
 cliphot69.blog
 cliphot69.cc
+cliphot69.life
 cliphot69.org
 cliphot69.win
 cliphotne.com
@@ -10589,6 +10639,7 @@ cliphotvn.org
 cliphubs.com
 clipkhoe.xyz
 clipkhoehang.xyz
+clipmoivn.com
 clipnong.blog
 clipnong.club
 clipnong.co
@@ -11082,6 +11133,7 @@ heodem.com
 heodem.info
 heodem.plus
 heodem.vip
+heodemz.com
 heodemz.net
 heodemz.org
 heohay.com
@@ -11100,6 +11152,7 @@ heovl.net
 heovl.tv
 heovl1.com
 heovl1.net
+heovlx.com
 heozz.net
 heyzo.pro
 hhentai.net
@@ -11186,6 +11239,7 @@ javhd.best
 javhd.bio
 javhd.charity
 javhd.contact
+javhd.exchange
 javhd.im
 javhd.lol
 javhd.moe
@@ -11193,6 +11247,7 @@ javhd.news
 javhd.ninja
 javhd.page
 javhd.services
+javhd.team
 javhd.tech
 javhd.video
 javhd.ws
@@ -11470,8 +11525,11 @@ mobiblog.bio
 mobiblog.cc
 mobiblog.io
 mobiblog.net
+mobiblog.top
 mobiblog.us
 mobiblog.vip
+mobiblogtv.com
+mobiblogxx.com
 modelviet.us
 moihay.com
 moonlive.club
@@ -12194,6 +12252,7 @@ phimvlxx.net
 phimvnxx.com
 phimvv.net
 phimx.cc
+phimx.sexmoi.dev
 phimx.xyz
 phimx69.com
 phimx69.net
@@ -12308,6 +12367,8 @@ qqlives.app
 quatvn.cc
 quatvn.club
 quatvn.fun
+quatvn.in
+quatvn.link
 quatvn.net
 quaylen.me
 quaylen.org
@@ -12482,6 +12543,7 @@ sexditnhau.pro
 sexdong.top
 sexdotz.com
 sexdu.net
+sexdunhau.com
 sexf8.com
 sexfree.club
 sexfull-hd.com
@@ -12500,8 +12562,10 @@ sexgaixinh.org
 sexgaixinh.pro
 sexgaixinh.site
 sexgay.tv
+sexgiamdoc.com
 sexhai.com
 sexhan.top
+sexhang1.org
 sexhanquoc.net
 sexhapdan.com
 sexhay.biz
@@ -12605,6 +12669,7 @@ sexmoi.buzz
 sexmoi.click
 sexmoi.co
 sexmoi.cyou
+sexmoi.dev
 sexmoi.info
 sexmoi.live
 sexmoi.online
@@ -12643,9 +12708,11 @@ sexngonz.com
 sexnguoilon.com
 sexnguoilon.one
 sexnguoithu.xyz
+sexnhanghi.com
 sexnhanh.co
 sexnhanh69.pro
 sexnhanhz.net
+sexnhanvien.com
 sexnhat.co
 sexnhat.me
 sexnhat69.pro
@@ -12709,6 +12776,7 @@ sexsung.com
 sexsuong.net
 sext.pro
 sexthailan.com
+sexthang2.com
 sexthu.top
 sexthudam.pro
 sexthudam.top
@@ -13038,6 +13106,7 @@ trumsexviet.net
 trumsexviet.org
 trumtraibao.com
 trungquocsex.com
+trungquocsex.info
 trungquocsex.net
 truongsex.pro
 truyen-hentai.com
@@ -13145,6 +13214,7 @@ tut4k.net
 tut4k.xxx
 tuyensex3x.com
 tuyetpham.xyz
+tv.mobiblogxx.com
 twtgaixinh.com
 txxx.pics
 tzqctz.com
@@ -13173,6 +13243,7 @@ videogai.xyz
 videogaigoi.xyz
 videosexnhat.top
 videosexx.net
+vie.sexhang1.org
 viet.sex
 viet69.app
 viet69.asia
@@ -13433,6 +13504,7 @@ wapsex.wordpress.com
 waptuoinoiloan.blogspot.com
 web.sexnhanh.co
 web.sexviet88.day
+web2.sexvip1.com
 webchanrau.com
 webdoitruy.com
 webgioitinh.net
@@ -13496,6 +13568,7 @@ x.phimsec1.pro
 x.phimsexsub.co
 x.phimsexsub.pw
 x.sextop1.life
+x1.trungquocsex.info
 x10.viet69.life
 x3x.club
 xackup.com
