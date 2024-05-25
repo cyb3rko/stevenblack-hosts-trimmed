@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 May 2024 23:11:18 (UTC)
+# Date: 20 May 2024 14:14:15 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 97,488
+# Number of unique domains: 97,528
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 12 May 2024 22:46 UTC+7
-# Version: 2405122246
-# Blocked: 5,562 domains
+# Last modified: 20 May 2024 16:22 UTC+7
+# Version: 2405201622
+# Blocked: 5,584 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2681,7 +2681,9 @@ ad.8live.com
 ad.8live.net
 ad.app8.top
 ad.choigem.fun
+ad.choigo88.run
 ad.choingay11b.mobi
+ad.choingay11b.vin
 ad.choingay88.com
 ad.dangkygo88.in
 ad.gamequyong.site
@@ -2923,6 +2925,7 @@ b29.cafe
 b29qc.win
 b52.me
 b52.mobi
+b52.vin
 b52.vip
 b52.win
 b52d.club
@@ -3168,12 +3171,14 @@ choigamedons.club
 choigamevua.club
 choigem.fun
 choigiaitri.net
+choigo88.run
 choihay.vip
 choihitclub.fun
 choihitclub.run
 choiiwin79.fun
 choilawin.net
 choingay11b.mobi
+choingay11b.vin
 choingay88.com
 choingayiwin.cc
 choingayiwin.top
@@ -3208,6 +3213,7 @@ comebetvn2.com
 comebetvn3.com
 comebetvn9.com
 conggamehot.fun
+conggiaitri.com
 coopbet.com
 corona999.com
 cstga.com
@@ -3308,6 +3314,7 @@ dangkyrikvip.live
 dangkyrikvip.me
 dangkyrikvip.org
 dangkyrikvip.tv
+dangkysanvip.site
 dangkythabet.com
 danhbaidoithuongizi.com
 danhloo.com
@@ -3337,6 +3344,7 @@ dk.choitet.vip
 dk.choiwin79.net
 dk.gamequyong.xyz
 dk.playgem.club
+dk.playgem.me
 dk.rikkk.net
 dk.thangiwin.org
 dk.thethaouk88.org
@@ -3684,6 +3692,7 @@ go88.live
 go88.luxury
 go88.org
 go88.study
+go88.top
 go88.tv
 go88.vip
 go888.asia
@@ -3786,6 +3795,8 @@ hstsc07cdn.com
 hucd0.com
 hx9119.com
 i.go88.org
+i.go88.top
+i.win79.fun
 i1lnr.com
 i8bet.org
 i9-bet.com
@@ -3802,6 +3813,7 @@ i9bet.com
 i9bet.llc
 i9bet.net
 i9bet.poker
+i9bet.tw
 i9bet.vip
 i9bet07.com
 i9bet1.com
@@ -4089,6 +4101,7 @@ jbo039.com
 jbo064.com
 jbo801.com
 jbo806.com
+jbodangki.com
 jboviet.com
 jbovietnam.com
 jbovn.com
@@ -5420,6 +5433,7 @@ lp.sun6.win
 lp.sunwinvn.club
 lp.taiv8.top
 lp.vip79.com
+lp.vip79.uk
 lp.vuiuk88.club
 lp.zo.club
 lp.zo1.win
@@ -5502,6 +5516,7 @@ m.five88.com
 m.five88.me
 m.fivevn.net
 m.happy9luck.com
+m.i9bet.tw
 m.i9bet75.com
 m.k8k26.com
 m.k8sport.com
@@ -5641,8 +5656,6 @@ mc.bong99.com
 mc876.com
 mcw77.com
 me88vietnam.com
-me88vn1.com
-me88vn2.com
 mec68.com
 media.1789bet.com
 media.happynb.com
@@ -5744,7 +5757,6 @@ new88.tips
 new8803.com
 new8805.com
 new8808.vip
-new88111.com
 new8884.com
 new8894.com
 new88w.com
@@ -5780,6 +5792,7 @@ nhatvip.mobi
 nhatvip.org
 nhatvip.us
 nnwud.com
+nohu.band
 nohu35.com
 nohuk8.fun
 nohuk8.info
@@ -5908,6 +5921,7 @@ play.x8vn.top
 play.yo88.net
 play.yo88.win
 play.yo88vn.vip
+play.zom8.club
 play1.son.club
 playbaowin.net
 player.ole777vietnam.com
@@ -5915,6 +5929,7 @@ player.oleviet777.com
 player.win102.com
 playgamefa88.live
 playgem.club
+playgem.me
 playgo88.asia
 playgo88.top
 playhit.biz
@@ -5968,6 +5983,7 @@ qc.789club.org
 qc.789d.club
 qc.789k.club
 qc.b52.win
+qc.conggiaitri.com
 qc.gamevipclub.fun
 qc.macau.club
 qc.manclubwin.club
@@ -6201,6 +6217,7 @@ sport9.info
 ssv288.com
 st00001.com
 st666.bid
+st666.solutions
 st666.tv
 st666.win
 st66602.com
@@ -6299,6 +6316,7 @@ t68bet.org
 t8bet999.com
 t8betvip.com
 ta88.com
+ta88.me
 ta88.org
 ta88.vip
 tai-sumvip.city
@@ -6357,6 +6375,7 @@ taigame789.club
 taigamehay.site
 taigamehayvip.vip
 taigamehot.pro
+taigamengay.click
 taigamesunwin.vin
 taigamesunwin.vip
 taigem79.net
@@ -6415,6 +6434,7 @@ taixiu.xinloiduocchua.co
 taixiumd5.taisum2.com
 taixiumd5dg.taisum2.com
 taixiusunwin.games
+taizom1.fun
 tangl0c.8day66.com
 tap88.club
 tbab395.com
@@ -6673,6 +6693,7 @@ vip11.club
 vip11.us
 vip130130.com
 vip79.com
+vip79.uk
 vip79.win
 vipbet001.org
 vipbet998.com
@@ -6957,6 +6978,7 @@ win456.cc
 win79.app
 win79.com
 win79.download
+win79.fun
 win79.live
 win79.pro
 win79.site
@@ -7409,7 +7431,6 @@ www.mb88.bet
 www.mb88.com
 www.mbx88.com
 www.mc876.com
-www.me88vn1.com
 www.megawin88.mobi
 www.mibet.com
 www.mibet.mobi
@@ -7778,6 +7799,7 @@ zo.game
 zo1.win
 zo2.win
 zo88.org
+zom8.club
 zowinvn.vip
 ztij6.com
 zvhlv.com
@@ -10405,9 +10427,9 @@ www.draftkings.com
 luckia.pt
 luckylandslots.com
 # Title: hostsVN Adult
-# Last modified: 12 May 2024 22:46 UTC+7
-# Version: 2405122246
-# Blocked: 3,514 domains
+# Last modified: 20 May 2024 16:22 UTC+7
+# Version: 2405201622
+# Blocked: 3,532 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10602,6 +10624,7 @@ choigai.xyz
 choigaigoi.com
 choitrai.com
 choitrai.net
+chongtoico.org
 chuoito.com
 clip-sex.biz
 clip3xxx.com
@@ -11142,6 +11165,7 @@ heomup.net
 heotop1.net
 heotv.net
 heoviet.com
+heovl.blog
 heovl.cc
 heovl.com
 heovl.fun
@@ -11341,6 +11365,10 @@ jizzbay.com
 jpxnx.com
 jpxnx.ink
 ka25.ru
+kakalive.app
+kakalive.show
+kakavn.live
+kakavn.mom
 kenh3x.net
 kenh3x.xxx
 kenh4.com
@@ -11859,12 +11887,14 @@ phimsex15.com
 phimsex17.com
 phimsex18.pro
 phimsex18.top
+phimsex18tv.net
 phimsex19.com
 phimsex2022.org
 phimsex21.xyz
 phimsex29.net
 phimsex2k.biz
 phimsex2k.pro
+phimsex33.com
 phimsex3d.com
 phimsex3s.pro
 phimsex3x.tv
@@ -12136,6 +12166,7 @@ phimsexporn.tv
 phimsexpro.info
 phimsexpro.me
 phimsexs.net
+phimsexs1.net
 phimsexsh.com
 phimsexsub.cc
 phimsexsub.club
@@ -12645,6 +12676,7 @@ sexjavz.com
 sexkhongche.cyou
 sexkhongche.mobi
 sexkhongche5.cyou
+sexkhongchehd.com
 sexkhongchenhatban.top
 sexkoche.org
 sexkoche.pro
@@ -12754,6 +12786,7 @@ sexpro.vip
 sexquaylen.me
 sexquaylen.org
 sexquaylen123.com
+sexs1.net
 sexsb.xyz
 sexshort.app
 sexshort.com
@@ -13368,9 +13401,11 @@ vlxx.day
 vlxx.fan
 vlxx.fun
 vlxx.gay
+vlxx.gold
 vlxx.group
 vlxx.homes
 vlxx.icu
+vlxx.im
 vlxx.info
 vlxx.io
 vlxx.kim
@@ -13388,6 +13423,7 @@ vlxx.rocks
 vlxx.run
 vlxx.sbs
 vlxx.sex
+vlxx.show
 vlxx.social
 vlxx.space
 vlxx.store
@@ -13423,6 +13459,7 @@ vlxxi.com
 vlxxjav.com
 vlxxphim.pro
 vlxxs.net
+vlxxs1.com
 vlxxsex.com
 vlxxsex.vip
 vlxxsub.net
@@ -13479,6 +13516,7 @@ vnxnxx.pro
 vnxnxx.xyz
 vnxx.app
 vnxx.me
+vnxx.moe
 vnxx.xyz
 vnxxx.biz
 vnxxx.org
@@ -13631,6 +13669,7 @@ xemphimsex.tv
 xemphimsex.vip
 xemphimsex.xyz
 xemphimsex1.com
+xemphimsex3s.net
 xemphimsexhay.pro
 xemphimsexx.me
 xemphimsexx.xyz
@@ -13848,6 +13887,7 @@ xxvip.net
 xxx-hay.pro
 xxx-phim.com
 xxx.ditnhau.cc
+xxx.sexkhongchehd.com
 xxx3x.net
 xxx8.pro
 xxxdam.xyz
