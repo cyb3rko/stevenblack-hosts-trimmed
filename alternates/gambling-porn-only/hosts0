@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 20 May 2024 14:14:26 (UTC)
+# Date: 28 May 2024 01:21:06 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 92,114
+# Number of unique domains: 92,119
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 20 May 2024 16:22 UTC+7
-# Version: 2405201622
-# Blocked: 5,584 domains
+# Last modified: 22 May 2024 15:03 UTC+7
+# Version: 2405221503
+# Blocked: 5,589 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -990,6 +990,7 @@ choingayiwin.cc
 choingayiwin.top
 choingayone88.win
 choiriikvip.today
+choison.club
 choisport.com
 choisv88.live
 choita88.club
@@ -3708,6 +3709,7 @@ play.rikgame.live
 play.rikvip.tv
 play.sbotop246.com
 play.son.club
+play.son5.club
 play.sum4.club
 play.sum5.club
 play.taib52.com
@@ -4016,6 +4018,7 @@ sol86.com
 solarbet.com
 solbet88.com
 son.club
+son5.club
 sping369.club
 sport.five88.biz
 sport.soc88.uk
@@ -4477,6 +4480,7 @@ vicplay.io
 victorwin555.com
 vicwin.vip
 vietbet.eu
+vietbet89.com
 vietlott66.com
 vietvwin.com
 vig.vietbet.eu
@@ -5536,6 +5540,7 @@ xo68.vip
 xo88.com
 xo88.fun
 xo88.info
+xo88.us
 xo88.win
 xo88moi.com
 xoi77.com
@@ -8233,8 +8238,8 @@ www.draftkings.com
 luckia.pt
 luckylandslots.com
 # Title: hostsVN Adult
-# Last modified: 20 May 2024 16:22 UTC+7
-# Version: 2405201622
+# Last modified: 22 May 2024 15:03 UTC+7
+# Version: 2405221503
 # Blocked: 3,532 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
