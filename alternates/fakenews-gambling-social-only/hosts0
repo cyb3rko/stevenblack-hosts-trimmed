@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 03 June 2024 21:08:23 (UTC)
+# Date: 14 June 2024 21:21:31 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, social
-# Number of unique domains: 13,630
+# Number of unique domains: 13,649
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 01 Jun 2024 23:16 UTC+7
-# Version: 2406012316
-# Blocked: 5,598 domains
+# Last modified: 12 Jun 2024 16:43 UTC+7
+# Version: 2406121643
+# Blocked: 5,609 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2691,12 +2691,14 @@ ad.dangkygo88.in
 ad.gamequyong.site
 ad.gamequyong.xyz
 ad.gem88.win
+ad.giaitriwin79.club
 ad.mibet.com
 ad.playhit.biz
 ad.qc789.vip
 ad.rikvip.uk
 ad.taigamengay.digital
 ad.taihit.win
+ad.viprik.click
 ad.yo88.net
 ad.yo88.win
 ad.yo88vn.com
@@ -3078,6 +3080,7 @@ bongvip.com
 bons.com
 boom66.com
 box2020.oxbetd.com
+bravo188.com
 bt9gl.com
 bum3.club
 bvthethao.com
@@ -3321,6 +3324,7 @@ dangkyrikvip.live
 dangkyrikvip.me
 dangkyrikvip.org
 dangkyrikvip.tv
+dangkyrikvip.win
 dangkysanvip.site
 dangkythabet.com
 danhbaidoithuongizi.com
@@ -3336,6 +3340,7 @@ debet.info
 debet.net
 debet.top
 debet.win
+debet79.info
 debet88.win
 deca88.com
 dfbertuah.com
@@ -3682,6 +3687,7 @@ giaitri.fun
 giaitri.tv
 giaitrimu88.com
 giaitrinet88.live
+giaitriwin79.club
 giutcohon.sin88.biz
 gnbet.vip
 go.12fifa2018.com
@@ -3803,6 +3809,7 @@ hucd0.com
 hx9119.com
 i.go88.org
 i.go88.top
+i.rik.vip
 i.win79.fun
 i1lnr.com
 i8bet.org
@@ -5422,6 +5429,7 @@ lode88.vip
 lodevip.us
 lodevn789.net
 login.dangkyrikvip.org
+login.dangkyrikvip.win
 logs.almeriaxxx.com
 long092.com
 loto188ae.com
@@ -6713,6 +6721,7 @@ vipbet998.com
 vipclub.homes
 vipclub.makeup
 vipclub.so
+viprik.click
 viprik.pro
 viu88.com
 viva88.com
@@ -7025,6 +7034,7 @@ wm88viet.com
 wm88vn.com
 wo88.ac
 wp.choigiaitri.net
+wp.debet79.info
 wp.mu9.win
 wp.nbet.vin
 wp.red88.us
@@ -7226,6 +7236,7 @@ www.blogf8bet.com
 www.bong88net.com
 www.bong99.fun
 www.boom66.com
+www.bravo188.com
 www.bwing88.com
 www.bwingmkt1.com
 www.bwingmkt8.com
@@ -7817,12 +7828,6 @@ zom8.club
 zowinvn.vip
 ztij6.com
 zvhlv.com
-
-# <http://www.top100bookmakers.com/completelist.php>
-# <https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/anti-casino-and-betting-hosts-file.txt>
-# <https://www.reddit.com/r/GlobalOffensiveGamble/comments/3d5fmr/list_of_csgo_gambling_websites/>
-# Title: Gambling hosts
-# Updated March 12, 2023
 10bet.com
 10luxury39.com
 11wickets.com
@@ -10440,6 +10445,14 @@ zpisportbk.com
 www.draftkings.com
 luckia.pt
 luckylandslots.com
+jackpotpiraten.de
+wildz.de
+thaicasinosonline.net
+www.palmsbet.com
+www.betano.bg
+www.pokerstars.bg
+everbet.bg
+slotino.bg
 # Title: Social media hosts
 # Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
 # Updated: March 24, 2024
