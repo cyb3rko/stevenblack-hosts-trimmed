@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 June 2024 02:45:47 (UTC)
+# Date: 04 July 2024 14:48:04 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 92,210
+# Number of unique domains: 92,212
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 23 Jun 2024 23:42 UTC+7
-# Version: 2406232342
-# Blocked: 5,639 domains
+# Last modified: 01 Jul 2024 10:32 UTC+7
+# Version: 2407011032
+# Blocked: 5,641 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -744,6 +744,7 @@ b52.win
 b52d.club
 b52k.club
 b52m.club
+b52vn.info
 b52vn.org
 b69.cafe
 b69.city
@@ -3257,6 +3258,7 @@ loto188az.com
 loto188vi.com
 loto66.com
 loto678.com
+lp.b52vn.info
 lp.choiriikvip.today
 lp.choitet.vip
 lp.go8vui.info
@@ -8290,8 +8292,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 23 Jun 2024 23:42 UTC+7
-# Version: 2406232342
+# Last modified: 01 Jul 2024 10:32 UTC+7
+# Version: 2407011032
 # Blocked: 3,565 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
