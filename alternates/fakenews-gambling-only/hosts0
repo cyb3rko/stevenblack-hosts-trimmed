@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 July 2024 14:47:45 (UTC)
+# Date: 11 July 2024 19:19:29 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 10,460
+# Number of unique domains: 10,482
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 01 Jul 2024 10:32 UTC+7
-# Version: 2407011032
-# Blocked: 5,641 domains
+# Last modified: 09 Jul 2024 14:16 UTC+7
+# Version: 2407091416
+# Blocked: 5,651 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2707,6 +2707,7 @@ ad.yo88vn.vip
 ads.8live.com
 ads.choingayiwin.top
 ads.dabetvip.vin
+ads.dangky789.sbs
 ads.playiwin.in
 ads.playmay88.top
 ads.taigamengay.biz
@@ -3053,6 +3054,7 @@ boc8.fun
 bogac1.com
 bogcuoc.com
 bom52.club
+bong.thethaowin.net
 bong88.cam
 bong88.com
 bong88.net
@@ -3321,6 +3323,7 @@ dangky.dailynet88.com
 dangky.go88.com
 dangky.thethaofb88.com
 dangky789.link
+dangky789.sbs
 dangkybayvip.com
 dangkybum.club
 dangkyee88.online
@@ -3593,6 +3596,7 @@ five88.vin
 five88.win
 fivevn.net
 fmapt.com
+for88.com
 fpbet.com
 fullbetvn.com
 fun1008.com
@@ -5584,6 +5588,7 @@ m.qq288.com
 m.qq8788viet.com
 m.red88.com
 m.rvbet005.com
+m.s26.lol
 m.s26bet01.com
 m.shbet.love
 m.tf88265.com
@@ -6128,7 +6133,10 @@ s1.sin88.club
 s2.sin88.biz
 s2.sin88.cc
 s2.sin88.club
+s26.lol
 s26bet.bet
+s26bet.ltd
+s26bet.org
 s26bet01.com
 s555.com
 s666bet.win
@@ -6533,6 +6541,7 @@ thethaofi88.com
 thethaouk88.org
 thethaovip.vip
 thethaovua.co
+thethaowin.net
 thevw155.com
 thk8.net
 tho77.com
@@ -7544,6 +7553,7 @@ www.rik.win
 www.rikvip.uk
 www.rikvipclub.us
 www.royal77vn.com
+www.s26.lol
 www.s9996.com
 www.s9997.com
 www.s999b.com
@@ -8194,6 +8204,7 @@ casilando.com
 casimba.com
 casineto.net
 casiniabet.com
+casinoadmiral.lt
 casino-pp.net
 casinobg.info
 casino.betway.com
@@ -8410,6 +8421,7 @@ en.betclic.com
 en.cbet.lt
 en.expekt.com
 en.topsport.lt
+en.uniclub.lt
 energybet.com
 enterbet.com
 eqraffle.com
@@ -8757,6 +8769,7 @@ majorbet.net
 majorsportsbetting.com
 malinasports.com
 mamamiabingo.com
+manoloto.lt
 mansion88.com
 mansionbet.com
 marathonbet.com
@@ -8874,6 +8887,7 @@ olybet.lt
 omniacasino.com
 onetpedia.net
 online.caliente.mx
+online.casinoadmiral.lt
 online.singaporepools.com
 onlywinners.com
 opap.gr
@@ -8984,6 +8998,7 @@ rubet.com
 rush777.com
 ru.cbet.lt
 ru.topsport.lt
+ru.uniclub.lt
 saartoto.de
 sachsenlotto.de
 safaribet.com.gh
@@ -9065,6 +9080,7 @@ sportodds.com
 sportpesa.co.tz
 sportpesa.com
 sports-gambling.com
+sports2.uniclub.lt
 sports.betway.com
 sports.br.betboo.com
 sports.bwin.com
@@ -9185,6 +9201,7 @@ trafonline.pl
 triobet.com
 ttr.casino
 turbico.com
+twinsbet.lt
 uberskins.net
 ubet.com
 ucabet.co
@@ -9192,6 +9209,7 @@ ultimate-odds.com
 unibet-42.com
 unibet.com
 unibet.com.au
+uniclub.lt
 unionbet.com
 usapriceperhead.com
 usbetting.co.za
@@ -9557,6 +9575,7 @@ www.casilando.com
 www.casimba.com
 www.casineto.net
 www.casiniabet.com
+www.casinoadmiral.lt
 www.casino-pp.net
 www.casino.org
 www.casinoandfriends.com
@@ -10030,6 +10049,7 @@ www.majorbet.net
 www.majorsportsbetting.com
 www.malinasports.com
 www.mamamiabingo.com
+www.manoloto.lt
 www.mansion88.com
 www.mansionbet.com
 www.marathonbet.co.uk
@@ -10394,12 +10414,14 @@ www.totobet24.com
 www.toxicjackpot.com
 www.triobet.com
 www.ttr.casino
+www.twinsbet.lt
 www.ubet.com
 www.ucabet.co
 www.uk-k8.com
 www.ultimate-odds.com
 www.unibet.co.uk
 www.unibet.com
+www.uniclub.lt
 www.unionbet.com
 www.usapriceperhead.com
 www.usbetting.co.za
