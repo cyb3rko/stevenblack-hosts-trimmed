@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 16 July 2024 00:39:24 (UTC)
+# Date: 21 July 2024 00:28:50 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 97,685
+# Number of unique domains: 97,690
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 15 Jul 2024 23:12 UTC+7
-# Version: 2407152312
-# Blocked: 5,688 domains
+# Last modified: 20 Jul 2024 23:09 UTC+7
+# Version: 2407202309
+# Blocked: 5,693 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3179,6 +3179,7 @@ choi99.com
 choibaionlinevn.com
 choibancadoithuong.com
 choidabanh.com
+choidebet.biz
 choidon.club
 choidonclub.club
 choigamedonclub.online
@@ -3851,6 +3852,7 @@ i9bet.app
 i9bet.bet
 i9bet.com
 i9bet.llc
+i9bet.me
 i9bet.net
 i9bet.poker
 i9bet.tw
@@ -5931,6 +5933,7 @@ play.bay789.io
 play.bay789.life
 play.bom52.club
 play.bum3.club
+play.choidebet.biz
 play.choisport.com
 play.choiwin79.net
 play.fa88.win
@@ -6579,6 +6582,7 @@ thuonghieunhacai.net
 thuongkingfun.biz
 thvwbet.com
 tienlen.8day66.com
+tienlenpoker.fun
 tienve.thethaofb88.com
 tin.11bet.net
 tin010.com
@@ -6726,6 +6730,7 @@ vaorikvip.com
 vaorikvip.net
 vb211.com
 vb777.co
+vb777.top
 vbet88.fun
 vebo.bet
 vegas79.casino
@@ -10545,8 +10550,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 15 Jul 2024 23:12 UTC+7
-# Version: 2407152312
+# Last modified: 20 Jul 2024 23:09 UTC+7
+# Version: 2407202309
 # Blocked: 3,565 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
