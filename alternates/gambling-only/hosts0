@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 21 July 2024 00:29:00 (UTC)
+# Date: 02 August 2024 19:08:01 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 8,330
+# Number of unique domains: 8,333
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 20 Jul 2024 23:09 UTC+7
-# Version: 2407202309
-# Blocked: 5,693 domains
+# Last modified: 31 Jul 2024 14:25 UTC+7
+# Version: 2407311425
+# Blocked: 5,696 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -738,6 +738,7 @@ b1388.com
 b29.bet
 b29.cafe
 b29qc.win
+b52.game
 b52.me
 b52.mobi
 b52.vin
@@ -3870,6 +3871,7 @@ qc.top88.me
 qc.top88.uk
 qc.top88.us
 qc.top88.vn
+qc.vaobet.club
 qc.vic.win
 qc.x8.club
 qc.x8.games
@@ -4531,6 +4533,7 @@ vao.vin777.blog
 vao789club.win
 vao78win.xyz
 vaob52.click
+vaobet.club
 vaoku.net
 vaorikvip.com
 vaorikvip.net
