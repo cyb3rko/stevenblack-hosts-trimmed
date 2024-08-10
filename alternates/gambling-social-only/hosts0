@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 02 August 2024 19:08:08 (UTC)
+# Date: 08 August 2024 13:24:55 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 11,554
+# Number of unique domains: 11,588
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 31 Jul 2024 14:25 UTC+7
-# Version: 2407311425
-# Blocked: 5,696 domains
+# Last modified: 06 Aug 2024 23:14 UTC+7
+# Version: 2408062314
+# Blocked: 5,730 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -722,6 +722,7 @@ app.wellviet.net
 app611.net
 appbk8.com
 appi9bet.com
+appstore.nosap.win
 apptk.app
 asiatop88.com
 asiavwin.com
@@ -749,6 +750,7 @@ b52k.club
 b52m.club
 b52vn.info
 b52vn.org
+b69.bar
 b69.cafe
 b69.city
 b77.fun
@@ -824,6 +826,7 @@ bigboss93.com
 bigk8th888.com
 bj288.com
 bj39.com
+bj88.games
 bj88vietnam.com
 bj88vn.com
 bj988.com
@@ -982,6 +985,7 @@ choi.gameb52a.me
 choi.gamingsoc88.org
 choi.playiwin.uk
 choi77.com
+choi789.link
 choi99.com
 choibaionlinevn.com
 choibancadoithuong.com
@@ -1134,6 +1138,7 @@ daman2.com
 dangky.dailynet88.com
 dangky.go88.com
 dangky.thethaofb88.com
+dangky388bet.xyz
 dangky789.link
 dangky789.sbs
 dangkybayvip.com
@@ -1186,6 +1191,7 @@ dk.thethaouk88.org
 dk.thethaovua.co
 dk.topcc88.me
 dk.vaorikvip.net
+dk.zoplay.top
 dk8.games
 dk8.link
 dk801.com
@@ -1544,6 +1550,7 @@ go88l.top
 go88p.com
 go88r.pro
 go88s.tv
+go88tv.win
 go88vn.live
 go88vn.vip
 go88x.club
@@ -3158,6 +3165,7 @@ kingfunsomot.com
 kingman.fun
 kingvip99.com
 kkfffddd.com
+km.choi789.link
 km.gamingsoc88.one
 km.playmanclub.vin
 km.thethaob52.org
@@ -3291,6 +3299,7 @@ lp.sunwinvn.club
 lp.taiv8.top
 lp.vip79.com
 lp.vip79.uk
+lp.vip79.vip
 lp.vip79gamebai.vip
 lp.vuiuk88.club
 lp.zo.club
@@ -3658,6 +3667,7 @@ nohu.band
 nohu35.com
 nohuk8.fun
 nohuk8.info
+nosap.win
 nowbetvn.com
 nslokups.com
 nt7cd.com
@@ -3665,6 +3675,7 @@ nuoigada.com
 nxb8.com
 oi8jg.com
 ojr6n.com
+ok388.tv
 okcado.com
 okcado.org
 okvip.life
@@ -3764,13 +3775,16 @@ play.lo88.vin
 play.loc789.club
 play.manclub.vin
 play.nemo.vin
+play.nosap.win
 play.playiwin.biz
 play.rik88.life
 play.rikgame.live
+play.rikvip.services
 play.rikvip.tv
 play.sbotop246.com
 play.son.club
 play.son5.club
+play.sum27.club
 play.sum4.club
 play.sum5.club
 play.taib52.com
@@ -3780,6 +3794,7 @@ play.top88.vn
 play.vaob52.click
 play.vic.win
 play.vip79.com
+play.vip79.vip
 play.vuigiaitri.online
 play.win79.vip
 play.win79d.com
@@ -3935,6 +3950,8 @@ rikgame.live
 rikk.us
 rikkk.net
 rikvip.fun
+rikvip.property
+rikvip.services
 rikvip.tv
 rikvip.uk
 rikvip.us
@@ -3982,6 +3999,7 @@ s999e.com
 s999g.com
 s999h.com
 saigonbet.net
+sam86.zone
 sam86vip.org
 sam86vip.pro
 sam86vip.tv
@@ -3989,6 +4007,8 @@ sam86vip.vin
 samvip.bet
 sanos.fun
 sanvip.club
+saowin.ink
+saowin.plus
 sasa889.com
 sbc2888.live
 sbc31.com
@@ -4117,8 +4137,11 @@ stby.com
 su789.win
 sukien.fcb88.com
 sukiensh.online
+sum.club
+sum27.club
 sum4.club
 sum5.club
+sumclub1.xyz
 sun.to
 sun.win
 sun13.win
@@ -4126,7 +4149,9 @@ sun14win.win
 sun15.win
 sun52.bid
 sun52.click
+sun52.cloud
 sun52.fun
+sun52.link
 sun52.live
 sun52.site
 sun52.tv
@@ -4200,6 +4225,7 @@ ta88.org
 ta88.vip
 tai-sumvip.city
 tai.b52vn.fun
+tai.b69.bar
 tai.boc8.fun
 tai.do99.site
 tai.fa88.win
@@ -4223,6 +4249,7 @@ tai.rikvip.tv
 tai.rikvip.us
 tai.rikvip.vip
 tai.rikvip.win
+tai.sam86.zone
 tai.samvip.bet
 tai.son.club
 tai.taisum2.com
@@ -4239,8 +4266,10 @@ tai789.win
 tai9606.com
 tai99vin.net
 taib29.cafe
+taib52.bet
 taib52.club
 taib52.com
+taib52.dev
 taib52.vin
 taib69.cafe
 taiboc.fun
@@ -4283,7 +4312,9 @@ taimacao.club
 taimacao99.club
 taimacao99.shop
 taimacau.club
+taimanclub.app
 taimanclub.com
+taimanvip.vip
 tainbet.net
 taiok88.app
 taiqqlive.pro
@@ -4304,6 +4335,7 @@ taisum.io
 taisum1.club
 taisum2.com
 taisumvip6.city
+taisun52.fun
 taisun52.live
 taisunwin.live
 taitx1.club
@@ -4590,6 +4622,7 @@ vip11.us
 vip130130.com
 vip79.com
 vip79.uk
+vip79.vip
 vip79.win
 vip79gamebai.vip
 vipbet001.org
@@ -5718,6 +5751,7 @@ zo1.win
 zo2.win
 zo88.org
 zom8.club
+zoplay.top
 zowinvn.vip
 ztij6.com
 zvhlv.com

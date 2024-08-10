@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 02 August 2024 19:07:58 (UTC)
+# Date: 08 August 2024 13:24:45 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn, social
-# Number of unique domains: 89,360
+# Number of unique domains: 89,362
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult
-# Last modified: 31 Jul 2024 14:25 UTC+7
-# Version: 2407311425
-# Blocked: 3,565 domains
+# Last modified: 06 Aug 2024 23:14 UTC+7
+# Version: 2408062314
+# Blocked: 3,567 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4832,6 +4832,7 @@ subjavhd.net
 subjavz.com
 sugababy.xyz
 sugarbabi.com
+suongvl.cc
 swebcam.cam
 t.htvncdn.net
 taianhsex.com
@@ -5223,6 +5224,7 @@ vlxx.kim
 vlxx.la
 vlxx.lat
 vlxx.live
+vlxx.lol
 vlxx.me
 vlxx.media
 vlxx.men
