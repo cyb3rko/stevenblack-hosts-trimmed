@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 20 August 2024 23:32:38 (UTC)
+# Date: 30 August 2024 23:18:28 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn, social
-# Number of unique domains: 95,584
+# Number of unique domains: 95,614
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 19 Aug 2024 16:18 UTC+7
-# Version: 2408191618
-# Blocked: 5,756 domains
+# Last modified: 30 Aug 2024 10:36 UTC+7
+# Version: 2408301036
+# Blocked: 5,786 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -159,6 +159,7 @@
 1xbet88vn.net
 1xbetvn.com
 1xlite-564950.top
+2024xemwc.com
 20betvnd.com
 221vw.com
 2222039.com
@@ -481,6 +482,7 @@ aa88.in
 abuvn.cc
 access.bcb80.com
 access.sbc31.com
+account.2024xemwc.com
 account.w88ac.com
 account.w88club.com
 account.w88hn.com
@@ -789,6 +791,9 @@ bayvip247.page
 bayvip247.win
 bcb80.com
 beb77.com
+ben.bet
+benbet.app
+benbet.com
 best.8dayvn888.com
 bestcacuoc8.com
 bestk8.com
@@ -1014,6 +1019,7 @@ choihay.vip
 choihitclub.fun
 choihitclub.run
 choiiwin79.fun
+choiiwin79.vip
 choilawin.net
 choingay11b.mobi
 choingay11b.vin
@@ -1045,6 +1051,7 @@ clubk8vn.com
 cmd368max.com
 cmd368t.com
 cmd368tip.com
+cmgw.2024xemwc.com
 cms.v79top.com
 cms.vh79.com
 cnamec.com
@@ -1104,6 +1111,7 @@ d9bet09.com
 d9bet38.com
 d9bet68.com
 d9bet88.com
+da88.com
 da88.pro
 dabanh.thethaofb88.com
 dabet.cc
@@ -1193,6 +1201,7 @@ diendansohoc.net
 diq9r.com
 dj5995.wbet58.com
 dk.bongvip.website
+dk.choiiwin79.vip
 dk.choitet.vip
 dk.choiwin79.net
 dk.gamequyong.xyz
@@ -1355,6 +1364,7 @@ fabet77.net
 fabet88.net
 fabetvn.com
 fan365.win
+fb.giaitriwin79.club
 fb88.com
 fb88.link
 fb88aff.com
@@ -1460,6 +1470,8 @@ fxbg7.com
 g1388.com
 g9vip.com
 ga179.com
+ga836.com
+ga939.com
 ga98.net
 gachoic1.com
 gachoiviet.com
@@ -1577,6 +1589,7 @@ goal68.top
 goal86.top
 god55.zone
 god55viet.com
+god66.win
 gogobolaku.com
 gomy188.com
 goplayk8.com
@@ -1625,6 +1638,7 @@ hi88vip7.com
 hi88vip8.com
 hiephoilangnghevietnam.com
 hit.club
+hit.game
 hit1.club
 hit1.co
 hit21.club
@@ -1634,6 +1648,8 @@ hit38.co
 hit68.net
 hitclub.top
 hitclub.win
+hitlub.fun
+hitlub.net
 hitpro.run
 hl8.daily123hl8.com
 hl8atm.com
@@ -1664,6 +1680,7 @@ hx9119.com
 i.go88.org
 i.go88.top
 i.rik.vip
+i.win79.com
 i.win79.fun
 i1lnr.com
 i8bet.org
@@ -3302,6 +3319,7 @@ loto188az.com
 loto188vi.com
 loto66.com
 loto678.com
+love580.vip
 lp.b52vn.info
 lp.choiriikvip.today
 lp.choitet.vip
@@ -3983,6 +4001,8 @@ rikvipp.net
 rio66qc.club
 ritq4.com
 royal77vn.com
+rr88.link
+rr88.live
 rs88.online
 rubik88.com
 rvbet005.com
@@ -3993,6 +4013,7 @@ s.388bet.vip
 s.8xbet.xyz
 s.p3vn.co
 s.sv66c.com
+s.topzo.club
 s0106.com
 s0kn5.com
 s1.sin88.biz
@@ -4501,6 +4522,10 @@ topcc88.me
 topdoithuong.net
 topnhacaihot.com
 topnohu.com
+topzo.club
+topzo.com
+topzo.top
+topzo.vip
 tpviet66.com
 tpviet88.com
 tracking.fabet.vip
@@ -4913,6 +4938,7 @@ web.0000130.com
 web.130casino.com
 web.68rich.com
 web.hitclub.top
+web.hitlub.fun
 web.macau.club
 web.macauclub.fun
 web.mayclub.net
@@ -4921,6 +4947,7 @@ web.nhatvip.net
 web.taiv8.com
 web.taiv8.top
 web.top88.vip
+web.topzo.com
 web.vicplay.io
 web.zo.game
 web.zowinvn.vip
@@ -5024,6 +5051,7 @@ www.157win.com
 www.168kbet.com
 www.188thethao.com
 www.1tamtam.com
+www.2024xemwc.com
 www.20betvnd.com
 www.2277789.com
 www.228kbet.com
@@ -5461,6 +5489,7 @@ www.rik.win
 www.rikvip.uk
 www.rikvipclub.us
 www.royal77vn.com
+www.rr88.live
 www.s26.lol
 www.s9996.com
 www.s9997.com
@@ -5732,6 +5761,7 @@ xoso9988.com
 xosobet.com
 xs638.com
 xstp88.com
+xvipwin.info
 y6.casino
 y6top.com
 ybbbet.com
@@ -8419,8 +8449,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 19 Aug 2024 16:18 UTC+7
-# Version: 2408191618
+# Last modified: 30 Aug 2024 10:36 UTC+7
+# Version: 2408301036
 # Blocked: 3,589 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
