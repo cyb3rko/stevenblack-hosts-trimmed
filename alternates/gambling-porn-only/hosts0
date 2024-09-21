@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 13 September 2024 17:51:36 (UTC)
+# Date: 16 September 2024 19:21:37 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 95,485
+# Number of unique domains: 95,497
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 06 Sep 2024 10:33 UTC+7
-# Version: 2409061033
-# Blocked: 5,799 domains
+# Last modified: 16 Sep 2024 10:40 UTC+7
+# Version: 2409161040
+# Blocked: 5,811 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -229,6 +229,7 @@
 63wan.com
 6623.support
 6677444.com
+6686.vn
 6686vn76.com
 668dg.net
 668kbet.com
@@ -894,6 +895,9 @@ bong88net.com
 bong88page.com
 bong88vivaw88.com
 bong90.bet
+bong90.com
+bong90.life
+bong90.tech
 bong99.cc
 bong99.com
 bong99.fun
@@ -1182,11 +1186,13 @@ dbet68.com
 dbthethao.run
 dd7bet.me
 debet.bet
+debet.cc
 debet.club
 debet.com
 debet.info
 debet.net
 debet.top
+debet.uk
 debet.win
 debet79.info
 debet88.win
@@ -1513,6 +1519,7 @@ gamequyong.site
 gamequyong.xyz
 gamerikvip.live
 games.sin88.biz
+gameta88.me
 gamevip.info
 gamevipclub.fun
 gamevipclub.us
@@ -3828,6 +3835,7 @@ play.sum27.club
 play.sum4.club
 play.sum5.club
 play.taib52.com
+play.taingayking52.fun
 play.top88.uk
 play.top88.us
 play.top88.vn
@@ -3972,6 +3980,7 @@ red88.us
 red88.vin
 red88.vip
 red88e.com
+reg.gameta88.me
 reg.lode88j.cc
 reg.playiwin.site
 resources.bong90.bet
@@ -4366,6 +4375,7 @@ taimanclub.app
 taimanclub.com
 taimanvip.vip
 tainbet.net
+taingayking52.fun
 taiok88.app
 taiqqlive.pro
 taisanvip.net
@@ -4698,6 +4708,7 @@ viva88bet.win
 vjprok8.com
 vlott88.com
 vn-lm.jbovietnam.com
+vn.app
 vn.bway88vietnam.com
 vn.ku6101.net
 vn.ku6106.net
@@ -4780,6 +4791,7 @@ vnloto.vip
 vnmx66.com
 vnn138.com
 vnn8d.com
+vnon.app
 vnpro88.com
 vnq8.bet
 vnq8.com
@@ -8462,8 +8474,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 06 Sep 2024 10:33 UTC+7
-# Version: 2409061033
+# Last modified: 16 Sep 2024 10:40 UTC+7
+# Version: 2409161040
 # Blocked: 3,593 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
