@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 24 October 2024 00:30:32 (UTC)
+# Date: 31 October 2024 00:35:23 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 90,104
+# Number of unique domains: 90,105
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 23 Oct 2024 22:07 UTC+7
-# Version: 2410232207
-# Blocked: 5,857 domains
+# Last modified: 25 Oct 2024 10:02 UTC+7
+# Version: 2410251002
+# Blocked: 5,858 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5972,6 +5972,7 @@ one88.club
 one88.com
 one88.fun
 one88.me
+one88.pro
 one88.top
 one88.tv
 one88.uk
@@ -10714,8 +10715,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 23 Oct 2024 22:07 UTC+7
-# Version: 2410232207
+# Last modified: 25 Oct 2024 10:02 UTC+7
+# Version: 2410251002
 # Blocked: 3,598 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
