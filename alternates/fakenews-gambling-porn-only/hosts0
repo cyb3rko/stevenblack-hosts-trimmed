@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 31 October 2024 00:35:21 (UTC)
+# Date: 08 November 2024 02:42:57 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 86,889
+# Number of unique domains: 86,907
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 25 Oct 2024 10:02 UTC+7
-# Version: 2410251002
-# Blocked: 5,858 domains
+# Last modified: 03 Nov 2024 16:26 UTC+7
+# Version: 2411031626
+# Blocked: 5,873 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2694,6 +2694,7 @@ ad.choingay11b.mobi
 ad.choingay11b.vin
 ad.choingay88.com
 ad.choiyo88.co
+ad.da88vn.win
 ad.dangkygo88.in
 ad.gamequyong.site
 ad.gamequyong.xyz
@@ -3898,6 +3899,7 @@ hplay.fabet.us
 hstsc07cdn.com
 hucd0.com
 hx9119.com
+i.b52.club
 i.go88.org
 i.go88.top
 i.rik.vip
@@ -5558,6 +5560,7 @@ lp.mayclub.net
 lp.playrik79.site
 lp.rikvip.tv
 lp.rikvipp.net
+lp.sieub52.vip
 lp.sun6.win
 lp.sunwinvn.club
 lp.taiv8.top
@@ -5888,9 +5891,12 @@ nbet.vin
 nbet.vip
 nbet.win
 nbet88.org
+ne88.bet
 nearom.com
 nemo.vin
 net88.ac
+net88.men
+net88.run
 net88.tv
 net88.vip
 new.vx88.com
@@ -5906,6 +5912,7 @@ new8884.com
 new8894.com
 new88w.com
 newk8.live
+news.ne88.bet
 nex8vn.com
 nextkhuyenmai.com
 ngwv0.com
@@ -5933,6 +5940,7 @@ nhat.bet
 nhat.game
 nhat.it
 nhat1.club
+nhat9.vip
 nhatvip.mobi
 nhatvip.org
 nhatvip.us
@@ -6059,6 +6067,7 @@ play.rikvip.tv
 play.sbotop246.com
 play.son.club
 play.son5.club
+play.son8.club
 play.sum27.club
 play.sum4.club
 play.sum5.club
@@ -6106,6 +6115,7 @@ playmanclub.vin
 playmay88.top
 playmay88.vin
 playrik79.site
+playson.link
 playuk88.win
 playv8.com
 playv8.vip
@@ -6318,6 +6328,7 @@ shbet40.com
 shbet88.page
 shviet.com
 shviet0.com
+sieub52.vip
 sieubomtan.com
 sieubong88.info
 sieukeo.live
@@ -6398,6 +6409,7 @@ solarbet.com
 solbet88.com
 son.club
 son5.club
+son8.club
 sping369.club
 sport.five88.biz
 sport.soc88.uk
@@ -6429,6 +6441,7 @@ sukien.fcb88.com
 sukiensh.online
 sum.club
 sum27.club
+sum30.club
 sum4.club
 sum5.club
 sumclub1.xyz
@@ -6835,6 +6848,7 @@ uw88vnn3.com
 uw88vnn4.com
 uytin.8day66.com
 v.fa88.tv
+v.nhat9.vip
 v111w.com
 v112w.com
 v121w.com
@@ -7195,6 +7209,7 @@ we1winvn.com
 web.0000130.com
 web.130casino.com
 web.68rich.com
+web.choigametip.org
 web.hit.club
 web.hitclub.top
 web.hitlub.fun
@@ -10715,9 +10730,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 25 Oct 2024 10:02 UTC+7
-# Version: 2410251002
-# Blocked: 3,598 domains
+# Last modified: 03 Nov 2024 16:26 UTC+7
+# Version: 2411031626
+# Blocked: 3,601 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10744,6 +10759,7 @@ slotino.bg
 24hchudu.com
 24hphimsex.com
 28363.one
+2click.goidao.com
 2jav.net
 2ola.pro
 303cc.xyz
@@ -10767,6 +10783,7 @@ slotino.bg
 5sex.maulon.pro
 6666.net
 6789live.com
+69chichgaixinh.one
 7776666.net
 7sex.org
 820mm.live
@@ -13860,6 +13877,7 @@ vnphimsex.info
 vnshow.cc
 vntopg88.live
 vntopg88.vip
+vnvn77.com
 vnxnxx.cc
 vnxnxx.pro
 vnxnxx.xyz
