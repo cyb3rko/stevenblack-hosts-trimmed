@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 14 November 2024 15:29:55 (UTC)
+# Date: 19 November 2024 21:35:44 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 90,293
+# Number of unique domains: 90,323
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,8 +2208,8 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 14 Nov 2024 10:51 UTC+7
-# Version: 2411141051
+# Last modified: 16 Nov 2024 16:22 UTC+7
+# Version: 2411161622
 # Blocked: 5,932 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -10789,9 +10789,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 14 Nov 2024 10:51 UTC+7
-# Version: 2411141051
-# Blocked: 3,712 domains
+# Last modified: 16 Nov 2024 16:22 UTC+7
+# Version: 2411161622
+# Blocked: 3,742 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10860,6 +10860,7 @@ allx.tube
 alogai24.xyz
 alogaidep.xyz
 alogaigoi.com
+alogaigoidem.com
 alogirlxinh.com
 alohang.xyz
 alohi.xyz
@@ -11204,6 +11205,7 @@ duccai.xyz
 dutrai.com
 emdau.pro
 emgai.net
+emgaigoi.com
 emgaixinh.one
 emmiu.art
 emodayne.live
@@ -11260,12 +11262,14 @@ gaigoi.app
 gaigoi.icu
 gaigoi.link
 gaigoi.live
+gaigoi.win
 gaigoi.ws
 gaigoi18.biz
 gaigoi18.site
 gaigoi2.checkerviet.cc
 gaigoi24h.net
 gaigoi33.xyz
+gaigoi79.top
 gaigoi9.com
 gaigoialo.com
 gaigoiangiang.xyz
@@ -11273,6 +11277,7 @@ gaigoiaz.xyz
 gaigoibaclieu.xyz
 gaigoibentre.xyz
 gaigoibienhoadongnai.xyz
+gaigoibinhduong.vncns.com
 gaigoicamau.xyz
 gaigoicantho.xyz
 gaigoicave.xyz
@@ -11289,8 +11294,11 @@ gaigoidep.pro
 gaigoidep.site
 gaigoidep.xyz
 gaigoidongthap.xyz
+gaigoidulich.info
 gaigoigiare.com
 gaigoihaiphong.gonevis.com
+gaigoihaiphong.vncns.com
+gaigoihanoi.club
 gaigoihanoi.icu
 gaigoihanoi.info
 gaigoihanoi.net
@@ -11321,15 +11329,21 @@ gaigoilauxanh.us
 gaigoilauxanh.xyz
 gaigoilongan.xyz
 gaigoimientay.xyz
+gaigoingon.net
+gaigoinhanh.ggvn.me
+gaigoinhanh1.com
 gaigoinhatrang.com
 gaigoinhatrang.link
 gaigoinhatrang.xyz
+gaigoiok.com
 gaigoionline.click
 gaigoionline.info
 gaigoionline.link
 gaigoionline.live
 gaigoionline.xyz
 gaigoipho.xyz
+gaigoiquanhday.net
+gaigoisaigon.vncns.com
 gaigoisaigon.xyz
 gaigoisinhvien.xyz
 gaigoisoctrang.xyz
@@ -11343,6 +11357,7 @@ gaigoituoi18.fun
 gaigoituoi18.link
 gaigoituoi18.xyz
 gaigoiviet.info
+gaigoivietnamx.com
 gaigoivinhlong.xyz
 gaigoivip.info
 gaigoivip.live
@@ -11351,9 +11366,12 @@ gaigoivip.pro
 gaigoivip.site
 gaigoivip247.com
 gaigoivip2k.com
+gaigoivipvn.com
 gaigoivn.club
+gaigoix.com
 gaigoixinh.me
 gaigoixx.xyz
+gaigoiz.com
 gaigu.net
 gaigu.to
 gaigu.xyz
@@ -11362,11 +11380,14 @@ gaigu26.tv
 gaigu31.tv
 gaigu6.tv
 gaigu7.tv
+gaigu8.com
 gaigu8.tv
+gaigutv.club
 gaigutv.net
 gaigutv.org
 gaigutv.top
 gaigutv.vip
+gaiguvietnam1.com
 gaihongdao.xyz
 gaikhoehang.com
 gaikiemdinh.fun
@@ -11462,8 +11483,12 @@ hangdep18.com
 hangkhung.club
 hangngon.pro
 hangto.club
+hanoi4.vipviet.net
 hanoivip.comvn.me
 hanoivip.vnav.me
+hanoivip.vnzz.me
+hanoivip1.vncns.com
+hanoivip2.vncns.com
 hardcore3000.com
 hay3x.tv
 hay3x.vip
@@ -11838,6 +11863,7 @@ kieunuvadaigia.link
 kieunuvadaigia.live
 kieunuvadaigia.xyz
 kieunuviet.xyz
+kieunuxinh.net
 kphimsex.xyz
 ktv.bio
 kute3x.net
@@ -11882,6 +11908,7 @@ loandam.net
 loanluan.top
 loanluanx.com
 loclipnong.com
+loclipnong.xyz
 loclipsex.net
 lon2k.com
 lon88.com
@@ -13576,6 +13603,7 @@ thiendia88.org
 thiendia99.co
 thiendia99.net
 thiendiatruyen.com
+thienvadia.icu
 thienvadia.net
 thudam.pro
 thudam.vip
@@ -13860,6 +13888,7 @@ vietxinh.net
 vietxnxx.com
 vietxx.com
 vietxx.info
+vip1.vnav.me
 vip2.viet69.studio
 vip3x.me
 vip9x.pro
@@ -14102,6 +14131,7 @@ www.anhsex18.biz
 www.anhsex18.com
 www.anhsex18.net
 www.anhsexvip.me
+www.apptimgai.com
 www.buomtv.app
 www.buomtv.tv
 www.phim18k.com
