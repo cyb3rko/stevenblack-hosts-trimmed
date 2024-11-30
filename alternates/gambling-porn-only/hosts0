@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 19 November 2024 21:35:54 (UTC)
+# Date: 28 November 2024 21:48:07 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 84,913
+# Number of unique domains: 85,142
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling
-# Last modified: 16 Nov 2024 16:22 UTC+7
-# Version: 2411161622
-# Blocked: 5,932 domains
+# Last modified: 27 Nov 2024 10:59 UTC+7
+# Version: 2411271059
+# Blocked: 6,027 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -137,6 +137,7 @@
 188asia.bet
 188asport.com
 188best188.net
+188bet.pro
 188betcn2.com
 188bowls.com
 188bst.com
@@ -169,6 +170,7 @@
 228kbet.com
 22ee88.com
 22zalo.com
+23win.win
 23winvn.com
 2826.bet
 29999y.com
@@ -292,6 +294,7 @@
 789b.win
 789bet.com
 789bet.run
+789bet.vip
 789beta.com
 789betf.com
 789betj.com
@@ -309,6 +312,10 @@
 789d.club
 789k.club
 789v.club
+789vg.net
+789vg.pro
+789vg.today
+789vg.top
 789winchan.com
 789x.club
 78win01.com
@@ -316,6 +323,7 @@
 78win07.com
 78win09.com
 799999.cc
+79king.wtf
 79luckyclub.fun
 79sodo.com
 79sun.bet
@@ -483,6 +491,7 @@
 99vn.bet
 9ahf0.com
 9b992.com
+9bet.net
 9e3c.com
 a100.by88.one
 a2xik.com
@@ -742,6 +751,8 @@ app.vx88.com
 app.wellviet.net
 app611.net
 appbk8.com
+appdaga.app
+appdaga.online
 appi9bet.com
 appstore.nosap.win
 apptk.app
@@ -1080,6 +1091,7 @@ cms.v79top.com
 cms.vh79.com
 cnamec.com
 coderiik.win
+codetet.asia
 comebet.xyz
 comebetvn1.com
 comebetvn10.com
@@ -1186,9 +1198,11 @@ daman2.com
 dangky.dailynet88.com
 dangky.go88.com
 dangky.thethaofb88.com
+dangky.tysoeuro.online
 dangky388bet.xyz
 dangky789.link
 dangky789.sbs
+dangky789.vin
 dangkybayvip.com
 dangkybum.club
 dangkyee88.online
@@ -1201,6 +1215,7 @@ dangkyrikvip.tv
 dangkyrikvip.win
 dangkysanvip.site
 dangkythabet.com
+dangkywi88.org
 danhbaidoithuongizi.com
 danhloo.com
 datcuoc.thethaofb88.com
@@ -1240,6 +1255,7 @@ dk.gamequyong.xyz
 dk.playgem.club
 dk.playgem.me
 dk.rikkk.net
+dk.sieutaixiu79.club
 dk.thangiwin.org
 dk.thethaouk88.org
 dk.thethaovua.co
@@ -1552,6 +1568,8 @@ gamedoithuong69.com
 gamehot88.fun
 gameiwin.asia
 gameiwin.vip
+gameiwin68.app
+gameiwin68.link
 gamek8club.com
 gamequyong.site
 gamequyong.xyz
@@ -1595,6 +1613,7 @@ giaitrimu88.com
 giaitrinet88.live
 giaitriwin79.club
 giutcohon.sin88.biz
+gk88.xyz
 gnbet.vip
 go.12fifa2018.com
 go.bcb80.com
@@ -1606,6 +1625,7 @@ go88.ca
 go88.cam
 go88.club
 go88.com
+go88.contractors
 go88.im
 go88.info
 go88.live
@@ -1700,6 +1720,7 @@ hit32.club
 hit38.club
 hit38.co
 hit68.net
+hitclub.blue
 hitclub.cafe
 hitclub.com
 hitclub.salon
@@ -1744,6 +1765,7 @@ i.win79.com
 i.win79.fun
 i1lnr.com
 i8bet.org
+i8fun.cc
 i9-bet.com
 i9.bet
 i9.hethongxacthuc.com
@@ -1871,6 +1893,7 @@ id.oppa888.com
 id.sv388.mobi
 id.w88.vin
 im99.com
+image.lu88.co
 images.388bet.vip
 images.ku6110.net
 images.ku6131.net
@@ -1916,6 +1939,7 @@ iwin68m.com
 iwin888.com
 iwinapk.link
 iwinapplink.club
+iwinclub.agency
 iwinclub.onl
 iwinclub.win
 iwinclubvn.com
@@ -2060,12 +2084,14 @@ jinbo989898.com
 jingbets.com
 jjfungame.com
 jss77.net
+jun88.buzz
 jun88.com
 jun88.tv
 jun889.vip
 jun88bet.biz
 jun88bet.xyz
 jun88k.com
+jun88trangchu.net
 jun88w.com
 justk8.com
 k1.uk88.top
@@ -3234,6 +3260,7 @@ keonhacai3.com
 keotot.net
 ketquasoso.net
 khamphasampham.cc
+khuyenmai.cloud
 khuyenmaibw.com
 kidslovemartialartsomahane.com
 kimsa.us
@@ -3291,6 +3318,7 @@ ku6107.net
 ku6110.net
 ku6131.net
 ku777bet.com
+ku88.win
 ku888.one
 ku998.net
 kubet.ac
@@ -3397,6 +3425,7 @@ lp.b52vn.info
 lp.choiriikvip.today
 lp.choitet.vip
 lp.da88vn.win
+lp.dangkywi88.org
 lp.go8vui.info
 lp.macauclub.fun
 lp.mayclub.net
@@ -3423,6 +3452,7 @@ lt992.com
 lt995.com
 lt997.com
 lu88.co
+lu88.com
 luciu.shop
 luck6.com
 luck8.com
@@ -3634,6 +3664,7 @@ may88.win
 may88vn.top
 mayclub.net
 mayman.vuabai9.com
+mb66.com
 mb88.bet
 mb88.com
 mbx88.com
@@ -3658,11 +3689,36 @@ mig8vn.com
 minicasino.io
 minigame.vnloto.com
 minivn.com
+miso88.bet
+miso88.boats
+miso88.bz
+miso88.cam
+miso88.center
 miso88.com
+miso88.com.ph
+miso88.cool
+miso88.de
+miso88.email
+miso88.fit
+miso88.homes
+miso88.ink
+miso88.io
+miso88.life
+miso88.love
+miso88.ltd
+miso88.my
 miso88.net
+miso88.nl
 miso88.org
+miso88.pics
 miso88.red
+miso88.review
 miso88.site
+miso88.store
+miso88.watch
+miso88.work
+miso88.xyz
+miso88e.com
 missbet.com
 mix79.vip
 mk.support
@@ -3743,6 +3799,9 @@ nbet88.org
 ne88.bet
 nearom.com
 nemo.vin
+neo79.org
+neo79.space
+neo79.us
 net88.ac
 net88.men
 net88.run
@@ -3902,6 +3961,7 @@ play.hit1.co
 play.hit38.club
 play.hit38.co
 play.hit68.net
+play.hitclub.blue
 play.horse79.live
 play.im99.com
 play.iwin.net
@@ -4022,6 +4082,7 @@ qc.nhat.bet
 qc.nhat.game
 qc.nhat.it
 qc.playmanclub.uk
+qc.tai789.icu
 qc.taimacau.club
 qc.thethao88.vin
 qc.top88.me
@@ -4148,6 +4209,9 @@ s999d.com
 s999e.com
 s999g.com
 s999h.com
+sa88.fans
+sa88.ltd
+sa88.my
 saigonbet.net
 sam86.zone
 sam86vip.org
@@ -4186,6 +4250,7 @@ sieub52.vip
 sieubomtan.com
 sieubong88.info
 sieukeo.live
+sieutaixiu79.club
 sin88.bet
 sin88.biz
 sin88.cc
@@ -4241,6 +4306,7 @@ socket.debet.win
 soco88.com
 socvip.com
 socvip9.club
+sodo.bond
 sodo.host
 sodo02.com
 sodo100.com
@@ -4254,6 +4320,8 @@ sodo15.com
 sodo3839.com
 sodo66.app
 sodo66.com
+sodo66.game
+sodo66.tours
 sodo668.net
 sodo678.com
 sodo6868.com
@@ -4287,6 +4355,7 @@ static.fabet.us
 static.fabet.vip
 static.fabetvn.com
 static.hi88.de
+static.lu88.com
 static.lucky88.com
 static.vx88.com
 static2.8live.com
@@ -4422,6 +4491,7 @@ tai.win79.vip
 tai.yo88vn.us
 tai.you88.vin
 tai567live.vip
+tai789.icu
 tai789.net
 tai789.vip
 tai789.win
@@ -4448,6 +4518,7 @@ taigame789.club
 taigamehay.site
 taigamehayvip.vip
 taigamehot.pro
+taigameiwin68.club
 taigamengay.biz
 taigamengay.click
 taigamengay.digital
@@ -4455,6 +4526,7 @@ taigamengay.pw
 taigameslotsumvip50k.info
 taigamesunwin.vin
 taigamesunwin.vip
+taigameviet.mobi
 taigem79.net
 taigem79.win
 taigenvip.club
@@ -4470,6 +4542,7 @@ taiiwin.club
 taiiwin.vin
 taiiwinclub.cc
 taiiwinclub.vip
+taikhoan.tongdaga.me
 taikufun.com
 taimacao.club
 taimacao99.club
@@ -4530,6 +4603,7 @@ tdtc.fun
 tdtc.vn
 tdtcyy.com
 tdtczz.com
+tele789.net
 tf2022v.com
 tf88265.com
 tf88632.com
@@ -4605,6 +4679,8 @@ tjb15.net
 tjb22.net
 tk326.com
 tk777.vip
+tk88.family
+tk88.game
 tk88.in
 tk88.la
 tk88.rocks
@@ -4629,6 +4705,7 @@ tk88q.com
 tk88s.com
 to188xj.com
 tobet88.net
+tongdaga.me
 tongga88.com
 tool.mibet.com
 top.bet20.bet
@@ -4683,6 +4760,7 @@ tx.socvip.com
 tx.socvip9.club
 tx1.vip
 tydo88.com
+tysoeuro.online
 tz.bet20.bet
 tzzxt.com
 ud1a.com
@@ -4789,6 +4867,7 @@ vin68.com
 vin777.blog
 vin777.co
 vin777.work
+vin88.com
 vin999.fun
 vina88.net
 vinalottery.com
@@ -4817,6 +4896,8 @@ vipclub.so
 vipgame.cloud
 viprik.click
 viprik.pro
+vipsodo.info
+vipsodo.top
 viu88.com
 viva88.com
 viva88.net
@@ -4939,8 +5020,21 @@ vua2.club
 vua88.club
 vuabai9.com
 vuabai9vn.com
+vuabet.com
+vuabet88.agency
+vuabet88.app
+vuabet88.cloud
+vuabet88.cx
+vuabet88.dev
+vuabet88.gold
+vuabet88.ist
+vuabet88.name
 vuabet88.org
+vuabet88.pro
+vuabet88.shop
 vuaclub1008.club
+vuagaaz.ceo
+vuagaaz.one
 vue.ooooooo2.com
 vui.fun
 vuicungk8.com
@@ -5136,10 +5230,12 @@ winclub.net
 wingame1688.com
 wingo88.vin
 wintbr.com
+winvn.app
+winvn.bet
+winvn.club
 winvn.vip
 winvn13.com
 winvn15.com
-winvn16.com
 winvn17.com
 winvn18.com
 wm88viet.com
@@ -5822,7 +5918,6 @@ www.winclub.net
 www.wingame1688.com
 www.winvn13.com
 www.winvn15.com
-www.winvn16.com
 www.winvn17.com
 www.winvn18.com
 www.ww88club.com
@@ -8595,9 +8690,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 16 Nov 2024 16:22 UTC+7
-# Version: 2411161622
-# Blocked: 3,742 domains
+# Last modified: 27 Nov 2024 10:59 UTC+7
+# Version: 2411271059
+# Blocked: 3,878 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8728,9 +8823,11 @@ boybamien.com
 boymoviedome.com
 boyngon.com
 bucac.net
+bulon.net
 buoito.vip
 buom.tv
 buomdep.pro
+buomhay.com
 buomhot.com
 buomsex.com
 buomtv.tv
@@ -8739,6 +8836,7 @@ bupbetinhduc.co
 bupnhau.com
 callboy247.com
 callboyvn.net
+cangcuc.com
 catewalk.com
 cavekiemdinh.xyz
 caysex.net
@@ -8751,6 +8849,7 @@ cdn2.seaporn.net
 changtrai.net
 chanheo.com
 chanrau.cc
+checker69.com
 checkerfc.xyz
 checkerviet.bet
 checkerviet.bid
@@ -8767,6 +8866,7 @@ checkgaigoi.one
 checkgaigoi.tv
 checkgaigoi.us
 checkgaigoi.xyz
+checkgaigoi13.cc
 checkgaiviet.com
 checkgaiviet.pro
 checkgaiviet.us
@@ -8797,6 +8897,7 @@ chichnhau.tube
 chichnhau.vip
 chigaicodon.xyz
 chim18.xyz
+chimchuot.com
 chimlon.net
 chogai.net
 chogai.xyz
@@ -8804,18 +8905,25 @@ choidangcap.net
 choidangcap.org
 choidangcap.pro
 choidangcap.us
+choidangcap10.cc
 choidangcap11.cc
 choidangcap12.cc
+choidangcap13.cc
 choidangcap5.cc
+choidangcap6.cc
 choiemdi.com
+choigai.online
 choigai.xyz
 choigaigoi.com
+choigaigoi.pro
+choigaigoi3.cc
 choitrai.com
 choitrai.net
 chongtoico.link
 chongtoico.org
 chuoito.com
 clip-sex.biz
+clip-sex.net
 clip3x.info
 clip3xxx.com
 clipcave.xyz
@@ -8832,6 +8940,7 @@ clipgaixinh.xyz
 cliphang.xyz
 cliphangdep.xyz
 cliphot-vn.com
+cliphot.bet
 cliphot.biz
 cliphot.cc
 cliphot.co
@@ -8984,6 +9093,7 @@ ditnhauz.net
 dl.bb11.live
 dmhentai.net
 dmsex.net
+doandibang.com
 doctruyen14x.com
 doctruyen3qv.pro
 doctruyen3qvn.com
@@ -9021,6 +9131,7 @@ emtien2k1.live
 emxinh.art
 emxinh.click
 emxinh.live
+ephimsex.com
 ephimsex.net
 erotic-hentai.com
 etinhyeu.com
@@ -9040,6 +9151,7 @@ gai18.pw
 gai35.com
 gai3s.net
 gai3x.com
+gaicantho.xyz
 gaicaocap.link
 gaicaocap.xyz
 gaicav.pro
@@ -9052,6 +9164,7 @@ gaidam.org
 gaidam.pro
 gaidam.site
 gaidam3x.com
+gaidamdang.com
 gaidamxx.xyz
 gaidamxxx.xyz
 gaidanang.click
@@ -9065,9 +9178,14 @@ gaidepvip.xyz
 gaidepvn.xyz
 gaidikhach.xyz
 gaigoi.app
+gaigoi.homes
 gaigoi.icu
+gaigoi.id
+gaigoi.idvip
 gaigoi.link
 gaigoi.live
+gaigoi.mom
+gaigoi.network
 gaigoi.win
 gaigoi.ws
 gaigoi18.biz
@@ -9085,11 +9203,17 @@ gaigoibentre.xyz
 gaigoibienhoadongnai.xyz
 gaigoibinhduong.vncns.com
 gaigoicamau.xyz
+gaigoicantho.biz
+gaigoicantho.info
 gaigoicantho.xyz
+gaigoicaocap.pro
+gaigoicave.pro
 gaigoicave.xyz
 gaigoidalat.xyz
+gaigoidanang.info
 gaigoidanang.link
 gaigoidanang.net
+gaigoidanang.one
 gaigoidanang.xyz
 gaigoidananghot.com
 gaigoidananghot.net
@@ -9110,6 +9234,7 @@ gaigoihanoi.info
 gaigoihanoi.net
 gaigoihanoi.one
 gaigoihanoi.pro
+gaigoihanoi.site
 gaigoihanoi.vip
 gaigoihanoivip.com
 gaigoihanoivip.vncns.com
@@ -9128,9 +9253,11 @@ gaigoikiemdinh.fun
 gaigoikiemdinh.link
 gaigoikiemdinh.live
 gaigoikiemdinh.net
+gaigoikiemdinh.pro
 gaigoikiemdinh.vip
 gaigoikiemdinh1.xyz
 gaigoikiengiang.xyz
+gaigoikynu.xyz
 gaigoilauxanh.us
 gaigoilauxanh.xyz
 gaigoilongan.xyz
@@ -9143,12 +9270,18 @@ gaigoinhatrang.link
 gaigoinhatrang.xyz
 gaigoiok.com
 gaigoionline.click
+gaigoionline.co
 gaigoionline.info
 gaigoionline.link
 gaigoionline.live
 gaigoionline.xyz
+gaigoiphanthiet.xyz
 gaigoipho.xyz
+gaigoiphuquoc.pro
 gaigoiquanhday.net
+gaigoisaigon.click
+gaigoisaigon.info
+gaigoisaigon.net
 gaigoisaigon.vncns.com
 gaigoisaigon.xyz
 gaigoisinhvien.xyz
@@ -9163,7 +9296,20 @@ gaigoituoi18.fun
 gaigoituoi18.link
 gaigoituoi18.xyz
 gaigoiviet.info
+gaigoivietnam.best
+gaigoivietnam.buzz
+gaigoivietnam.info
+gaigoivietnam.me
+gaigoivietnam.mom
+gaigoivietnam.one
+gaigoivietnam.shop
+gaigoivietnam.store
+gaigoivietnam.world
 gaigoivietnamx.com
+gaigoivina.com
+gaigoivina.online
+gaigoivina.shop
+gaigoivina.site
 gaigoivinhlong.xyz
 gaigoivip.info
 gaigoivip.live
@@ -9176,8 +9322,11 @@ gaigoivipvn.com
 gaigoivn.club
 gaigoix.com
 gaigoixinh.me
+gaigoixinh.pro
 gaigoixx.xyz
 gaigoiz.com
+gaigu.buzz
+gaigu.info
 gaigu.net
 gaigu.to
 gaigu.xyz
@@ -9216,13 +9365,16 @@ gaimup.site
 gaimup.xyz
 gaingon.lol
 gaingonlive.com
+gainhatrang.xyz
 gainviewers.com
 gaionline.xyz
 gaisex.me
 gaisex.net
+gaisex.org
 gaisex.top
 gaithudam.org
 gaito.life
+gaito.so
 gaito.xyz
 gaitop.click
 gaitop.link
@@ -9277,9 +9429,25 @@ gockhuat.net
 gocquaytay.com
 goctoi.xyz
 goidao.com
+goigai.app
+goigai.baby
+goigai.best
+goigai.cloud
+goigai.co
+goigai.lat
+goigai.link
+goigai.live
+goigai.lol
+goigai.net
+goigai.one
+goigai.space
+goigai.store
 goigai2k.xyz
 goigai3m.xyz
 goigaicaocap.xyz
+goigaihanoi.com
+goigaikiemdinh.xyz
+goigaisaigon.com
 goikieu.org
 gvnvh18.com
 gwweb.xyz
@@ -9295,6 +9463,7 @@ hanoivip.vnav.me
 hanoivip.vnzz.me
 hanoivip1.vncns.com
 hanoivip2.vncns.com
+hanoivip4.vncns.com
 hardcore3000.com
 hay3x.tv
 hay3x.vip
@@ -9304,6 +9473,7 @@ hayhaynhat.com
 hayjav.com
 hayphimsex.net
 haysex.net
+haysex.plus
 haysex.xyz
 haysex3xyz.net
 hayvkl.xyz
@@ -9335,14 +9505,20 @@ hentai88.vip
 hentaiaz.net
 hentaicb.top
 hentaicb.xyz
+hentaidm.com
 hentaihub.pro
 hentaimanhwa.net
 hentaimoi.com
 hentaipro.tv
+hentaisub.blog
 hentaisub.live
+hentaisub.org
+hentaitv.app
 hentaitvn.net
+hentaivcl.com
 hentaivip.biz
 hentaivip.pro
+hentaivl.org
 hentaivl.tv
 hentaivl.vip
 hentaivlv.com
@@ -9405,6 +9581,7 @@ heodemz.org
 heohay.com
 heohd.com
 heomup.net
+heotop.com
 heotop1.net
 heotv.net
 heoviet.com
@@ -9416,6 +9593,7 @@ heovl.io
 heovl.live
 heovl.me
 heovl.net
+heovl.tube
 heovl.tv
 heovl1.com
 heovl1.net
@@ -9448,6 +9626,7 @@ i3.hentaivn.tv
 i3.hhentai.net
 i998.co
 icehdv.com
+ihentai.fun
 img.hentaivv1.com
 img.heozz.net
 img.javsubz.net
@@ -9459,6 +9638,7 @@ img.xxxphim.top
 info.xnxx.gold
 ishg.xyz
 japanhdv.biz
+japansex.blog
 jav-hay.com
 jav-phim.com
 jav.ffmgu.ru
@@ -9612,6 +9792,7 @@ javvietnam.net
 javvietsub.biz
 javvietsub.city
 javvietsub.me
+javvn.info
 javvn.me
 javvn.online
 javvn.org
@@ -9643,6 +9824,7 @@ khattinh.pro
 khattinh.tech
 khieudam.club
 khoailac.net
+khoaito.net
 khoanhgaixinh.com
 khoanhnguoinoitieng.blogspot.com
 khohieu.com
@@ -9685,6 +9867,7 @@ kynukiemdinhx.xyz
 kynuviet.baby
 kynuviet.bid
 kynuviet.city
+kynuviet.co
 kynuviet.fan
 kynuviet.men
 kynuviet.net
@@ -9692,6 +9875,8 @@ kynuviet.plus
 kynuviet.zone
 lala69.com
 laugai.net
+lauxanh.best
+lauxanh.click
 lauxanh.me
 lauxanh.one
 lauxanhthiendia.com
@@ -9824,6 +10009,7 @@ mobiblog.bio
 mobiblog.cc
 mobiblog.dev
 mobiblog.io
+mobiblog.love
 mobiblog.net
 mobiblog.top
 mobiblog.us
@@ -9845,6 +10031,8 @@ mupxx.net
 mvhay.xyz
 myhotlive.tv
 mymeyeu.xyz
+nangcuc.live
+nangcuc.org
 nangdau.top
 nenvl.net
 newsexwap.com
@@ -9895,6 +10083,7 @@ phevkl.fun
 phevkl.link
 phevkl.me
 phevkl.mx
+phevkl.my
 phevklz.com
 phichthu.club
 phim-heo.cc
@@ -9930,6 +10119,7 @@ phim-xxx.xyz
 phim.damvodoi.com
 phim.javhay.asia
 phim.javsubz.net
+phim.live
 phim.sex68.link
 phim.sexmyhd.com
 phim.sexvn.one
@@ -9963,6 +10153,7 @@ phima1.com
 phimbx.co
 phimbx.vip
 phimc3.net
+phimcapba.xyz
 phimcave.com
 phimcave.top
 phimche.top
@@ -9999,6 +10190,7 @@ phimhdhay.pro
 phimhdsex.com
 phimhentai.biz
 phimhentai.cyou
+phimhentai.info
 phimhentai.pro
 phimhentai.xyz
 phimheo.biz
@@ -10039,6 +10231,7 @@ phimhiepdam.top
 phimhinh.top
 phimii.net
 phimixxx.com
+phimjapan.vip
 phimjav.club
 phimjav.net
 phimjav.plus
@@ -10114,6 +10307,7 @@ phimsenhat.top
 phimset.cc
 phimset.cyou
 phimset.live
+phimset.lol
 phimset.me
 phimset.mobi
 phimset.net
@@ -10230,6 +10424,8 @@ phimsexcom.com
 phimsexcom.me
 phimsexcom.net
 phimsexcom.pro
+phimsexcotrang.casa
+phimsexcotrang.info
 phimsexcotrang.org
 phimsexcotrang.top
 phimsexdam.cc
@@ -10689,6 +10885,7 @@ qq887.live
 qq892.live
 qqlive.cc
 qqlives.app
+quatvn.bet
 quatvn.cc
 quatvn.click
 quatvn.club
@@ -10697,8 +10894,11 @@ quatvn.fun
 quatvn.in
 quatvn.link
 quatvn.net
+quatvn.online
+quatvn.plus
 quatvn.skin
 quatvn.stream
+quatvn.video
 quatvn2.com
 quaylen.me
 quaylen.org
@@ -10745,16 +10945,19 @@ secviet.net
 secvn.net
 sethay.com
 sex-com.pro
+sex-hay.net
 sex-hay.org
 sex-hayhd.com
 sex-hd.co
 sex-hd.pro
 sex-heo.xyz
+sex-jav.net
 sex-jav.pro
 sex-jav.xyz
 sex-lon.me
 sex-moi.pro
 sex-ngon.net
+sex-ngon.org
 sex-nhanh.pro
 sex-nhat.com
 sex-phim.net
@@ -10763,6 +10966,7 @@ sex-sub.xyz
 sex-top1.pro
 sex-viet-nam.net
 sex-viet.pro
+sex-vip.lol
 sex-xxx.me
 sex.2ola.pro
 sex.javhay.click
@@ -10898,6 +11102,7 @@ sexgai.us
 sexgaidam.com
 sexgaidep.net
 sexgaii.net
+sexgaimup.net
 sexgaiviet.com
 sexgaiviet.net
 sexgaixinh.biz
@@ -10974,6 +11179,7 @@ sexhi88.com
 sexhiep.net
 sexhihi.day
 sexhihi.info
+sexhihi.live
 sexhihi.me
 sexhihi.plus
 sexhihi.pro
@@ -10998,6 +11204,7 @@ sexkhongche.mobi
 sexkhongche5.cyou
 sexkhongchehd.com
 sexkhongchenhatban.top
+sexkoche.net
 sexkoche.org
 sexkoche.pro
 sexktv.net
@@ -11086,6 +11293,7 @@ sexnung.net
 sexnunglon.pro
 sexnusinh.net
 sexnxx.pro
+sexonline.blog
 sexphim-hd.pro
 sexphim.cc
 sexphim.club
@@ -11206,6 +11414,7 @@ sextuyenchon.com
 sextv.me
 sextv2.pro
 sextvhay.net
+sexvai.net
 sexvcc.xyz
 sexvcl.pro
 sexvid.it
@@ -11213,6 +11422,7 @@ sexvideo.asia
 sexviet.asia
 sexviet.cc
 sexviet.click
+sexviet.fan
 sexviet.fun
 sexviet.info
 sexviet.live
@@ -11394,6 +11604,7 @@ thanhlau.tv
 thanhlau.xyz
 thao.live
 thegioianhdephd.blogspot.com
+thegioigaigoi.pro
 thegioilucsac.com
 themchich.com
 theundergroundclub.net
@@ -11426,6 +11637,9 @@ tinh1dem.club
 tinh69.com
 tinhduc.online
 tinhduc.org
+tinhduc.shop
+tinhduc.site
+tinhduc.top
 tinhmotdem.asia
 tintucgai.com
 tinwin.club
@@ -11627,6 +11841,7 @@ vie.sexhang1.org
 viet.sex
 viet69.app
 viet69.asia
+viet69.biz
 viet69.cam
 viet69.cc
 viet69.click
@@ -11637,9 +11852,12 @@ viet69.day
 viet69.de
 viet69.dev
 viet69.dog
+viet69.ec
 viet69.fan
 viet69.fun
 viet69.gg
+viet69.gold
+viet69.help
 viet69.io
 viet69.li
 viet69.life
@@ -11648,13 +11866,18 @@ viet69.live
 viet69.love
 viet69.ltd
 viet69.me
+viet69.moi
 viet69.net
 viet69.news
 viet69.nl
 viet69.online
+viet69.ooo
 viet69.org
 viet69.page
 viet69.pro
+viet69.pub
+viet69.sale
+viet69.sbs
 viet69.sex
 viet69.sh
 viet69.shop
@@ -11665,6 +11888,8 @@ viet69.studio
 viet69.tax
 viet69.tech
 viet69.to
+viet69.town
+viet69.toys
 viet69.tube
 viet69.us
 viet69.vc
@@ -11674,6 +11899,8 @@ viet69az.top
 viet69b.com
 viet69m.com
 viet69s.com
+viet69vn.cc
+viet69vn.us
 viet69x.com
 viet69x.pro
 viet69xxx.com
@@ -11689,6 +11916,7 @@ vietsex.io
 vietsex.me
 vietsex.org
 vietsex.us
+vietsexnet.com
 vietsubsex.com
 vietxinh.net
 vietxnxx.com
@@ -11978,6 +12206,8 @@ xamvn.top
 xamvn.us
 xcheckerviet.cam
 xcheckerviet.in
+xcheckerviet.lat
+xcheckerviet.vc
 xcopen.com
 xem-jav.net
 xem-phim-sex.com
@@ -12336,6 +12566,7 @@ z88.one
 zanevski.ru
 zarabotokgroup.ru
 zhentai.tv
+zingsex.top
 zo3x.cc
 zo3x.top
 zohup.com
@@ -62317,9 +62548,7 @@ id.phimsex77.com
 phimsex9.com
 v.phimsex9.com
 w3.phimsex9.com
-phimsexcotrang.casa
 phimsexcotrang.cyou
-phimsexcotrang.info
 ar.phimsexcotrang.cyou
 ar.phimsexcotrang.info
 de.phimsexcotrang.casa
