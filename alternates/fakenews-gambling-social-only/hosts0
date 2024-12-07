@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 28 November 2024 21:47:58 (UTC)
+# Date: 06 December 2024 14:32:31 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, social
-# Number of unique domains: 14,075
+# Number of unique domains: 14,085
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 27 Nov 2024 10:59 UTC+7
-# Version: 2411271059
-# Blocked: 6,027 domains
+# Last modified: 05 Dec 2024 23:11 UTC+7
+# Version: 2412052311
+# Blocked: 6,037 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3144,6 +3144,7 @@ box2020.oxbetd.com
 bravo188.com
 bt9gl.com
 bum3.club
+bumvip.net
 bvthethao.com
 bwchaoxuan.com
 bwing88.com
@@ -3263,6 +3264,7 @@ choisv88.live
 choita88.club
 choitet.vip
 choithomo.com
+choivin88.us
 choivuaclub55k.info
 choiwin79.com
 choiwin79.in
@@ -3344,6 +3346,7 @@ d9bet68.com
 d9bet88.com
 da88.com
 da88.pro
+da88.win
 da88vn.win
 dabanh.thethaofb88.com
 dabet.cc
@@ -3423,6 +3426,7 @@ debet.club
 debet.com
 debet.fun
 debet.info
+debet.moi
 debet.net
 debet.top
 debet.uk
@@ -5483,6 +5487,7 @@ kingman.fun
 kingvip99.com
 kkfffddd.com
 km.choi789.link
+km.choivin88.us
 km.gamingsoc88.one
 km.playmanclub.vin
 km.thethaob52.org
@@ -5997,6 +6002,7 @@ neo79.org
 neo79.space
 neo79.us
 net88.ac
+net88.day
 net88.men
 net88.run
 net88.tv
@@ -6332,6 +6338,7 @@ red88e.com
 reg.gameta88.me
 reg.lode88j.cc
 reg.playiwin.site
+rehonnua.org
 resources.bong90.bet
 rewards.w88bkk.com
 rg.choihitclub.run
@@ -8152,6 +8159,7 @@ xemtv.live
 xemtylecacuoc.bong99.com
 xeng52.com
 xengtructuyen.com
+xibet.win
 xidach.8day66.com
 xingtou888.com
 xinloiduocchua.co
@@ -8159,11 +8167,13 @@ xljs2.com
 xn--hi-ji6caa.com
 xo68.gamehot88.fun
 xo68.vip
+xo88.club
 xo88.com
 xo88.fun
 xo88.info
 xo88.us
 xo88.win
+xo88bet.com
 xo88moi.com
 xocdia88.click
 xocdia88.es
