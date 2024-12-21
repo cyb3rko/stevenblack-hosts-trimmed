@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 December 2024 20:11:11 (UTC)
+# Date: 20 December 2024 18:26:13 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 8,674
+# Number of unique domains: 8,679
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 11 Dec 2024 15:59 UTC+7
-# Version: 2412111559
-# Blocked: 6.037 domains
+# Last modified: 20 Dec 2024 22:37 UTC+7
+# Version: 2412202237
+# Blocked: 6.042 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -114,6 +114,7 @@
 123bdly.com
 123bdy.com
 123bhh.com
+123phim.site
 123win.pro
 12b99.com
 12betvnd.com
@@ -189,8 +190,8 @@
 33betc.com
 33betf.com
 33betx.com
+33win.com
 33win.to
-33win7.com
 33win9.com
 33winz.com
 3547711.com
@@ -694,6 +695,7 @@ api.i9bet39.com
 api.jun88.tv
 api.jun889.vip
 api.kingbet86.info
+api.linkchuanon.com
 api.mc876.com
 api.minicasino.io
 api.minivn.com
@@ -1353,6 +1355,8 @@ eurofun88.com
 eurok8.com
 eurowin.top
 ev88.com
+ev88.fun
+ev88.vip
 event.taisum2.com
 event.xinloiduocchua.co
 ezb68.xyz
@@ -3380,6 +3384,7 @@ link123b.com
 link1vaobk.com
 linkbk8.com
 linkbong88moinhat.com
+linkchuanon.com
 linkvao009.com
 linkvaobong88w88.com
 linkvaobw.info
