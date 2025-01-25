@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 15 January 2025 21:53:34 (UTC)
+# Date: 23 January 2025 03:13:12 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, social
-# Number of unique domains: 14,115
+# Number of unique domains: 14,116
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 12 Jan 2025 23:52 UTC+7
-# Version: 2501122352
-# Blocked: 6.067 domains
+# Last modified: 16 Jan 2025 22:53 UTC+7
+# Version: 2501162253
+# Blocked: 6.068 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3735,6 +3735,7 @@ g1388.com
 g9vip.com
 ga179.com
 ga836.com
+ga88.pro
 ga939.com
 ga98.net
 gachoic1.com

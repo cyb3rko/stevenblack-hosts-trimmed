@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 15 January 2025 21:53:36 (UTC)
+# Date: 23 January 2025 03:13:14 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn
-# Number of unique domains: 78,964
+# Number of unique domains: 78,966
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult VN
-# Last modified: 12 Jan 2025 23:52 UTC+7
-# Version: 2501122352
-# Blocked: 4.177 domains
+# Last modified: 16 Jan 2025 22:53 UTC+7
+# Version: 2501162253
+# Blocked: 4.179 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2228,6 +2228,7 @@ zombie.news
 123porn.com
 123sex.top
 12hdem.com
+1net.goidao.info
 1phimsex.vip
 1pondohd.com
 2089.vntopg88.live
@@ -2971,6 +2972,7 @@ gockhuat.net
 gocquaytay.com
 goctoi.xyz
 goidao.com
+goidao.info
 goigai.app
 goigai.baby
 goigai.best
