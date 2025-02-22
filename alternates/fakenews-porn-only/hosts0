@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 February 2025 18:01:53 (UTC)
+# Date: 21 February 2025 00:12:58 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn
-# Number of unique domains: 77,601
+# Number of unique domains: 77,603
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult VN
-# Last modified: 12 Feb 2025 17:44 UTC+7
-# Version: 2502121744
-# Blocked: 2.802 domains
+# Last modified: 20 Feb 2025 10:43 UTC+7
+# Version: 2502201043
+# Blocked: 2.804 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3045,6 +3045,7 @@ kichduc.cc
 kichduc.vip
 kieunuvadaigia.xyz
 kieunuviet.xyz
+kieunuvn.com
 kieunuxinh.net
 kphimsex.xyz
 ktv.bio
@@ -4991,6 +4992,7 @@ xxxvn.me
 xxxxinh.com
 xxxxvideo.uno
 xzx.mobi
+yeu22.com
 yeuanh.site
 yeusex.me
 yeusex.net

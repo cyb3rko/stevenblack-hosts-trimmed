@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 February 2025 18:01:51 (UTC)
+# Date: 21 February 2025 00:12:56 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, social
-# Number of unique domains: 11,825
+# Number of unique domains: 11,843
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 12 Feb 2025 17:44 UTC+7
-# Version: 2502121744
-# Blocked: 3.775 domains
+# Last modified: 20 Feb 2025 10:43 UTC+7
+# Version: 2502201043
+# Blocked: 3.793 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2280,6 +2280,7 @@ zombie.news
 188asia.bet
 188best188.net
 188bet.pro
+188bet.vote
 188betcn2.com
 188bowls.com
 188dota.com
@@ -2398,6 +2399,7 @@ zombie.news
 789club.biz
 789club.com
 789club.org
+789club.sx
 789clubs.club
 789clubs.vin
 789d.club
@@ -2707,6 +2709,7 @@ b29.bet
 b29.cafe
 b29.pub
 b369.com
+b52.cc
 b52.club
 b52.game
 b52.me
@@ -2747,6 +2750,7 @@ bestk8.com
 bet20.bet
 bet29.club
 bet66.com
+bet88.ai
 bet88.systems
 bet88010.com
 bet88011.com
@@ -2810,6 +2814,7 @@ bntv.bongvip.com
 boc8.fun
 bogac1.com
 bom52.club
+bom88.com
 bong.thethaowin.net
 bong88.cam
 bong88.com
@@ -2834,6 +2839,7 @@ bongbet1.com
 bongbet2.com
 bongda.thethaofb88.com
 bongdaeuro188.com
+bongdanet.co
 bongvip.com
 bongvip.onl
 bongvip.website
@@ -2856,7 +2862,11 @@ c54bb.com
 c54bbb.com
 cache.one88.com
 cache1.one88.com
+cacuoc.bet
 cacuoc247.com
+cacuoc365.blog
+cacuoconline.site
+cacuocso.com
 cado.pro
 cado.thethaofb88.com
 cadomienphi.com
@@ -3046,6 +3056,7 @@ debet.club
 debet.com
 debet.fun
 debet.info
+debet.mn
 debet.moi
 debet.net
 debet.top
@@ -3256,6 +3267,7 @@ five88.wine
 five88.world
 five88vn.me
 fivevn.net
+fm88.vip
 for88.com
 fullbetvn.com
 fun-dangki.com
@@ -4274,6 +4286,7 @@ neo79.space
 neo79.us
 net88.ac
 net88.day
+net88.in
 net88.men
 net88.run
 net88.tv
@@ -4297,6 +4310,7 @@ nhacaipro.vip
 nhacaisodo.net
 nhacaisomot.com
 nhacaiuytin.life
+nhacaiuytin.top
 nhacaiuytinso1vn.com
 nhanthuong88.com
 nhat.bet
@@ -4454,6 +4468,7 @@ pt66.vip
 ptwin6.com
 qc.789.mobi
 qc.789b.asia
+qc.789club.sx
 qc.789d.club
 qc.choidabanh.com
 qc.choigametip.org
@@ -4532,6 +4547,7 @@ rikvip.services
 rikvip.tv
 rikvip.us
 rikvip.vip
+rikvip.wales
 rikvip.win
 rikvip8.win
 rikvipclub.us
@@ -5079,6 +5095,7 @@ vin777.blog
 vin777.co
 vin777.work
 vin88.com
+vin88.net
 vin999.fun
 vina88.net
 vip.dangkyrikvip.me
@@ -5175,6 +5192,7 @@ vnsodo.us
 vntop88.com
 vnvwbet.com
 vnvwin.com
+vnxoso-web.com
 vscore.bet
 vscore.online
 vscore.pro
