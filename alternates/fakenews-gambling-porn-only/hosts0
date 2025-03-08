@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 22 February 2025 23:18:50 (UTC)
+# Date: 02 March 2025 00:23:00 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 84,035
+# Number of unique domains: 84,039
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 20 Feb 2025 10:43 UTC+7
-# Version: 2502201043
-# Blocked: 3.793 domains
+# Last modified: 24 Feb 2025 14:12 UTC+7
+# Version: 2502241412
+# Blocked: 3.797 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3900,6 +3900,7 @@ ku6106.net
 ku6110.net
 ku6131.net
 ku777bet.com
+ku88.pro
 ku88.win
 ku888.one
 ku998.net
@@ -4928,6 +4929,7 @@ thugian88.com
 thuonghieunhacai.com
 thuongkingfun.biz
 thvwbet.com
+tic88.com
 tienlen.8day66.com
 tienlenpoker.fun
 tienve.thethaofb88.com
@@ -4937,6 +4939,7 @@ tin888.club
 tinbongdaw88.com
 tintuc.vlott88.com
 tip.club
+tip88.com
 tipkeo.thethaofb88.com
 tipkeomoingay.club
 tiptoday.com
@@ -5117,6 +5120,7 @@ vipsodo.info
 vipsodo.top
 viva88.com
 viva88.net
+vk88.com
 vlott88.com
 vn-lm.jbovietnam.com
 vn.app
@@ -8651,8 +8655,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 20 Feb 2025 10:43 UTC+7
-# Version: 2502201043
+# Last modified: 24 Feb 2025 14:12 UTC+7
+# Version: 2502241412
 # Blocked: 2.804 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
