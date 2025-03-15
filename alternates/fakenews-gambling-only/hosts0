@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 02 March 2025 00:22:58 (UTC)
+# Date: 13 March 2025 21:33:07 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 8,630
+# Number of unique domains: 8,640
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 24 Feb 2025 14:12 UTC+7
-# Version: 2502241412
-# Blocked: 3.797 domains
+# Last modified: 12 Mar 2025 23:01 UTC+7
+# Version: 2503122301
+# Blocked: 3.807 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2514,6 +2514,7 @@ zombie.news
 92lottery.com
 92lottery.mobi
 989bet.com
+98win.com
 9911789.com
 9966789.com
 99994y.com
@@ -3942,6 +3943,9 @@ kuwin.guide
 kuwinvip.com
 lamgiau99.club
 ldp-sum.com
+leo88.com
+leo88.fun
+leo88.top
 lienhe22.com
 lienhe44.com
 link.vuabai9.com
@@ -4323,7 +4327,9 @@ nhatvip.mobi
 nhatvip.us
 nnwud.com
 nohu.band
+nohu.win
 nohu35.com
+nohudoithuong.win
 nohuk8.info
 nosap.win
 nowbetvn.com
@@ -4809,6 +4815,7 @@ tai.samvip.bet
 tai.son.club
 tai.taisum2.com
 tai.vf88.win
+tai.win79.com
 tai.win79.pro
 tai.win79.vip
 tai567live.vip
@@ -4935,6 +4942,7 @@ tienlenpoker.fun
 tienve.thethaofb88.com
 tin.11bet.net
 tin010.com
+tin88.top
 tin888.club
 tinbongdaw88.com
 tintuc.vlott88.com
@@ -5207,6 +5215,8 @@ vsports88.asia
 vsports88.com
 vstar79.com
 vua2.club
+vua88.app
+vua88.biz
 vua88.club
 vuabai9.com
 vuabai9vn.com
