@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 21 March 2025 16:44:16 (UTC)
+# Date: 28 March 2025 21:16:46 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn, social
-# Number of unique domains: 85,036
+# Number of unique domains: 85,037
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 18 Mar 2025 23:48 UTC+7
-# Version: 2503182348
-# Blocked: 3.821 domains
+# Last modified: 27 Mar 2025 22:59 UTC+7
+# Version: 2503272259
+# Blocked: 3.822 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2046,6 +2046,7 @@ mk.support
 mkt.11bet.us
 mkt.debet.com
 mkt.lucky88.net
+mm99.vip
 mmwin.nearom.com
 mobi.dibongda777.com
 mobi.oleviet777.com
@@ -6485,8 +6486,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 18 Mar 2025 23:48 UTC+7
-# Version: 2503182348
+# Last modified: 27 Mar 2025 22:59 UTC+7
+# Version: 2503272259
 # Blocked: 2.804 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
