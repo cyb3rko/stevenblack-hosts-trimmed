@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 01 April 2025 15:05:42 (UTC)
+# Date: 10 April 2025 01:15:34 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, social
-# Number of unique domains: 11,872
+# Number of unique domains: 11,901
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 31 Mar 2025 10:39 UTC+7
-# Version: 2503311039
-# Blocked: 3.822 domains
+# Last modified: 09 Apr 2025 22:36 UTC+7
+# Version: 2504092236
+# Blocked: 3.851 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2349,6 +2349,7 @@ zombie.news
 550004.com
 5516688.com
 5533789.com
+555win.mobi
 5566688.com
 5566688.net
 558kbet.com
@@ -2631,6 +2632,7 @@ alo789viet.com
 alo88.bet
 alo888.com
 aoays.xyz
+api-v2.zbet.tv
 api.118kbet.com
 api.11zalo.com
 api.123bhh.com
@@ -2674,11 +2676,13 @@ api.mxvietnam.com
 api.nbet.vin
 api.oppa888.com
 api.oppa88888888.com
+api.red88.com
 api.red88.us
 api.red88.vin
 api.red88.vip
 api.shbet3.com
 api.shbetvv.com
+api.sky88.com
 api.sky88.fun
 api.st666.win
 api.v79top.com
@@ -2691,6 +2695,8 @@ api.vnq8.bet
 api.vnq8.com
 api.vnq8.net
 api2-gateway.go88.com
+api2.debet.uk
+api2.sin88.com
 api4.taitx1.club
 api6.taitx1.club
 apicmsdl.loc89.fun
@@ -2770,6 +2776,7 @@ betlixi88.net
 betlv.com
 bettingroup.net
 betvisa.com
+betvisa.dog
 betvnd.cc
 betvnd.vip
 betwinner.ng
@@ -2917,6 +2924,7 @@ choang.tv
 choi.gameb52a.me
 choi789.link
 choi99.com
+choib52.club
 choibaionlinevn.com
 choibancadoithuong.com
 choidabanh.com
@@ -2987,6 +2995,7 @@ cwin444.com
 cwin999.com
 d1.dabet.club
 d1.debet.info
+d1.debet.so
 d1.debet.top
 d1.debet.win
 d2.dabet.me
@@ -3040,6 +3049,7 @@ daman2.com
 dangky.go88.com
 dangky.iwin.bio
 dangky.thethaofb88.com
+dangky.thethaovb88.biz
 dangky.tysoeuro.online
 dangky388bet.xyz
 dangky789.vin
@@ -3066,6 +3076,7 @@ debet.info
 debet.mn
 debet.moi
 debet.net
+debet.so
 debet.top
 debet.uk
 debet.us
@@ -3451,6 +3462,7 @@ i.go88.com
 i.go88.org
 i.go88.top
 i.rik.vip
+i.vip79.com
 i.win79.com
 i.win79.fun
 i8bet.org
@@ -3958,6 +3970,7 @@ lienhe22.com
 lienhe44.com
 link.vuabai9.com
 link123b.com
+link789club.click
 linkbk8.com
 linkbong88moinhat.com
 linkchuanon.com
@@ -4199,6 +4212,7 @@ megawin88.mobi
 mibet.cc
 mibet.com
 mibet.mobi
+mibet.net
 mibet.win
 mibet88.com
 mibet88.win
@@ -4491,6 +4505,7 @@ qc.789d.club
 qc.choidabanh.com
 qc.choigametip.org
 qc.conggiaitri.com
+qc.fa88.tv
 qc.gem.win
 qc.hitpro.run
 qc.mibet.com
@@ -4587,6 +4602,7 @@ s1.sin88.club
 s2.sin88.biz
 s2.sin88.cc
 s2.sin88.club
+s2.sin88.com
 s26.lol
 s26bet.bet
 s26bet.ltd
@@ -4668,6 +4684,7 @@ sm611.com
 smart.8live.com
 smart.8live.net
 smartpay.lode88.vip
+sn1.sin88.me
 soc.sieutaixiu79.club
 soc88.com
 soc99.com
@@ -4679,8 +4696,10 @@ sock.red88.com
 sock.red88.us
 sock.red88.vin
 sock.red88.vip
+sock.sky88.com
 sock.sky88.fun
 sock.sky88.in
+socket.debet.so
 socket.debet.uk
 socket.debet.win
 soco88.com
@@ -4938,6 +4957,8 @@ thethaobw.com
 thethaofb88.com
 thethaofi88.com
 thethaouk88.org
+thethaova88.club
+thethaovb88.biz
 thethaovin88.info
 thethaovip.vip
 thethaovua.co
@@ -5061,6 +5082,7 @@ v.fa88.tv
 v.nhat9.vip
 v111w.com
 v121w.com
+v4.vivu88.com
 v79top.com
 v7king.com
 v8.club
@@ -5079,6 +5101,7 @@ v9betwin.net
 v9jbo.com
 v9jvn.com
 v9win.com
+va88.com
 vao.luky88.me
 vao789club.win
 vaob52.click
@@ -5143,6 +5166,7 @@ vipsodo.info
 vipsodo.top
 viva88.com
 viva88.net
+vivu88.com
 vk88.com
 vlott88.com
 vn-lm.jbovietnam.com
@@ -5398,11 +5422,14 @@ winvn18.com
 wo88.ac
 wp.choigiaitri.net
 wp.debet79.info
+wp.mibet.net
 wp.nbet.vin
+wp.red88.com
 wp.red88.us
 wp.red88.vin
 wp.red88.vip
 wp.rikvip.tv
+wp.sky88.com
 wp.sky88.fun
 ww88.club
 ww88club.com
@@ -6012,6 +6039,7 @@ xs638.com
 xvipwin.info
 ybbbet.com
 yd88c.com
+yo88.cool
 yo88.net
 yo88.tv
 yo88.win
@@ -6023,6 +6051,7 @@ yylive.tv
 yylive.vip
 yylive.xyz
 z1.zbet.com
+z1.zbet.tv
 z2.zbet.com
 z3.zbet.com
 z3.zbetvn.com
