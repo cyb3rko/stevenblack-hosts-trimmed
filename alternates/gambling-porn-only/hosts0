@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 10 April 2025 01:16:05 (UTC)
+# Date: 17 April 2025 14:08:15 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 81,854
+# Number of unique domains: 81,859
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 09 Apr 2025 22:36 UTC+7
-# Version: 2504092236
-# Blocked: 3.851 domains
+# Last modified: 16 Apr 2025 15:22 UTC+7
+# Version: 2504161522
+# Blocked: 3.856 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -197,6 +197,7 @@
 789b.live
 789b.win
 789bet.com
+789bet.green
 789bet.run
 789bet.vip
 789beta.com
@@ -970,6 +971,7 @@ f1.one88.vin
 f1.one88.win
 f1.taiv8.com
 f1.taiv8.top
+f168.vision
 f2.five88.com
 f2.macauclub.fun
 f2.taiv8.com
@@ -1231,6 +1233,7 @@ hi.oppa888.com
 hi88.chat
 hi88.de
 hi88.gd
+hi88.uno
 hi888.app
 hi88vip1.com
 hi88vip3.com
@@ -1267,6 +1270,7 @@ i.b52.club
 i.go88.com
 i.go88.org
 i.go88.top
+i.hit.club
 i.rik.vip
 i.vip79.com
 i.win79.com
@@ -3010,6 +3014,7 @@ vn88.com
 vn88.fun
 vn88.io
 vn88.mobi
+vn88.quest
 vn887.com
 vn88808.com
 vn88hn.live
@@ -6515,8 +6520,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 09 Apr 2025 22:36 UTC+7
-# Version: 2504092236
+# Last modified: 16 Apr 2025 15:22 UTC+7
+# Version: 2504161522
 # Blocked: 2.808 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
