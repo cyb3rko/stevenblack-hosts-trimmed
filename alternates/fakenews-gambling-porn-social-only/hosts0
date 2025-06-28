@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 20 June 2025 00:23:24 (UTC)
+# Date: 26 June 2025 01:49:44 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 87,454
+# Number of unique domains: 87,462
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 13 Jun 2025 11:34 UTC+7
-# Version: 2506131134
-# Blocked: 3.935 domains
+# Last modified: 25 Jun 2025 10:38 UTC+7
+# Version: 2506251038
+# Blocked: 3.943 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2354,6 +2354,8 @@ zombie.news
 5566688.net
 558kbet.com
 58cc.live
+58win.com
+58win.cool
 608822.com
 63wan.com
 6677444.com
@@ -3387,6 +3389,7 @@ gem1.win
 gem79.win
 gem88.win
 gemwin.page
+gemwin.vip
 gen88.com
 genvip88.com
 gi8.us
@@ -3482,6 +3485,7 @@ hitlub.net
 hitpro.run
 hl8thai8.com
 hn8.link
+hong88vn.click
 hong88vn.win
 host.im99.com
 hot51.com
@@ -4243,6 +4247,7 @@ mayman.vuabai9.com
 mb66.com
 mb88.bet
 mb88.com
+mb88.vip
 mbx88.com
 mc.bong99.com
 mc876.com
@@ -4473,6 +4478,7 @@ play.bom52.club
 play.bum3.club
 play.choisport.com
 play.fa88.win
+play.gemwin.vip
 play.go88.club
 play.go88.tv
 play.hit.club
@@ -5454,6 +5460,7 @@ web.topzo.com
 web.vicplay.io
 web.yo88.is
 web.yo88.tv
+web.zowin.tv
 websvn.info
 wewinvwin.com
 wi88.top
@@ -6153,6 +6160,7 @@ zo88.com
 zo88.org
 zom8.club
 zoplay.top
+zowin.tv
 10bet.com
 10luxury39.com
 11wickets.com
@@ -8793,8 +8801,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 13 Jun 2025 11:34 UTC+7
-# Version: 2506131134
+# Last modified: 25 Jun 2025 10:38 UTC+7
+# Version: 2506251038
 # Blocked: 2.808 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
