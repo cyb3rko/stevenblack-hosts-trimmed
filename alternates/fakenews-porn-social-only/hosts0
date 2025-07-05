@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 June 2025 01:49:49 (UTC)
+# Date: 03 July 2025 17:26:32 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn, social
-# Number of unique domains: 80,880
+# Number of unique domains: 80,890
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult VN
-# Last modified: 25 Jun 2025 10:38 UTC+7
-# Version: 2506251038
-# Blocked: 2.808 domains
+# Last modified: 02 Jul 2025 15:17 UTC+7
+# Version: 2507021517
+# Blocked: 2.818 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2316,7 +2316,10 @@ buomhay.com
 buomngon.com
 buomsex.com
 buomtube.tv
+buomtv.blog
+buomtv.club
 buomtv.io
+buomtv.live
 buomtv.me
 buomtv.tv
 buomxinh.org
@@ -4298,9 +4301,13 @@ thanhlau2.cc
 thegioianhdephd.blogspot.com
 thegioigaigoi.pro
 thegioilucsac.com
+themhentai.com
 themjav.com
 themphim.com
+thempho.club
 thempho.tv
+thempho1.com
+thempho2.com
 themphotv.com
 theundergroundclub.net
 thichcu.com
@@ -4635,6 +4642,7 @@ vlxx.club
 vlxx.com.co
 vlxx.contact
 vlxx.day
+vlxx.digital
 vlxx.fan
 vlxx.fun
 vlxx.gold
@@ -4655,6 +4663,7 @@ vlxx.media
 vlxx.men
 vlxx.mobi
 vlxx.moe
+vlxx.money
 vlxx.mx
 vlxx.network
 vlxx.pet
@@ -4785,6 +4794,7 @@ www.anhsex18.com
 www.anhsexvip.me
 www.apptimgai.com
 www.buomtv.app
+www.buomtv.blog
 www.buomtv.tv
 www.phim18k.com
 www.phimsexs.net
