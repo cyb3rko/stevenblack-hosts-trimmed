@@ -1,6 +1,6 @@
-[![license](https://img.shields.io/github/license/cyb3rko/stevenblack-hosts-fortinet.svg)](https://github.com/cyb3rko/stevenblack-hosts-fortinet/blob/main/LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/cyb3rko/stevenblack-hosts-fortinet/update.yml?branch=main)](https://github.com/cyb3rko/stevenblack-hosts-fortinet/actions/workflows/update.yml?query=branch%3Amain)
-[![last commit](https://img.shields.io/github/last-commit/cyb3rko/stevenblack-hosts-fortinet.svg)](https://github.com/cyb3rko/stevenblack-hosts-fortinet/commits/main)
+[![license](https://proxy.cyb3rko.de/shields/github/license/cyb3rko/stevenblack-hosts-fortinet.svg)](https://github.com/cyb3rko/stevenblack-hosts-fortinet/blob/main/LICENSE)
+[![Build Status](https://proxy.cyb3rko.de/shields/github/actions/workflow/status/cyb3rko/stevenblack-hosts-fortinet/update.yml?branch=main)](https://github.com/cyb3rko/stevenblack-hosts-fortinet/actions/workflows/update.yml?query=branch%3Amain)
+[![last commit](https://proxy.cyb3rko.de/shields/github/last-commit/cyb3rko/stevenblack-hosts-fortinet.svg)](https://github.com/cyb3rko/stevenblack-hosts-fortinet/commits/main)
 [![commit activity](https://img.shields.io/github/commit-activity/y/cyb3rko/stevenblack-hosts-fortinet.svg)](https://github.com/cyb3rko/stevenblack-hosts-fortinet/commits/main)
 
 # StevenBlack Hosts Trimmed
