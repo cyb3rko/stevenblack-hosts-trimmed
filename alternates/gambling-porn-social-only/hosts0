@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 03 July 2025 17:26:39 (UTC)
+# Date: 11 July 2025 17:32:43 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn, social
-# Number of unique domains: 85,283
+# Number of unique domains: 85,287
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 02 Jul 2025 15:17 UTC+7
-# Version: 2507021517
-# Blocked: 3.948 domains
+# Last modified: 11 Jul 2025 09:36 UTC+7
+# Version: 2507110936
+# Blocked: 3.952 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -613,6 +613,7 @@ big88.com
 big88.one
 bigboss23.com
 bigboss93.com
+bin88.com
 bj288.com
 bj39.com
 bj88.estate
@@ -2005,6 +2006,7 @@ m.w88io.com
 m.w88ok.com
 m.w88yes.com
 m1.fm88.com
+m1.max88.vip
 m1.may88d.com
 m1.tin88.bet
 m1.vin88.net
@@ -2043,6 +2045,7 @@ mapi.ku998.net
 mapi.seb121.net
 max10.pro
 max88.com
+max88.vip
 may88.club
 may88.com
 may88.fun
@@ -2537,6 +2540,7 @@ sin88.us
 sin88.vip
 sin88.win
 sin88s.com
+sinbet.com
 sinbet.vip
 site.ko66vip.casino
 site.ko66vip.club
@@ -6612,8 +6616,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 02 Jul 2025 15:17 UTC+7
-# Version: 2507021517
+# Last modified: 11 Jul 2025 09:36 UTC+7
+# Version: 2507110936
 # Blocked: 2.818 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
