@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 18 July 2025 21:24:53 (UTC)
+# Date: 23 July 2025 15:09:43 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 8,792
+# Number of unique domains: 8,797
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 18 Jul 2025 23:02 UTC+7
-# Version: 2507182302
-# Blocked: 3.959 domains
+# Last modified: 23 Jul 2025 10:36 UTC+7
+# Version: 2507231036
+# Blocked: 3.964 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2499,7 +2499,10 @@ zombie.news
 8dayvn888.com
 8jbet.vin
 8k00000.com
+8k88.live
+8k88.plus
 8kbet.app
+8kbet.com
 8live.club
 8live.com
 8live.fun
@@ -2992,6 +2995,7 @@ cmgw.2024xemwc.com
 cms.v79top.com
 cms.vh79.com
 cnmgb.007win.org
+code8k.vip
 comebet.xyz
 congdongmiosoioso.com
 conggiaitri.com
@@ -5334,6 +5338,7 @@ vntop88.com
 vnvwbet.com
 vnvwin.com
 vnxoso-web.com
+vpn8k.top
 vscore.bet
 vscore.online
 vscore.pro
