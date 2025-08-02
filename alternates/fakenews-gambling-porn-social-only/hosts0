@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 July 2025 15:09:47 (UTC)
+# Date: 01 August 2025 18:27:06 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 87,445
+# Number of unique domains: 87,460
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2202,9 +2202,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 23 Jul 2025 10:36 UTC+7
-# Version: 2507231036
-# Blocked: 3.964 domains
+# Last modified: 30 Jul 2025 16:01 UTC+7
+# Version: 2507301601
+# Blocked: 3.970 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2376,6 +2376,7 @@ zombie.news
 789.club
 789.fun
 789.mobi
+789.sx
 789.win
 78966.app
 7897890.bet
@@ -3004,6 +3005,7 @@ cuocbanh88.com
 cuocbanh88.net
 cuocbong.thethaofb88.com
 cuock8.com
+cuocxau188bet.com
 cwin.com
 cwin000.com
 cwin01.com
@@ -3516,6 +3518,7 @@ i9-bet.com
 i9.bet
 i9.hethongxacthuc.com
 i9.pro
+i9.top
 i99903.com
 i99904.com
 i99906.com
@@ -3628,6 +3631,7 @@ i9bet90.com
 i9bet91.com
 i9bet92.com
 i9bet999.com
+i9betapp.win
 i9betdl.com
 i9i9bet.com
 i9vn.com
@@ -4368,6 +4372,7 @@ nbet.vin
 nbet.vip
 nbet.win
 nbet88.org
+nc88.net
 ne88.bet
 nearom.com
 nemo.vin
@@ -5122,6 +5127,7 @@ tourghepmienbac.net
 tpviet66.com
 tpviet88.com
 traiga.vn
+trang188vn.com
 trangchu.life
 trangweb.co
 tructiepdaga.info
@@ -8816,9 +8822,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 23 Jul 2025 10:36 UTC+7
-# Version: 2507231036
-# Blocked: 2.821 domains
+# Last modified: 30 Jul 2025 16:01 UTC+7
+# Version: 2507301601
+# Blocked: 2.830 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8861,6 +8867,7 @@ slotino.bg
 999live.pro
 9lxx.com
 9xlove.xyz
+ads.nangcuc.link
 adultepic.com
 alkux.com
 alogaidep.xyz
@@ -9463,11 +9470,13 @@ heotop.com
 heotv.net
 heoviet.com
 heovl.blog
+heovl.bot
 heovl.cc
 heovl.com
 heovl.fun
 heovl.live
 heovl.me
+heovl.moe
 heovl.net
 heovl.tube
 heovl.tv
@@ -9499,8 +9508,11 @@ ihentai.cx
 ihentai.fun
 ihentai.to
 ihentai.uk
+ihentai.ws
 img.hentaivv1.com
 img.javsubz.net
+img.nangcuc.link
+img.nangcuc.live
 img.vl69.pro
 img.xxxphim.top
 info.xnxx.gold
@@ -9678,6 +9690,7 @@ lauxanh.me
 lauxanh.one
 lauxanhthiendia.com
 laysogaigoi.com
+lenlut.blog
 lenlut.info
 lenlut.net
 lenlut.tv
@@ -9800,6 +9813,7 @@ muplon.com
 mupvl.org
 myhotlive.tv
 mymeyeu.xyz
+nangcuc.link
 nangcuc.live
 nangcuc.org
 nenvl.net
@@ -11235,6 +11249,7 @@ vlxx.bet
 vlxx.bio
 vlxx.blue
 vlxx.buzz
+vlxx.bz
 vlxx.cc
 vlxx.cfd
 vlxx.chat

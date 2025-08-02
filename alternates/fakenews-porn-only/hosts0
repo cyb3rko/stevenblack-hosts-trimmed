@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 July 2025 15:09:51 (UTC)
+# Date: 01 August 2025 18:27:09 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn
-# Number of unique domains: 77,652
+# Number of unique domains: 77,661
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult VN
-# Last modified: 23 Jul 2025 10:36 UTC+7
-# Version: 2507231036
-# Blocked: 2.821 domains
+# Last modified: 30 Jul 2025 16:01 UTC+7
+# Version: 2507301601
+# Blocked: 2.830 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2254,6 +2254,7 @@ zombie.news
 999live.pro
 9lxx.com
 9xlove.xyz
+ads.nangcuc.link
 adultepic.com
 alkux.com
 alogaidep.xyz
@@ -2859,11 +2860,13 @@ heotop.com
 heotv.net
 heoviet.com
 heovl.blog
+heovl.bot
 heovl.cc
 heovl.com
 heovl.fun
 heovl.live
 heovl.me
+heovl.moe
 heovl.net
 heovl.tube
 heovl.tv
@@ -2895,8 +2898,11 @@ ihentai.cx
 ihentai.fun
 ihentai.to
 ihentai.uk
+ihentai.ws
 img.hentaivv1.com
 img.javsubz.net
+img.nangcuc.link
+img.nangcuc.live
 img.vl69.pro
 img.xxxphim.top
 info.xnxx.gold
@@ -3076,6 +3082,7 @@ lauxanh.me
 lauxanh.one
 lauxanhthiendia.com
 laysogaigoi.com
+lenlut.blog
 lenlut.info
 lenlut.net
 lenlut.tv
@@ -3199,6 +3206,7 @@ muplon.com
 mupvl.org
 myhotlive.tv
 mymeyeu.xyz
+nangcuc.link
 nangcuc.live
 nangcuc.org
 nenvl.net
@@ -4637,6 +4645,7 @@ vlxx.bet
 vlxx.bio
 vlxx.blue
 vlxx.buzz
+vlxx.bz
 vlxx.cc
 vlxx.cfd
 vlxx.chat
