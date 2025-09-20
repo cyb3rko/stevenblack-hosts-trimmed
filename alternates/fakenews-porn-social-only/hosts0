@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 09 September 2025 00:47:18 (UTC)
+# Date: 15 September 2025 15:03:57 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn, social
-# Number of unique domains: 80,914
+# Number of unique domains: 80,918
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult VN
-# Last modified: 19 Aug 2025 14:16 UTC+7
-# Version: 2508191416
-# Blocked: 2.830 domains
+# Last modified: 10 Sep 2025 15:34 UTC+7
+# Version: 2509101534
+# Blocked: 2.834 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2901,8 +2901,10 @@ ihentai.uk
 ihentai.ws
 img.hentaivv1.com
 img.javsubz.net
+img.nangcuc.co
 img.nangcuc.link
 img.nangcuc.live
+img.nangcucz.link
 img.vl69.pro
 img.xxxphim.top
 info.xnxx.gold
@@ -3206,6 +3208,7 @@ muplon.com
 mupvl.org
 myhotlive.tv
 mymeyeu.xyz
+nangcuc.co
 nangcuc.link
 nangcuc.live
 nangcuc.org
@@ -3782,6 +3785,7 @@ quatvn.club
 quatvn.fit
 quatvn.fun
 quatvn.link
+quatvn.love
 quatvn.net
 quatvn.online
 quatvn.plus

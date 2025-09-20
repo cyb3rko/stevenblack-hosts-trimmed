@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 09 September 2025 00:47:11 (UTC)
+# Date: 15 September 2025 15:03:51 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 87,485
+# Number of unique domains: 87,502
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2202,9 +2202,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 19 Aug 2025 14:16 UTC+7
-# Version: 2508191416
-# Blocked: 3.983 domains
+# Last modified: 10 Sep 2025 15:34 UTC+7
+# Version: 2509101534
+# Blocked: 3.996 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2699,6 +2699,7 @@ api.shbetvv.com
 api.sky88.com
 api.sky88.fun
 api.st666.win
+api.topbet.top
 api.v79top.com
 api.v7king.com
 api.vh79.com
@@ -2737,6 +2738,7 @@ b29.pub
 b369.com
 b4.big88.com
 b4.big88.net
+b4.dom88.com
 b4.pum88.com
 b4.qibet.com
 b4.vibet.com
@@ -3040,6 +3042,7 @@ d9bet68.com
 d9bet88.com
 da88.com
 da88.pro
+da88.vip
 da88.win
 da88vn.win
 dabanh.thethaofb88.com
@@ -3143,6 +3146,7 @@ dltbr.com
 do99.pro
 dola88.info
 dola99.vip
+dom88.com
 don1.club
 down.lixi88.net
 down2.lixi88.net
@@ -3400,6 +3404,7 @@ gd55m.org
 gem.win
 gem1.win
 gem79.win
+gem88.com
 gem88.win
 gemwin.page
 gemwin.vip
@@ -3731,6 +3736,7 @@ k8.social
 k801k.com
 k81206.com
 k88.pro
+k88.win
 k89bet.com
 k8asia.com
 k8asia12.com
@@ -4244,6 +4250,7 @@ man.vip
 man1.club
 man79.org
 man88.net
+man88.top
 manclub.fun
 manclub.live
 manclub.us
@@ -4796,6 +4803,7 @@ socket.debet.so
 socket.debet.uk
 socket.debet.win
 socket.hdbet.com
+socket.topbet.top
 soco88.com
 socvip9.club
 sodo.bond
@@ -4837,6 +4845,7 @@ st666win.us
 st666yet.site
 static.8live.com
 static.fabet.com
+static.gem88.com
 static.hi88.de
 static.lu88.com
 static.lucky88.com
@@ -5126,6 +5135,7 @@ top88.vn
 top88vn.club
 top88vn.net
 top9nhacai.top
+topbet.top
 topdoithuong.net
 topgamebai.biz
 topnhacaihot.com
@@ -5236,6 +5246,7 @@ vi.sol86.com
 vi68.org
 vibet.com
 vic.win
+vic88.com
 vicplay.io
 victorwin555.com
 vicwin.vip
@@ -5361,6 +5372,7 @@ vsports88.asia
 vsports88.com
 vstar79.com
 vu88.com
+vu88.net
 vua2.club
 vua88.app
 vua88.biz
@@ -5547,6 +5559,7 @@ wp.red88.vip
 wp.rikvip.tv
 wp.sky88.com
 wp.sky88.fun
+wp.topbet.top
 ww88.club
 ww88club.com
 www-c54.com
@@ -8835,9 +8848,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 19 Aug 2025 14:16 UTC+7
-# Version: 2508191416
-# Blocked: 2.830 domains
+# Last modified: 10 Sep 2025 15:34 UTC+7
+# Version: 2509101534
+# Blocked: 2.834 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9524,8 +9537,10 @@ ihentai.uk
 ihentai.ws
 img.hentaivv1.com
 img.javsubz.net
+img.nangcuc.co
 img.nangcuc.link
 img.nangcuc.live
+img.nangcucz.link
 img.vl69.pro
 img.xxxphim.top
 info.xnxx.gold
@@ -9826,6 +9841,7 @@ muplon.com
 mupvl.org
 myhotlive.tv
 mymeyeu.xyz
+nangcuc.co
 nangcuc.link
 nangcuc.live
 nangcuc.org
@@ -10401,6 +10417,7 @@ quatvn.club
 quatvn.fit
 quatvn.fun
 quatvn.link
+quatvn.love
 quatvn.net
 quatvn.online
 quatvn.plus
