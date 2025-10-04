@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 September 2025 02:12:24 (UTC)
+# Date: 02 October 2025 20:53:47 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 6,657
+# Number of unique domains: 6,666
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 16 Sep 2025 15:42 UTC+7
-# Version: 2509161542
-# Blocked: 4.018 domains
+# Last modified: 29 Sep 2025 10:33 UTC+7
+# Version: 2509291033
+# Blocked: 4.027 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -512,6 +512,7 @@ api.shbetvv.com
 api.sky88.com
 api.sky88.fun
 api.st666.win
+api.topbet.net
 api.topbet.top
 api.usbet.net
 api.v79top.com
@@ -2071,6 +2072,7 @@ man1.club
 man79.org
 man88.net
 man88.top
+man88.vip
 manclub.fun
 manclub.live
 manclub.us
@@ -2272,6 +2274,9 @@ o4.oxbet.in
 ok388.tv
 okcado.com
 okcado.org
+okking.com
+okking.cooking
+okking.org
 okvip.life
 okvip.pro
 okvip.today
@@ -2308,6 +2313,7 @@ ox1.oxbetd.com
 oxbet.cc
 oxbet.club
 oxbet.com
+oxbet.fun
 oxbet.in
 oxbet.net
 oxbet.top
@@ -2329,6 +2335,7 @@ piwik.12b99.com
 piwik.88thaicasinoslots.com
 pkwin1.com
 play.789.club
+play.789club.sx
 play.b52m.club
 play.b52vn.org
 play.bay789.io
@@ -2963,6 +2970,7 @@ top88.vn
 top88vn.club
 top88vn.net
 top9nhacai.top
+topbet.net
 topbet.top
 topdoithuong.net
 topgamebai.biz
@@ -3392,6 +3400,7 @@ wp.red88.vip
 wp.rikvip.tv
 wp.sky88.com
 wp.sky88.fun
+wp.topbet.net
 wp.topbet.top
 ww88.club
 ww88club.com
