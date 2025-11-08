@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 October 2025 00:48:48 (UTC)
+# Date: 07 November 2025 18:47:05 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 82,154
+# Number of unique domains: 82,160
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 21 Oct 2025 11:13 UTC+7
-# Version: 2510211113
-# Blocked: 4.028 domains
+# Last modified: 05 Nov 2025 15:59 UTC+7
+# Version: 2511051559
+# Blocked: 4.037 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -503,6 +503,7 @@ api.nbet.fan
 api.nbet.vin
 api.oppa888.com
 api.oppa88888888.com
+api.red88.club
 api.red88.com
 api.red88.us
 api.red88.vin
@@ -798,6 +799,7 @@ choisv88.live
 choita88.club
 choitet.vip
 choithomo.com
+choitip88.me
 choivin88.us
 choiwin79.in
 choiwon88.info
@@ -1261,9 +1263,12 @@ go88r.pro
 go88tv.win
 go88vn.live
 go88vn.vip
+go99.games
 go99.green
 go99.pro
 go99.red
+go99code.store
+go99code.vip
 goal123.com
 goal68.com
 god55.zone
@@ -1290,6 +1295,7 @@ hb8887.com
 hb88p.com
 hb88vn.co
 hbet.net
+hbet.win
 hcm66.com
 hdbet.com
 hi.oppa888.com
@@ -2476,6 +2482,7 @@ quayso88.com
 quaysogame.com
 quickraiseup.com
 record.income88.com
+red88.club
 red88.com
 red88.top
 red88.tv
@@ -2625,6 +2632,7 @@ sock.mu9.club
 sock.mu9.com
 sock.nbet.fan
 sock.nbet.vin
+sock.red88.club
 sock.red88.com
 sock.red88.us
 sock.red88.vin
@@ -3394,6 +3402,7 @@ wp.mibet.net
 wp.nbet.fan
 wp.nbet.to
 wp.nbet.vin
+wp.red88.club
 wp.red88.com
 wp.red88.us
 wp.red88.vin
@@ -6692,9 +6701,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 21 Oct 2025 11:13 UTC+7
-# Version: 2510211113
-# Blocked: 2.838 domains
+# Last modified: 05 Nov 2025 15:59 UTC+7
+# Version: 2511051559
+# Blocked: 2.835 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7214,9 +7223,6 @@ girlkiemdinh.xyz
 girlxinhblog.com
 girlxinhcaocap.com
 girlxinhxinh.com
-go99.games
-go99code.store
-go99code.vip
 gockhuat.net
 gocquaytay.com
 goctoi.xyz
