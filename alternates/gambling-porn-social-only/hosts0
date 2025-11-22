@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 November 2025 02:23:06 (UTC)
+# Date: 21 November 2025 23:50:42 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn, social
-# Number of unique domains: 85,409
+# Number of unique domains: 85,427
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 10 Nov 2025 10:27 UTC+7
-# Version: 2511101027
-# Blocked: 4.045 domains
+# Last modified: 21 Nov 2025 15:27 UTC+7
+# Version: 2511211527
+# Blocked: 4.058 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -543,6 +543,9 @@ appstore.nosap.win
 asiavwin.com
 asset2bay.com
 at99.club
+au88.ac
+au88.games
+au88.tel
 aw8vn2.com
 aw8vn3.com
 awin686.com
@@ -1024,6 +1027,12 @@ f1.one88.vin
 f1.one88.win
 f1.taiv8.com
 f1.taiv8.top
+f168.blue
+f168.garden
+f168.name
+f168.studio
+f168.today
+f168.us
 f168.vision
 f2.five88.com
 f2.macauclub.fun
@@ -2375,6 +2384,7 @@ play.son8.club
 play.sum27.club
 play.taib52.com
 play.taingayking52.fun
+play.tik88.vin
 play.top88.uk
 play.top88.us
 play.top88.vn
@@ -2575,6 +2585,7 @@ sdjlbg.xyz
 seb121.net
 shbet.com
 shbet.id
+shbet.is
 shbet.love
 shbet.me
 shbet.news
@@ -2929,6 +2940,7 @@ tic88.com
 tienlen.8day66.com
 tienlenpoker.fun
 tienve.thethaofb88.com
+tik88.vin
 tin.11bet.net
 tin010.com
 tin88.bet
@@ -3112,6 +3124,7 @@ vin777.work
 vin88.com
 vin88.net
 vin88.top
+vin88.win
 vin999.fun
 vina88.net
 vip.dangkyrikvip.me
@@ -6709,9 +6722,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 10 Nov 2025 10:27 UTC+7
-# Version: 2511101027
-# Blocked: 2.835 domains
+# Last modified: 21 Nov 2025 15:27 UTC+7
+# Version: 2511211527
+# Blocked: 2.840 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6777,6 +6790,7 @@ anhsexvip.me
 anhvl.net
 anhx.net
 antonstepanok.com
+api.nangcuc.cc
 app567lives.com
 appchichlive.top
 appgaixinh.com
@@ -7035,6 +7049,7 @@ dualeotruyenkq.com
 dualeotruyenzz.com
 duccai.com
 duccai.xyz
+dunloprallytyres.co.uk
 dutrai.com
 emdau.pro
 emgai.net
@@ -7403,6 +7418,7 @@ ihentai.ws
 img.hentaivv1.com
 img.javsubz.net
 img.nangcuc.co
+img.nangcuc.dev
 img.nangcuc.link
 img.nangcuc.live
 img.nangcucz.link
@@ -7710,7 +7726,9 @@ muplon.com
 mupvl.org
 myhotlive.tv
 mymeyeu.xyz
+nangcuc.cc
 nangcuc.co
+nangcuc.dev
 nangcuc.link
 nangcuc.live
 nangcuc.org

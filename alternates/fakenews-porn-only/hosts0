@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 November 2025 02:22:59 (UTC)
+# Date: 21 November 2025 23:50:36 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn
-# Number of unique domains: 77,678
+# Number of unique domains: 77,683
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Adult VN
-# Last modified: 10 Nov 2025 10:27 UTC+7
-# Version: 2511101027
-# Blocked: 2.835 domains
+# Last modified: 21 Nov 2025 15:27 UTC+7
+# Version: 2511211527
+# Blocked: 2.840 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2276,6 +2276,7 @@ anhsexvip.me
 anhvl.net
 anhx.net
 antonstepanok.com
+api.nangcuc.cc
 app567lives.com
 appchichlive.top
 appgaixinh.com
@@ -2534,6 +2535,7 @@ dualeotruyenkq.com
 dualeotruyenzz.com
 duccai.com
 duccai.xyz
+dunloprallytyres.co.uk
 dutrai.com
 emdau.pro
 emgai.net
@@ -2902,6 +2904,7 @@ ihentai.ws
 img.hentaivv1.com
 img.javsubz.net
 img.nangcuc.co
+img.nangcuc.dev
 img.nangcuc.link
 img.nangcuc.live
 img.nangcucz.link
@@ -3209,7 +3212,9 @@ muplon.com
 mupvl.org
 myhotlive.tv
 mymeyeu.xyz
+nangcuc.cc
 nangcuc.co
+nangcuc.dev
 nangcuc.link
 nangcuc.live
 nangcuc.org
