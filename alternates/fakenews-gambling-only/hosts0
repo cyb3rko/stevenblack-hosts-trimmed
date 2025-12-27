@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 19 December 2025 21:22:58 (UTC)
+# Date: 25 December 2025 16:44:18 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 8,915
+# Number of unique domains: 8,930
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 16 Dec 2025 16:23 UTC+7
-# Version: 2512161623
-# Blocked: 4.082 domains
+# Last modified: 25 Dec 2025 23:04 UTC+7
+# Version: 2512252304
+# Blocked: 4.097 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2410,6 +2410,7 @@ zombie.news
 789club.com
 789club.org
 789club.sx
+789club.vin
 789clubs.club
 789clubs.vin
 789d.club
@@ -2712,6 +2713,7 @@ api.st666.win
 api.topbet.net
 api.topbet.top
 api.usbet.net
+api.usbet.win
 api.v79top.com
 api.v7king.com
 api.vh79.com
@@ -3176,6 +3178,7 @@ dp313.com
 dp533.com
 dp568.com
 dp568bet.com
+du88.club
 du88.com
 duatop2024.net
 dubaivn.vip
@@ -3503,6 +3506,7 @@ hb8875.com
 hb8887.com
 hb88p.com
 hb88vn.co
+hbet.club
 hbet.net
 hbet.win
 hcm66.com
@@ -3768,6 +3772,7 @@ k8.games
 k8.social
 k801k.com
 k81206.com
+k88.club
 k88.pro
 k88.win
 k89bet.com
@@ -4292,6 +4297,7 @@ man79.org
 man88.net
 man88.top
 man88.vip
+man88.win
 manclub.fun
 manclub.live
 manclub.us
@@ -4720,6 +4726,8 @@ reg.playiwin.site
 rehonnua.org
 rewards.w88bkk.com
 rgames.org
+ricbet.com
+ricbet.win
 rik.bet
 rik.club
 rik.fun
@@ -4852,6 +4860,8 @@ smart.8live.com
 smart.8live.net
 smartpay.lode88.vip
 sn1.sin88.me
+so79.com
+so79.win
 soc.sieutaixiu79.club
 soc88.com
 soc99.com
@@ -4875,6 +4885,7 @@ socket.debet.win
 socket.hdbet.com
 socket.topbet.top
 socket.usbet.net
+socket.usbet.win
 soco88.com
 socvip9.club
 sodo.bond
@@ -5256,6 +5267,7 @@ uk88.top
 uk88.vip
 upanh.vn88.com
 usbet.net
+usbet.win
 uu88.com
 uu88.now
 uu8814.net
@@ -5297,6 +5309,8 @@ va88.com
 vao.luky88.me
 vao789club.win
 vaob52.click
+vaobet.net
+vaobet.win
 vaohitclub.me
 vaoku.net
 vb211.com
@@ -5326,6 +5340,7 @@ vi68.org
 vibet.com
 vic.win
 vic88.com
+vic88.net
 vicplay.io
 victorwin555.com
 vicwin.vip
