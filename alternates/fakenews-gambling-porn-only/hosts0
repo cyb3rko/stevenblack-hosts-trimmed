@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 25 December 2025 16:44:19 (UTC)
+# Date: 01 January 2026 22:13:43 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 84,673
+# Number of unique domains: 84,678
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 25 Dec 2025 23:04 UTC+7
-# Version: 2512252304
-# Blocked: 4.097 domains
+# Last modified: 28 Dec 2025 16:22 UTC+7
+# Version: 2512281622
+# Blocked: 4.102 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5114,6 +5114,10 @@ tangl0c.8day66.com
 tap88.club
 tbab395.com
 tbab595.com
+td88.club
+td88.info
+td88.link
+td88.xyz
 tdtc.cc
 tdtc.fun
 tdtc.vn
@@ -5455,6 +5459,7 @@ vnsodo.live
 vnsodo.me
 vnsodo.mobi
 vnsodo.us
+vnsure.win
 vntop88.com
 vnvwbet.com
 vnvwin.com
@@ -8955,8 +8960,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 25 Dec 2025 23:04 UTC+7
-# Version: 2512252304
+# Last modified: 28 Dec 2025 16:22 UTC+7
+# Version: 2512281622
 # Blocked: 2.840 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
