@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 01 January 2026 22:13:49 (UTC)
+# Date: 08 January 2026 16:06:42 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, social
-# Number of unique domains: 5,436
+# Number of unique domains: 5,437
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -5490,3 +5490,6 @@ panels.twitch.tv
 # Other
 pinpages.alwaysdata.net
 allotalk.com
+
+# gay
+sniffies.com
