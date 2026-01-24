@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 13 January 2026 22:01:34 (UTC)
+# Date: 21 January 2026 21:57:12 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 8,045
+# Number of unique domains: 8,065
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2208,9 +2208,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 11 Jan 2026 23:33 UTC+7
-# Version: 2601112333
-# Blocked: 3.212 domains
+# Last modified: 18 Jan 2026 11:06 UTC+7
+# Version: 2601181106
+# Blocked: 3.232 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2247,6 +2247,7 @@ zombie.news
 11bet.vin
 11bet.win
 11betvnd.com
+11win.mobi
 11zalo.com
 123b.bet
 123b.com
@@ -2481,6 +2482,7 @@ zombie.news
 99vn.bet
 9b992.com
 9bet.net
+9bet.win
 9e3c.com
 account.w88ac.com
 account.w88club.com
@@ -2558,12 +2560,15 @@ alo789.vip
 alo789viet.com
 alo88.bet
 alo888.com
+ano88.app
+ano88.top
 aoays.xyz
 api-v2.zbet.tv
 api.123bhh.com
 api.33beta.com
 api.88bet88bet.com
 api.99vn.bet
+api.9bet.win
 api.ae888.com
 api.ae88827.com
 api.ae88837.com
@@ -3208,6 +3213,7 @@ god55.zone
 god55viet.com
 gogobolaku.com
 gw.gen88.com
+gw.mubet.vip
 h3bet.com
 h51.live
 happy9luck.com
@@ -3245,9 +3251,11 @@ hit68.net
 hitclub.blue
 hitclub.cafe
 hitclub.com
+hitclub.in
 hitclub.pro
 hitclub.salon
 hitclub.top
+hitclub.tv
 hitclub.vin
 hitclub.win
 hl8thai8.com
@@ -3793,6 +3801,7 @@ m1.max88.vip
 m1.may88d.com
 m1.tin88.bet
 m1.vin88.net
+m1.vin88.vin
 m1.vin88.vip
 m2.tin88.vip
 m2305.com
@@ -3912,6 +3921,7 @@ mu9.win
 mu90.com
 mu92.com
 mu922.com
+mubet.vip
 mv66.app
 mv66.baby
 mv66.biz
@@ -4098,6 +4108,7 @@ profile.w88.vin
 prok8.com
 pt1.fabet.win
 pub88.com
+pub88.win
 pum88.com
 qc.789.mobi
 qc.789club.sx
@@ -4193,6 +4204,7 @@ s26bet.ltd
 s26bet01.com
 s3.sin88.sx
 s4.gen88.com
+s4.mubet.vip
 s555.com
 s99902e.com
 s99906.com
@@ -4254,6 +4266,7 @@ sk.fm88.com
 sk.tin88.bet
 sk.tin88.club
 sk.vin88.net
+sk.vin88.vin
 sk.vin88.vip
 sk.xibet.com
 sky88.bet
@@ -4285,6 +4298,7 @@ sock.red88.vip
 sock.sky88.club
 sock.sky88.com
 sock.sky88.in
+socket.9bet.win
 socket.debet.so
 socket.debet.uk
 socket.debet.win
@@ -4350,6 +4364,7 @@ sun6.win
 sunwin.club
 sunwin.moi
 sunwin.pro
+sunwin.sx
 sunwinvn.club
 sure168.asia
 sut88.com
@@ -4561,6 +4576,7 @@ tt128.net
 twin5568.com
 tx1.vip
 tx88.com
+tx88.top
 tydo88.com
 tz.bet20.bet
 ud1a.com
@@ -4582,6 +4598,8 @@ uw88vnd.com
 uw88vnn1.com
 uytin.8day66.com
 v.fa88.tv
+v.hitclub.in
+v.hitclub.tv
 v.nhat9.vip
 v.nhatvip.pro
 v.nhatvip.vip
@@ -4646,6 +4664,7 @@ vin88.com
 vin88.net
 vin88.top
 vin88.tv
+vin88.vin
 vin88.vip
 vin88.win
 vina88.net
@@ -4881,6 +4900,7 @@ winvn17.com
 winvn18.com
 won88.com
 won88.win
+wp.9bet.win
 wp.debet79.info
 wp.hdbet.com
 wp.mibet.net

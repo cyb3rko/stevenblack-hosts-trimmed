@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 13 January 2026 22:01:44 (UTC)
+# Date: 21 January 2026 21:57:23 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn, social
-# Number of unique domains: 85,569
+# Number of unique domains: 85,621
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 11 Jan 2026 23:33 UTC+7
-# Version: 2601112333
-# Blocked: 3.212 domains
+# Last modified: 18 Jan 2026 11:06 UTC+7
+# Version: 2601181106
+# Blocked: 3.232 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -53,6 +53,7 @@
 11bet.vin
 11bet.win
 11betvnd.com
+11win.mobi
 11zalo.com
 123b.bet
 123b.com
@@ -287,6 +288,7 @@
 99vn.bet
 9b992.com
 9bet.net
+9bet.win
 9e3c.com
 account.w88ac.com
 account.w88club.com
@@ -364,12 +366,15 @@ alo789.vip
 alo789viet.com
 alo88.bet
 alo888.com
+ano88.app
+ano88.top
 aoays.xyz
 api-v2.zbet.tv
 api.123bhh.com
 api.33beta.com
 api.88bet88bet.com
 api.99vn.bet
+api.9bet.win
 api.ae888.com
 api.ae88827.com
 api.ae88837.com
@@ -1014,6 +1019,7 @@ god55.zone
 god55viet.com
 gogobolaku.com
 gw.gen88.com
+gw.mubet.vip
 h3bet.com
 h51.live
 happy9luck.com
@@ -1051,9 +1057,11 @@ hit68.net
 hitclub.blue
 hitclub.cafe
 hitclub.com
+hitclub.in
 hitclub.pro
 hitclub.salon
 hitclub.top
+hitclub.tv
 hitclub.vin
 hitclub.win
 hl8thai8.com
@@ -1599,6 +1607,7 @@ m1.max88.vip
 m1.may88d.com
 m1.tin88.bet
 m1.vin88.net
+m1.vin88.vin
 m1.vin88.vip
 m2.tin88.vip
 m2305.com
@@ -1718,6 +1727,7 @@ mu9.win
 mu90.com
 mu92.com
 mu922.com
+mubet.vip
 mv66.app
 mv66.baby
 mv66.biz
@@ -1904,6 +1914,7 @@ profile.w88.vin
 prok8.com
 pt1.fabet.win
 pub88.com
+pub88.win
 pum88.com
 qc.789.mobi
 qc.789club.sx
@@ -1999,6 +2010,7 @@ s26bet.ltd
 s26bet01.com
 s3.sin88.sx
 s4.gen88.com
+s4.mubet.vip
 s555.com
 s99902e.com
 s99906.com
@@ -2060,6 +2072,7 @@ sk.fm88.com
 sk.tin88.bet
 sk.tin88.club
 sk.vin88.net
+sk.vin88.vin
 sk.vin88.vip
 sk.xibet.com
 sky88.bet
@@ -2091,6 +2104,7 @@ sock.red88.vip
 sock.sky88.club
 sock.sky88.com
 sock.sky88.in
+socket.9bet.win
 socket.debet.so
 socket.debet.uk
 socket.debet.win
@@ -2156,6 +2170,7 @@ sun6.win
 sunwin.club
 sunwin.moi
 sunwin.pro
+sunwin.sx
 sunwinvn.club
 sure168.asia
 sut88.com
@@ -2367,6 +2382,7 @@ tt128.net
 twin5568.com
 tx1.vip
 tx88.com
+tx88.top
 tydo88.com
 tz.bet20.bet
 ud1a.com
@@ -2388,6 +2404,8 @@ uw88vnd.com
 uw88vnn1.com
 uytin.8day66.com
 v.fa88.tv
+v.hitclub.in
+v.hitclub.tv
 v.nhat9.vip
 v.nhatvip.pro
 v.nhatvip.vip
@@ -2452,6 +2470,7 @@ vin88.com
 vin88.net
 vin88.top
 vin88.tv
+vin88.vin
 vin88.vip
 vin88.win
 vina88.net
@@ -2687,6 +2706,7 @@ winvn17.com
 winvn18.com
 won88.com
 won88.win
+wp.9bet.win
 wp.debet79.info
 wp.hdbet.com
 wp.mibet.net
@@ -5876,9 +5896,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 11 Jan 2026 23:33 UTC+7
-# Version: 2601112333
-# Blocked: 1.834 domains
+# Last modified: 18 Jan 2026 11:06 UTC+7
+# Version: 2601181106
+# Blocked: 1.866 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6027,6 +6047,7 @@ cliphot.cc
 cliphot.live
 cliphot.lol
 cliphot.me
+cliphot.men
 cliphot.net
 cliphot69.cam
 cliphot69.cc
@@ -6085,6 +6106,7 @@ damconuong.net
 damduc.org
 damlon.xyz
 damsextv.pro
+damsexvn.com
 damvc.vip
 damvodoi.com
 demnay.com
@@ -6113,7 +6135,6 @@ dualeotruyenkq.com
 dualeotruyenzz.com
 duccai.com
 duccai.xyz
-dunloprallytyres.co.uk
 dutrai.com
 emphequa.com
 emxinh.art
@@ -6382,16 +6403,21 @@ javhd.exchange
 javhd.im
 javhd.lol
 javhd.moe
+javhd.network
 javhd.ninja
+javhd.one
+javhd.pm
 javhd.services
 javhd.vc
 javhd.video
 javhd.ws
+javhd1.me
 javhdhay.city
 javhdhay.me
 javhdhay.us
 javhdhayz.com
 javhdvietsub.com
+javhdz.hot
 javhdz.pro
 javhiv.com
 javhiv.xyz
@@ -6588,8 +6614,10 @@ phim-xec.pro
 phim-xlxx.pro
 phim-xnxx.xyz
 phim.damvodoi.com
+phim.sexdiem.com
 phim.vl9x.net
 phim.vuasex.co
+phim.xxxhai.com
 phim18.co
 phim18.online
 phim18.ws
@@ -6655,6 +6683,7 @@ phimmup.com
 phimnguoilon.info
 phimnguoilon.online
 phimnguoilon.xyz
+phimnguoilon1.com
 phimonline.click
 phimporn.pro
 phims3x.net
@@ -7017,6 +7046,7 @@ sexhdpro.com
 sexhds.com
 sexhdvn.club
 sexhdx.xyz
+sexhentai.vip
 sexheodem.com
 sexhihi.live
 sexhihi69.pro
@@ -7107,6 +7137,7 @@ sextop1.fun
 sextop1.group
 sextop1.mom
 sextop1.one
+sextop1.page
 sextop1.site
 sextop1.team
 sextop1.video
@@ -7240,7 +7271,9 @@ thichcu.com
 thiendia.club
 thiendia.com
 thiendia.uk
+thiendia.vip
 thiendia1.com
+thiendia1.vip
 thiendia88.org
 thiendia99.co
 thienthanxinh.com
@@ -7269,6 +7302,7 @@ top1sex.cc
 top1sex.xyz
 topapp.vin
 topapplive.com
+topgai.net
 topgaigoi.us
 topgaixinh.com
 topgaixinh.net
@@ -7467,6 +7501,7 @@ vlsex.pro
 vlsex88.one
 vlxphim.me
 vlxx-phimsex.com
+vlxx-vip.com
 vlxx.ac
 vlxx.ai
 vlxx.bet
@@ -7479,8 +7514,14 @@ vlxx.cfd
 vlxx.chat
 vlxx.city
 vlxx.club
+vlxx.coffee
+vlxx.com
+vlxx.com.mx
+vlxx.credit
 vlxx.day
+vlxx.express
 vlxx.fan
+vlxx.fashion
 vlxx.fun
 vlxx.health
 vlxx.homes
@@ -7491,7 +7532,9 @@ vlxx.kim
 vlxx.la
 vlxx.lat
 vlxx.live
+vlxx.llc
 vlxx.lol
+vlxx.love
 vlxx.me
 vlxx.media
 vlxx.men
@@ -7499,10 +7542,12 @@ vlxx.mobi
 vlxx.moe
 vlxx.money
 vlxx.mx
+vlxx.net
 vlxx.network
 vlxx.pet
 vlxx.pw
 vlxx.rocks
+vlxx.ru
 vlxx.sbs
 vlxx.sex
 vlxx.show
@@ -7518,28 +7563,34 @@ vlxx.tw
 vlxx.uk
 vlxx.uno
 vlxx.vip
+vlxx.wf
 vlxx.wiki
 vlxx.ws
 vlxx.xyz
+vlxx01.com
 vlxx24h.com
 vlxx24h.net
 vlxx3.pro
 vlxx3s.net
+vlxx5.net
 vlxx69.net
 vlxx8.com
 vlxx8.net
 vlxx9.com
 vlxxai.net
+vlxxde.com
 vlxxhd.net
 vlxxhot.com
 vlxxhot.net
 vlxxi.com
 vlxxmax.com
+vlxxphim.tv
 vlxxs.net
 vlxxsex.com
 vlxxtube.com
 vlxxtube.net
 vlxxtube.pics
+vlxxtv.org
 vlxxvc.com
 vlxxviet69.pro
 vlxxvietnam.xyz
@@ -7687,6 +7738,7 @@ xxphim.mom
 xxphim.xyz
 xxphimsex.me
 xxtv.vip
+xxvn.asia
 xxvn.cc
 xxvn.com
 xxvnapi.com
