@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 April 2026 23:11:13 (UTC)
+# Date: 23 April 2026 17:31:01 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: social
-# Number of unique domains: 3,243
+# Number of unique domains: 3,244
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -3299,3 +3299,5 @@ allotalk.com
 
 # gay
 sniffies.com
+
+bsky.app
