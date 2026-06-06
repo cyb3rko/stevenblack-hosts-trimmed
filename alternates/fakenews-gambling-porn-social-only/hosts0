@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 28 May 2026 13:47:32 (UTC)
+# Date: 03 June 2026 17:58:36 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 88,199
+# Number of unique domains: 88,203
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2201,9 +2201,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 27 May 2026 09:34 UTC+7
-# Version: 2605270934
-# Blocked: 3.452 domains
+# Last modified: 03 Jun 2026 14:19 UTC+7
+# Version: 2606031419
+# Blocked: 3.456 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2838,6 +2838,7 @@ choitip88.me
 choiwin79.in
 choiwon88.info
 click.mibet88.com
+cm88.com
 cmd368max.com
 cmd368t.com
 cms.v79top.com
@@ -3265,6 +3266,7 @@ god55viet.com
 gogobolaku.com
 gw.gen88.com
 gw.mubet.vip
+gw.tot88.store
 h3bet.com
 h51.live
 happy9luck.com
@@ -4323,6 +4325,7 @@ s3.sin88.sx
 s3.sin88.tw
 s4.gen88.com
 s4.mubet.vip
+s4.tot88.store
 s555.com
 s99902e.com
 s99906.com
@@ -4729,6 +4732,7 @@ topzo.com
 topzo.top
 topzo.vip
 tot88.com
+tot88.store
 tourghepmienbac.net
 trang188vn.com
 trangchu.life
@@ -8306,8 +8310,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 27 May 2026 09:34 UTC+7
-# Version: 2605270934
+# Last modified: 03 Jun 2026 14:19 UTC+7
+# Version: 2606031419
 # Blocked: 1.868 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
