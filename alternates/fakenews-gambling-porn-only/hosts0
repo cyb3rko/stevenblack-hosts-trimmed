@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 03 June 2026 17:58:34 (UTC)
+# Date: 11 June 2026 16:13:05 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 85,013
+# Number of unique domains: 85,043
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2207,9 +2207,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 03 Jun 2026 14:19 UTC+7
-# Version: 2606031419
-# Blocked: 3.456 domains
+# Last modified: 11 Jun 2026 10:46 UTC+7
+# Version: 2606111046
+# Blocked: 3.486 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2320,6 +2320,7 @@ zombie.news
 388bet.vin
 388bet.vip
 3bet.biz
+3bet.la
 3bet.so
 3bet.tech
 3bet.vc
@@ -2679,6 +2680,7 @@ ball88.com
 ball88.fun
 ball88.mobi
 ball88.to
+ball88.zone
 banca.cc
 banca.xo68.vip
 bancadoithuongvn.com
@@ -2886,6 +2888,7 @@ d1.debet.gs
 d1.debet.info
 d1.debet.lc
 d1.debet.so
+d1.debet.st
 d1.debet.top
 d1.debet.win
 d3.debet.info
@@ -2958,6 +2961,7 @@ debet.lc
 debet.moi
 debet.net
 debet.so
+debet.st
 debet.top
 debet.uk
 debet.us
@@ -3148,6 +3152,7 @@ five88.id
 five88.in
 five88.lc
 five88.net
+five88.nl
 five88.sale
 five88.show
 five88.sx
@@ -3219,6 +3224,7 @@ gem88.com
 gem88.guru
 gem88.win
 gemwin.fm
+gemwin.ink
 gemwin.is
 gemwin.my
 gemwin.page
@@ -3323,6 +3329,7 @@ hitclub.in
 hitclub.lc
 hitclub.lt
 hitclub.lv
+hitclub.ml
 hitclub.pl
 hitclub.pro
 hitclub.salon
@@ -3340,6 +3347,7 @@ host.im99.com
 hot51.com
 hotlive.in
 hotlive8.vip
+hubet.com
 i.b52.club
 i.go88.ca
 i.go88.com
@@ -3726,6 +3734,7 @@ kuwin.digital
 kuwin.guide
 kuwinvip.com
 l4.lode88.ai
+lc88.men
 ldp-sum.com
 legabet.gay
 leo88.com
@@ -3884,6 +3893,7 @@ m1.ball88.com
 m1.ball88.fun
 m1.ball88.mobi
 m1.ball88.to
+m1.ball88.zone
 m1.fm88.com
 m1.max88.vip
 m1.may88d.com
@@ -3991,6 +4001,7 @@ mix79.vip
 mk.com
 mkt.11bet.us
 mkt.debet.com
+mm88.com
 mm99.vip
 mmwin.nearom.com
 mobi.oleviet777.com
@@ -4075,9 +4086,12 @@ nhacaisomot.com
 nhacaiuytin.life
 nhanthuong88.com
 nhat.bet
+nhat.cx
 nhat.game
+nhat.is
 nhat.it
 nhat.one
+nhat.sh
 nhat.sx
 nhat.vip
 nhat1.club
@@ -4276,6 +4290,7 @@ quangcaosanvip.com
 quayso88.com
 quaysogame.com
 quickraiseup.com
+racvl.fun
 record.income88.com
 red88.club
 red88.com
@@ -4311,6 +4326,9 @@ rikvip.wales
 rikvip.win
 royal77vn.com
 rr88.live
+rs88.com
+rs88.cyou
+rs88.vip
 rubik88.com
 rw8800.com
 s.sv66c.com
@@ -4325,6 +4343,7 @@ s2.sin88.club
 s2.sin88.com
 s26bet.ltd
 s26bet01.com
+s3.sin88.lu
 s3.sin88.ms
 s3.sin88.si
 s3.sin88.sx
@@ -4377,6 +4396,7 @@ sin88.club
 sin88.com
 sin88.cv
 sin88.im
+sin88.lu
 sin88.me
 sin88.mn
 sin88.mobi
@@ -4397,12 +4417,15 @@ sk.ball88.com
 sk.ball88.fun
 sk.ball88.mobi
 sk.ball88.to
+sk.ball88.zone
 sk.debet.cx
 sk.debet.gd
 sk.debet.gs
 sk.debet.lc
+sk.debet.st
 sk.debet.vg
 sk.fm88.com
+sk.sin88.lu
 sk.sin88.ms
 sk.sin88.si
 sk.sin88.tw
@@ -4524,6 +4547,7 @@ sunwin.sx
 sunwinvn.club
 sure168.asia
 sut88.com
+sv1.sv88.ro
 sv1.sv88.vu
 sv1.sv88d.com
 sv288.net
@@ -4548,6 +4572,7 @@ sv88.club
 sv88.com
 sv88.in
 sv88.lv
+sv88.ro
 sv88.vin
 sv88.vip
 sv88.vu
@@ -4759,6 +4784,7 @@ tx88.onl
 tx88.top
 tydo88.com
 tz.bet20.bet
+u88.watch
 u888.cc
 u888.id
 ud1a.com
@@ -4783,6 +4809,7 @@ uytin.8day66.com
 v.fa88.tv
 v.hitclub.in
 v.hitclub.lv
+v.hitclub.ml
 v.hitclub.si
 v.hitclub.tv
 v.nhat9.vip
@@ -5061,6 +5088,7 @@ web.win79.vg
 web.yo88.is
 web.yo88.ml
 web.yo88.so
+web.yo88.st
 web.yo88.tv
 web.zowin.tv
 websvn.info
@@ -5637,6 +5665,7 @@ yo88.is
 yo88.ml
 yo88.pw
 yo88.so
+yo88.st
 yo88.tv
 yo88.win
 yo88vn.com
@@ -5672,6 +5701,7 @@ zowin.red
 zowin.sh
 zowin.sx
 zowin.tv
+zowin.tw
 zowin.ws
 10bet.com
 10luxury39.com
@@ -8316,8 +8346,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 03 Jun 2026 14:19 UTC+7
-# Version: 2606031419
+# Last modified: 11 Jun 2026 10:46 UTC+7
+# Version: 2606111046
 # Blocked: 1.868 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -21952,7 +21982,6 @@ totalaccess.myallaccesspass.com
 totalaccess.transsexualbarebacking.com
 totalexposure.com
 totallynsfw.com
-toteme.com
 touchmylips.com
 touhoufeet.booru.org
 toumpano.net
@@ -28859,7 +28888,6 @@ www.tortment.com
 www.torylane.com
 www.totalexposure.com
 www.totallynsfw.com
-www.toteme.com
 www.touchmylips.com
 www.toumpano.net
 www.toxamedia.com
@@ -73311,6 +73339,8 @@ totally-naked-girls.com
 totallyfreecam.com
 totallynakedteens.com
 totallyshemales.com
+toteme.com
+www.toteme.com
 totporno.com
 tounavi.net
 tour7me.com
