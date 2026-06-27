@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 19 June 2026 01:28:22 (UTC)
+# Date: 26 June 2026 14:22:23 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: porn, social
-# Number of unique domains: 79,964
+# Number of unique domains: 79,965
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Adult VN
-# Last modified: 17 Jun 2026 13:58 UTC+7
-# Version: 2606171358
-# Blocked: 1.868 domains
+# Last modified: 26 Jun 2026 09:57 UTC+7
+# Version: 2606260957
+# Blocked: 1.869 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1034,6 +1034,7 @@ pornhubf.com
 pornpic.org
 pornzo.net
 pphimsex.com
+qmh.wtf
 qq801.me
 qq887.live
 qq892.live
