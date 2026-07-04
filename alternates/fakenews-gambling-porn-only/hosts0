@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 June 2026 14:22:10 (UTC)
+# Date: 30 June 2026 21:58:07 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 85,128
+# Number of unique domains: 85,156
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2207,9 +2207,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 26 Jun 2026 09:57 UTC+7
-# Version: 2606260957
-# Blocked: 3.570 domains
+# Last modified: 30 Jun 2026 22:43 UTC+7
+# Version: 2606302243
+# Blocked: 3.597 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2602,6 +2602,7 @@ api.bachhoa88.com
 api.bec88.com
 api.dabet.club
 api.f8bet5.com
+api.haybet.ws
 api.hb8887.com
 api.hdbet.com
 api.max79.win
@@ -2666,8 +2667,10 @@ b52.club
 b52.game
 b52.me
 b52.mobi
+b52.nu
 b52.vip
 b52.win
+b52club.me
 b52d.club
 b52k.club
 b52m.club
@@ -3015,6 +3018,7 @@ dp313.com
 dp533.com
 dp568.com
 dp568bet.com
+du88.cafe
 du88.club
 du88.com
 du88.in
@@ -3251,6 +3255,7 @@ gem88.guru
 gem88.vet
 gem88.win
 gemwin.cab
+gemwin.esq
 gemwin.fm
 gemwin.fyi
 gemwin.ink
@@ -3320,12 +3325,15 @@ happynb.com
 hay88.net
 hay8811.com
 hay8822.com
+haybet.ws
 haywin.ac
 haywin.ai
 haywin.my
 haywin.space
 haywin.store
+haywin.training
 haywin.vip
+haywinchinhhang.com
 haywinvip.online
 hb88.com
 hb88.party
@@ -3334,6 +3342,7 @@ hb8875.com
 hb8887.com
 hb88vn.co
 hbet.club
+hbet.li
 hbet.lv
 hbet.net
 hbet.pw
@@ -3835,6 +3844,7 @@ lu88.co
 lu88.com
 lu88.gdn
 lu88.kim
+lu88.nz
 lu88.pro
 luck6.com
 luck8.com
@@ -3969,6 +3979,7 @@ man1.club
 man79.org
 man88.la
 man88.net
+man88.ng
 man88.pl
 man88.pw
 man88.top
@@ -4131,6 +4142,7 @@ nhanthuong88.com
 nhat.bet
 nhat.bh
 nhat.bz
+nhat.cam
 nhat.cx
 nhat.game
 nhat.is
@@ -4226,6 +4238,7 @@ piwik.88thaicasinoslots.com
 pkwin1.com
 play.789.club
 play.789club.sx
+play.b52club.me
 play.b52m.club
 play.bay789.io
 play.bay789.life
@@ -4240,11 +4253,13 @@ play.go88.tv
 play.haywin.ai
 play.haywin.space
 play.haywin.store
+play.haywin.training
 play.hit.club
 play.im99.com
 play.iwin.bio
 play.lo88.live
 play.okvip.fun
+play.ricwin.moi
 play.ricwin.pw
 play.rik88.life
 play.rikvip.info
@@ -4357,6 +4372,8 @@ rewards.w88bkk.com
 rgames.org
 ricbet.com
 ricbet.win
+ricwin.moi
+ricwin.mx
 ricwin.pw
 rik.bet
 rik.club
@@ -4608,7 +4625,9 @@ sunwin.lt
 sunwin.moi
 sunwin.pro
 sunwin.pw
+sunwin.show
 sunwin.sx
+sunwinchinhhang.com
 sunwinvn.club
 sure168.asia
 sut88.com
@@ -4779,6 +4798,7 @@ tin88.vip
 tin888.club
 tintuc.vlott88.com
 tip.club
+tip88.app
 tip88.com
 tip88vn.me
 tipkeo.thethaofb88.com
@@ -4844,6 +4864,7 @@ tt128.net
 twin5568.com
 tx1.vip
 tx88.com
+tx88.fan
 tx88.fun
 tx88.fyi
 tx88.in
@@ -4940,6 +4961,8 @@ vic.doctor
 vic.hair
 vic.win
 vic88.com
+vic88.link
+vic88.mx
 vic88.net
 victorwin555.com
 vicwin.vip
@@ -5048,6 +5071,7 @@ vsports.bet
 vsports.pro
 vsports88.asia
 vstar79.com
+vu88.ac
 vu88.com
 vu88.de
 vu88.in
@@ -5695,6 +5719,7 @@ xemdagacampuchia.com
 xemtylecacuoc.bong99.com
 xibet.com
 xibet.fun
+xibet.vg
 xibet.win
 xidach.8day66.com
 xingtou888.com
@@ -5773,6 +5798,7 @@ zo88.org
 zo88.vip
 zoplay.top
 zowin.bh
+zowin.esq
 zowin.im
 zowin.is
 zowin.kim
@@ -5787,6 +5813,7 @@ zowin.tw
 zowin.uno
 zowin.vu
 zowin.ws
+zowinchinhhang.online
 10bet.com
 10luxury39.com
 11wickets.com
@@ -8430,9 +8457,9 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 26 Jun 2026 09:57 UTC+7
-# Version: 2606260957
-# Blocked: 1.869 domains
+# Last modified: 30 Jun 2026 22:43 UTC+7
+# Version: 2606302243
+# Blocked: 1.870 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10077,6 +10104,7 @@ vlxx.media
 vlxx.men
 vlxx.mobi
 vlxx.moe
+vlxx.moi
 vlxx.money
 vlxx.mx
 vlxx.net
