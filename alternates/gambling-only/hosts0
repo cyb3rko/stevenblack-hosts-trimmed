@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 30 June 2026 21:58:14 (UTC)
+# Date: 09 July 2026 11:47:22 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 6,239
+# Number of unique domains: 6,326
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 30 Jun 2026 22:43 UTC+7
-# Version: 2606302243
-# Blocked: 3.597 domains
+# Last modified: 09 Jul 2026 14:52 UTC+7
+# Version: 2607091452
+# Blocked: 3.684 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -43,8 +43,10 @@
 11bet.gg
 11bet.in
 11bet.life
+11bet.lt
 11bet.mobi
 11bet.mx
+11bet.name
 11bet.net
 11bet.online
 11bet.org
@@ -67,6 +69,7 @@
 123b88.com
 123bdy.com
 123bhh.com
+123bong.vg
 123win.pro
 12b99.com
 12betvnd.com
@@ -127,7 +130,9 @@
 388bet.vin
 388bet.vip
 3bet.biz
+3bet.host
 3bet.la
+3bet.llc
 3bet.ph
 3bet.sh
 3bet.ski
@@ -135,6 +140,7 @@
 3bet.tech
 3bet.vc
 3bet.win
+3bet.work
 3bet.you
 3kingclub.com
 448kbet.com
@@ -186,6 +192,8 @@
 789betp.com
 789betr.com
 789betu.com
+789club.am
+789club.ba
 789club.biz
 789club.com
 789club.org
@@ -478,6 +486,7 @@ b52.nu
 b52.vip
 b52.win
 b52club.me
+b52club.mobi
 b52d.club
 b52k.club
 b52m.club
@@ -493,8 +502,11 @@ ball88.app
 ball88.com
 ball88.day
 ball88.fun
+ball88.fyi
 ball88.games
+ball88.lat
 ball88.llc
+ball88.men
 ball88.mobi
 ball88.red
 ball88.to
@@ -510,6 +522,7 @@ bay789.club
 bay789.io
 bay789.life
 bec88.com
+bec88.fun
 ben.bet
 benbet.app
 benbet.com
@@ -574,9 +587,12 @@ bntv.bongvip.com
 bom52.club
 bom88.com
 bom88.cool
+bom88.diy
 bom88.ing
 bom88.net
 bom88.pics
+bom88.plus
+bom88.shop
 bong.thethaowin.net
 bong88.cam
 bong88.com
@@ -666,6 +682,7 @@ choitip88.me
 choiwin79.in
 choiwon88.info
 click.mibet88.com
+club-gov.com
 cm88.com
 cmd368max.com
 cmd368t.com
@@ -723,6 +740,7 @@ d9bet68.com
 d9bet88.com
 da88.com
 da88.pro
+da88.si
 da88.vip
 da88.win
 da88vn.win
@@ -825,14 +843,17 @@ dp313.com
 dp533.com
 dp568.com
 dp568bet.com
+du88.art
 du88.cafe
 du88.club
 du88.com
 du88.in
 du88.info
+du88.life
 du88.pro
 dubaivn.vip
 duongdenkhungthanh.com
+dv88.city
 ebet.com
 eclbet02.com
 eclbet7.com
@@ -963,7 +984,9 @@ fcb8.win
 fcb88.com
 fcb88.vip
 fcb88d.com
+febet.fun
 febet.net
+febet.sh
 feli88.com
 fi88.app
 fi88.club
@@ -1069,9 +1092,11 @@ gemwin.ink
 gemwin.is
 gemwin.lc
 gemwin.lv
+gemwin.mobi
 gemwin.my
 gemwin.nz
 gemwin.page
+gemwin.spot
 gemwin.tax
 gemwin.to
 gemwin.tv
@@ -1092,12 +1117,15 @@ go8.plus
 go8.pub
 go8.pw
 go88-vn.com
+go88.bayern
 go88.ca
 go88.club
 go88.com
 go88.contractors
+go88.food
 go88.live
 go88.luxury
+go88.me
 go88.org
 go88.study
 go88.top
@@ -1132,6 +1160,7 @@ happynb.com
 hay88.net
 hay8811.com
 hay8822.com
+haybet.nl
 haybet.ws
 haywin.ac
 haywin.ai
@@ -1148,13 +1177,17 @@ hb8864.com
 hb8875.com
 hb8887.com
 hb88vn.co
+hbet.ac
 hbet.club
+hbet.fm
 hbet.li
 hbet.lv
 hbet.net
+hbet.ph
 hbet.pw
 hbet.win
 hcm66.com
+hd88.tv
 hdbet.com
 hi.oppa888.com
 hi88.chat
@@ -1169,6 +1202,7 @@ hi88vip7.com
 hi88vip8.com
 hiephoilangnghevietnam.com
 hit.club
+hit.club-gov.com
 hit1.club
 hit68.net
 hitclub.bi
@@ -1183,6 +1217,7 @@ hitclub.lv
 hitclub.mk
 hitclub.ml
 hitclub.mu
+hitclub.mw
 hitclub.pl
 hitclub.pro
 hitclub.salon
@@ -1193,6 +1228,7 @@ hitclub.top
 hitclub.tv
 hitclub.vin
 hitclub.win
+hitclub.yoga
 hitclubchinhhang.com
 hl8thai8.com
 hn8.link
@@ -1647,12 +1683,15 @@ lp.vuiuk88.club
 lp.zo1.win
 lt991.com
 lu88.ai
+lu88.ch
 lu88.co
 lu88.com
 lu88.gdn
 lu88.kim
+lu88.mn
 lu88.nz
 lu88.pro
+lu88.tw
 luck6.com
 luck8.com
 luck8881.com
@@ -1750,6 +1789,7 @@ m1.ball88.com
 m1.ball88.fun
 m1.ball88.games
 m1.ball88.llc
+m1.ball88.men
 m1.ball88.mobi
 m1.ball88.red
 m1.ball88.to
@@ -1759,9 +1799,11 @@ m1.max88.vip
 m1.may88d.com
 m1.tin88.bet
 m1.vin88.net
+m1.vin88.pub
 m1.vin88.pw
 m1.vin88.vin
 m1.vin88.vip
+m1.xibet.ec
 m1.xibet.fun
 m2.tin88.in
 m2.tin88.vip
@@ -1784,11 +1826,15 @@ man.top
 man.vip
 man1.club
 man79.org
+man88.biz
+man88.bz
+man88.co
 man88.la
 man88.net
 man88.ng
 man88.pl
 man88.pw
+man88.sh
 man88.top
 man88.vip
 man88.win
@@ -1837,6 +1883,7 @@ mibet88.win
 mig8fans.com
 mig8vn.com
 min88.com
+min88.ing
 min88.me
 minigame.vnloto.com
 minivn.com
@@ -2046,6 +2093,7 @@ pkwin1.com
 play.789.club
 play.789club.sx
 play.b52club.me
+play.b52club.mobi
 play.b52m.club
 play.bay789.io
 play.bay789.life
@@ -2066,10 +2114,12 @@ play.im99.com
 play.iwin.bio
 play.lo88.live
 play.okvip.fun
+play.ricwin.ing
 play.ricwin.moi
 play.ricwin.pw
 play.rik88.life
 play.rikvip.info
+play.rikvip.med
 play.rikvip.tv
 play.sbotop246.com
 play.son.club
@@ -2113,6 +2163,7 @@ profile.w88.vin
 prok8.com
 pt1.fabet.win
 pub88.com
+pub88.day
 pub88.win
 pum88.com
 qc.789.mobi
@@ -2127,6 +2178,7 @@ qc.nhat.game
 qc.nhat.it
 qc.nhatvip.pro
 qc.rikvip.info
+qc.rikvip.med
 qc.tai789.icu
 qc.top88.me
 qc.top88.uk
@@ -2179,6 +2231,7 @@ rewards.w88bkk.com
 rgames.org
 ricbet.com
 ricbet.win
+ricwin.ing
 ricwin.moi
 ricwin.mx
 ricwin.pw
@@ -2190,14 +2243,17 @@ rik.vip
 rik.win
 rik6.com
 rik88.life
+rikbet.red
 rikvip.fun
 rikvip.info
+rikvip.med
 rikvip.property
 rikvip.tv
 rikvip.us
 rikvip.vip
 rikvip.wales
 rikvip.win
+rikvipchinhhang.com
 royal77vn.com
 rr88.live
 rs88.com
@@ -2298,6 +2354,7 @@ sk.ball88.com
 sk.ball88.day
 sk.ball88.fun
 sk.ball88.llc
+sk.ball88.men
 sk.ball88.mobi
 sk.ball88.to
 sk.ball88.zone
@@ -2322,11 +2379,14 @@ sk.tin88.bet
 sk.tin88.club
 sk.tin88.in
 sk.vin88.net
+sk.vin88.pub
 sk.vin88.pw
 sk.vin88.vin
 sk.vin88.vip
 sk.xibet.com
+sk.xibet.ec
 sk.xibet.fun
+sk.xibet.vu
 sk.zbet.ws
 sky88.bet
 sky88.club
@@ -2670,15 +2730,20 @@ tructiepdaga.info
 tt128.net
 twin5568.com
 tx1.vip
+tx88.biz
 tx88.com
 tx88.fan
 tx88.fun
 tx88.fyi
+tx88.hot
 tx88.in
 tx88.ing
+tx88.la
 tx88.llc
+tx88.now
 tx88.onl
 tx88.top
+tx88.vet
 tydo88.com
 tz.bet20.bet
 u88.watch
@@ -2691,8 +2756,12 @@ udw886.com
 uer5.com
 uk88.club
 uk88.com
+uk88.gd
+uk88.how
+uk88.mba
 uk88.top
 uk88.vip
+uk88.xin
 upanh.vn88.com
 usbet.cc
 usbet.net
@@ -2712,6 +2781,7 @@ v.hitclub.mu
 v.hitclub.si
 v.hitclub.su
 v.hitclub.tv
+v.hitclub.yoga
 v.nhat9.vip
 v.nhatvip.pro
 v.nhatvip.vip
@@ -2750,6 +2820,7 @@ vb777.co
 vb777.com
 vb88.com
 vb88.win
+vb88.zone
 vbet88.fun
 vebo.bet
 vf234.com
@@ -2781,13 +2852,16 @@ vin777.work
 vin88.com
 vin88.moi
 vin88.net
+vin88.pub
 vin88.pw
+vin88.soy
 vin88.sx
 vin88.top
 vin88.tv
 vin88.vin
 vin88.vip
 vin88.win
+vin88chinhhang.com
 vina88.net
 vip.dangkyrikvip.me
 vip.dangkyrikvip.tv
@@ -2882,12 +2956,18 @@ vu88.ac
 vu88.com
 vu88.de
 vu88.in
+vu88.la
+vu88.live
+vu88.lv
 vu88.net
+vu88.sh
 vu88.tv
+vu88.ws
 vua88.app
 vua88.biz
 vua88.club
 vua88.com
+vua88.host
 vuabai9.com
 vuabai9vn.com
 vuabet.com
@@ -2991,6 +3071,7 @@ web.win79.vg
 web.yo88.is
 web.yo88.ist
 web.yo88.ml
+web.yo88.phd
 web.yo88.so
 web.yo88.st
 web.yo88.tv
@@ -3525,8 +3606,10 @@ xemdabanh.club
 xemdagacampuchia.com
 xemtylecacuoc.bong99.com
 xibet.com
+xibet.ec
 xibet.fun
 xibet.vg
+xibet.vu
 xibet.win
 xidach.8day66.com
 xingtou888.com
@@ -3536,6 +3619,7 @@ xo88.club
 xo88.com
 xo88.fun
 xo88.pro
+xo88.tw
 xo88.us
 xo88.win
 xo88bet.com
@@ -3571,6 +3655,7 @@ yo88.cool
 yo88.is
 yo88.ist
 yo88.ml
+yo88.phd
 yo88.pw
 yo88.so
 yo88.st
@@ -3606,6 +3691,7 @@ zo88.vip
 zoplay.top
 zowin.bh
 zowin.esq
+zowin.fan
 zowin.im
 zowin.is
 zowin.kim
@@ -3614,6 +3700,7 @@ zowin.ng
 zowin.ph
 zowin.red
 zowin.sh
+zowin.srl
 zowin.sx
 zowin.tv
 zowin.tw
