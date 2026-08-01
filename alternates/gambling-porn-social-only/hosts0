@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 July 2026 23:52:34 (UTC)
+# Date: 27 July 2026 22:55:46 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn, social
-# Number of unique domains: 86,378
+# Number of unique domains: 86,384
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 23 Jul 2026 14:11 UTC+7
-# Version: 2607231411
-# Blocked: 3.747 domains
+# Last modified: 27 Jul 2026 13:57 UTC+7
+# Version: 2607271357
+# Blocked: 3.753 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -206,6 +206,7 @@
 789club.gp
 789club.ke
 789club.mu
+789club.mw
 789club.org
 789club.sx
 789club.vg
@@ -1474,6 +1475,7 @@ k88.cam
 k88.club
 k88.mobi
 k88.moe
+k88.mov
 k88.pro
 k88.tel
 k88.win
@@ -2435,6 +2437,7 @@ sk.xibet.fun
 sk.xibet.ing
 sk.xibet.now
 sk.xibet.nz
+sk.xibet.pl
 sk.xibet.vu
 sk.zbet.ws
 sky88.bet
@@ -2810,6 +2813,7 @@ udw886.com
 uer5.com
 uk88.club
 uk88.com
+uk88.dev
 uk88.gd
 uk88.how
 uk88.mba
@@ -3014,6 +3018,7 @@ vu88.in
 vu88.la
 vu88.live
 vu88.lv
+vu88.mobi
 vu88.moe
 vu88.mx
 vu88.net
@@ -3670,6 +3675,7 @@ xibet.ing
 xibet.moi
 xibet.now
 xibet.nz
+xibet.pl
 xibet.vg
 xibet.vu
 xibet.win
@@ -6414,8 +6420,8 @@ www.pokerstars.bg
 everbet.bg
 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 23 Jul 2026 14:11 UTC+7
-# Version: 2607231411
+# Last modified: 27 Jul 2026 13:57 UTC+7
+# Version: 2607271357
 # Blocked: 1.895 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
