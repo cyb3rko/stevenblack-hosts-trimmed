@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 July 2026 22:55:47 (UTC)
+# Date: 05 August 2026 18:17:05 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 9,639
+# Number of unique domains: 9,717
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 27 Jul 2026 13:57 UTC+7
-# Version: 2607271357
-# Blocked: 3.753 domains
+# Last modified: 05 Aug 2026 13:48 UTC+7
+# Version: 2608051348
+# Blocked: 3.831 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -55,10 +55,13 @@
 11bet.vin
 11bet.win
 11betvnd.com
+11win.link
 11win.llc
 11win.mobi
 11win.mx
 11win.net
+11win.vin
+11win.works
 11zalo.com
 123b.bet
 123b.com
@@ -138,8 +141,10 @@
 3bet.llc
 3bet.moe
 3bet.ph
+3bet.rent
 3bet.sh
 3bet.ski
+3bet.skin
 3bet.so
 3bet.store
 3bet.tech
@@ -203,8 +208,10 @@
 789club.biz
 789club.com
 789club.cr
+789club.fun
 789club.gp
 789club.ke
+789club.kn
 789club.mu
 789club.mw
 789club.org
@@ -322,6 +329,10 @@
 99vina.club
 99vn.bet
 9b992.com
+9bet.army
+9bet.band
+9bet.blue
+9bet.green
 9bet.mobi
 9bet.net
 9bet.rest
@@ -419,6 +430,9 @@ api.123bhh.com
 api.33beta.com
 api.88bet88bet.com
 api.99vn.bet
+api.9bet.army
+api.9bet.band
+api.9bet.green
 api.9bet.mobi
 api.9bet.win
 api.ae888.com
@@ -431,6 +445,7 @@ api.f8bet5.com
 api.haybet.ws
 api.hb8887.com
 api.hdbet.com
+api.ku88.okinawa
 api.max79.win
 api.min88.com
 api.minivn.com
@@ -450,6 +465,7 @@ api.shbet3.com
 api.shbetvv.com
 api.sky88.club
 api.sky88.com
+api.sky88.moda
 api.st666.win
 api.topbet.net
 api.topbet.top
@@ -510,6 +526,7 @@ b88ag.com
 bachhoa88.com
 bacty88.com
 ball88.app
+ball88.blue
 ball88.casa
 ball88.com
 ball88.cool
@@ -523,6 +540,7 @@ ball88.love
 ball88.ltd
 ball88.men
 ball88.mobi
+ball88.poker
 ball88.red
 ball88.team
 ball88.to
@@ -603,6 +621,7 @@ bntv.bongvip.com
 bom52.club
 bom88.baby
 bom88.casa
+bom88.city
 bom88.click
 bom88.com
 bom88.cool
@@ -614,6 +633,7 @@ bom88.pics
 bom88.plus
 bom88.shop
 bom88.team
+bom88.tips
 bong.thethaowin.net
 bong88.cam
 bong88.com
@@ -870,13 +890,16 @@ du88.cafe
 du88.care
 du88.club
 du88.com
+du88.fashion
 du88.guru
+du88.health
 du88.in
 du88.info
 du88.life
 du88.pro
 du88.sh
 du88.tips
+du88.wales
 dubaivn.vip
 duongdenkhungthanh.com
 dv88.city
@@ -1118,11 +1141,14 @@ gemwin.fyi
 gemwin.ink
 gemwin.is
 gemwin.lc
+gemwin.limo
 gemwin.lv
 gemwin.mobi
 gemwin.my
 gemwin.nz
 gemwin.page
+gemwin.rent
+gemwin.sale
 gemwin.spot
 gemwin.tax
 gemwin.to
@@ -1178,6 +1204,8 @@ god55.zone
 god55viet.com
 gogobolaku.com
 gw.gen88.com
+gw.mubet.media
+gw.mubet.talk
 gw.mubet.vip
 gw.tot88.store
 h3bet.com
@@ -1205,6 +1233,7 @@ hb8875.com
 hb8887.com
 hb88vn.co
 hbet.ac
+hbet.bio
 hbet.club
 hbet.cz
 hbet.fm
@@ -1215,6 +1244,7 @@ hbet.net
 hbet.nl
 hbet.ph
 hbet.pw
+hbet.sh
 hbet.so
 hbet.vc
 hbet.win
@@ -1471,8 +1501,10 @@ k8.games
 k801k.com
 k81206.com
 k88.art
+k88.bz
 k88.cam
 k88.club
+k88.mba
 k88.mobi
 k88.moe
 k88.mov
@@ -1625,6 +1657,7 @@ ku6110.net
 ku6131.net
 ku777bet.com
 ku88.fun
+ku88.okinawa
 ku88.pro
 ku88.win
 ku998.net
@@ -1725,9 +1758,11 @@ lu88.co
 lu88.com
 lu88.de
 lu88.ec
+lu88.gd
 lu88.gdn
 lu88.kim
 lu88.lc
+lu88.lv
 lu88.mn
 lu88.nz
 lu88.pro
@@ -1869,12 +1904,14 @@ man1.club
 man79.org
 man88.biz
 man88.bz
+man88.ch
 man88.cl
 man88.co
 man88.la
 man88.li
 man88.net
 man88.ng
+man88.ph
 man88.pl
 man88.pw
 man88.sh
@@ -1982,8 +2019,12 @@ mu92.com
 mu922.com
 mubet.best
 mubet.dev
+mubet.media
 mubet.sh
+mubet.talk
+mubet.video
 mubet.vip
+mubet.website
 mv66.app
 mv66.baby
 mv66.biz
@@ -2179,6 +2220,7 @@ play.top88.voto
 play.topclub.casa
 play.vaob52.click
 play.vic.hair
+play.vicclub.ac
 play.vip79.top
 play.win79.vip
 play.win79d.com
@@ -2209,6 +2251,9 @@ prok8.com
 pt1.fabet.win
 pub88.com
 pub88.day
+pub88.forum
+pub88.ltd
+pub88.pw
 pub88.win
 pum88.com
 qc.789.mobi
@@ -2395,6 +2440,7 @@ sin88s.com
 sinbet.com
 sinbet.vip
 sk.ball88.app
+sk.ball88.blue
 sk.ball88.casa
 sk.ball88.com
 sk.ball88.day
@@ -2438,6 +2484,8 @@ sk.xibet.ing
 sk.xibet.now
 sk.xibet.nz
 sk.xibet.pl
+sk.xibet.red
+sk.xibet.soy
 sk.xibet.vu
 sk.zbet.ws
 sky88.bet
@@ -2445,9 +2493,11 @@ sky88.club
 sky88.com
 sky88.in
 sky88.info
+sky88.moda
 sky88.net
 sky88.top
 sky88.win
+sky88chinhhang.com
 skyclub.bid
 sm611.com
 smart.8live.com
@@ -2470,12 +2520,16 @@ sock.red88.vip
 sock.sky88.club
 sock.sky88.com
 sock.sky88.in
+socket.9bet.army
+socket.9bet.band
+socket.9bet.green
 socket.9bet.mobi
 socket.9bet.win
 socket.debet.so
 socket.debet.uk
 socket.debet.win
 socket.hdbet.com
+socket.ku88.okinawa
 socket.topbet.top
 socket.usbet.cc
 socket.usbet.net
@@ -2771,6 +2825,9 @@ topzo.com
 topzo.top
 topzo.vip
 tot88.com
+tot88.farm
+tot88.ink
+tot88.loan
 tot88.store
 tourghepmienbac.net
 trang188vn.com
@@ -2787,17 +2844,20 @@ tx88.ch
 tx88.com
 tx88.download
 tx88.fan
+tx88.fashion
 tx88.fun
 tx88.fyi
 tx88.hot
 tx88.in
 tx88.ing
+tx88.krd
 tx88.la
 tx88.llc
 tx88.navy
 tx88.now
 tx88.onl
 tx88.photo
+tx88.pink
 tx88.top
 tx88.vet
 tx88.zone
@@ -2811,6 +2871,7 @@ udw87.cc
 udw881.cc
 udw886.com
 uer5.com
+uk88.cab
 uk88.club
 uk88.com
 uk88.dev
@@ -2820,6 +2881,7 @@ uk88.mba
 uk88.top
 uk88.vip
 uk88.xin
+uk88chinhhang.com
 upanh.vn88.com
 usbet.cc
 usbet.net
@@ -2893,13 +2955,16 @@ vh79.com
 vi.oppa888.com
 vi68.org
 vibet.com
+vic.boutique
 vic.doctor
 vic.hair
+vic.ventures
 vic.win
 vic88.com
 vic88.link
 vic88.mx
 vic88.net
+vicclub.ac
 victorwin555.com
 vicwin.vip
 vietvwin.com
@@ -3014,6 +3079,7 @@ vu88.ac
 vu88.com
 vu88.cz
 vu88.de
+vu88.fm
 vu88.in
 vu88.la
 vu88.live
@@ -3023,6 +3089,7 @@ vu88.moe
 vu88.mx
 vu88.net
 vu88.ng
+vu88.ro
 vu88.sh
 vu88.tv
 vu88.ws
@@ -3129,6 +3196,7 @@ web.mayclub.net
 web.nhatvip.net
 web.sunwin.pro
 web.topzo.com
+web.win79.eco
 web.win79.moi
 web.win79.vg
 web.yo88.is
@@ -3152,6 +3220,7 @@ win456.cc
 win79.app
 win79.com
 win79.download
+win79.eco
 win79.fun
 win79.im
 win79.live
@@ -3162,6 +3231,7 @@ win79.site
 win79.vg
 win79.vip
 win79a.com
+win79chinhhang.com
 win79d.com
 win79play.me
 win888b.com
@@ -3182,10 +3252,14 @@ winvn17.com
 winvn18.com
 won88.com
 won88.win
+wp.9bet.army
+wp.9bet.band
+wp.9bet.green
 wp.9bet.mobi
 wp.9bet.win
 wp.debet79.info
 wp.hdbet.com
+wp.ku88.okinawa
 wp.mibet.net
 wp.nbet.fan
 wp.nbet.to
@@ -3197,6 +3271,7 @@ wp.red88.vip
 wp.rikvip.tv
 wp.sky88.club
 wp.sky88.com
+wp.sky88.moda
 wp.topbet.net
 wp.topbet.top
 ww88.club
@@ -3676,6 +3751,8 @@ xibet.moi
 xibet.now
 xibet.nz
 xibet.pl
+xibet.red
+xibet.soy
 xibet.vg
 xibet.vu
 xibet.win
@@ -3770,6 +3847,7 @@ zowin.ph
 zowin.red
 zowin.sh
 zowin.srl
+zowin.st
 zowin.sx
 zowin.tv
 zowin.tw
