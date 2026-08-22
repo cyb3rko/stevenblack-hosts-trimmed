@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 14 August 2026 00:45:11 (UTC)
+# Date: 20 August 2026 14:01:16 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling
-# Number of unique domains: 8,721
+# Number of unique domains: 8,746
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2207,9 +2207,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 10 Aug 2026 14:14 UTC+7
-# Version: 2608101414
-# Blocked: 3.866 domains
+# Last modified: 18 Aug 2026 13:56 UTC+7
+# Version: 2608181356
+# Blocked: 3.888 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2249,6 +2249,8 @@ zombie.news
 11bet.win
 11betvnd.com
 11win.beer
+11win.casa
+11win.free
 11win.link
 11win.llc
 11win.mobi
@@ -2408,6 +2410,8 @@ zombie.news
 789club.gp
 789club.ke
 789club.kn
+789club.mba
+789club.men
 789club.mu
 789club.mw
 789club.nu
@@ -2531,10 +2535,12 @@ zombie.news
 9bet.band
 9bet.blue
 9bet.care
+9bet.fund
 9bet.green
 9bet.mobi
 9bet.net
 9bet.photo
+9bet.pink
 9bet.rest
 9bet.win
 9bet.world
@@ -2633,6 +2639,7 @@ api.99vn.bet
 api.9bet.army
 api.9bet.band
 api.9bet.care
+api.9bet.fund
 api.9bet.green
 api.9bet.mobi
 api.9bet.photo
@@ -3094,6 +3101,7 @@ du88.click
 du88.club
 du88.com
 du88.fashion
+du88.football
 du88.guru
 du88.health
 du88.in
@@ -3375,6 +3383,7 @@ go8.plus
 go8.pub
 go8.pw
 go88-vn.com
+go88.adqc.net
 go88.bayern
 go88.ca
 go88.club
@@ -3382,6 +3391,7 @@ go88.com
 go88.contractors
 go88.food
 go88.live
+go88.ls
 go88.luxury
 go88.md
 go88.me
@@ -3439,6 +3449,8 @@ hb8875.com
 hb8887.com
 hb88vn.co
 hbet.ac
+hbet.art
+hbet.bar
 hbet.bio
 hbet.club
 hbet.cz
@@ -3716,8 +3728,11 @@ k88.mba
 k88.mobi
 k88.moe
 k88.mov
+k88.nz
 k88.pro
+k88.sx
 k88.tel
+k88.vc
 k88.win
 k89bet.com
 k8asia79.com
@@ -3975,6 +3990,7 @@ lu88.mn
 lu88.nz
 lu88.pro
 lu88.pw
+lu88.tv
 lu88.tw
 lu88.vg
 luck6.com
@@ -4463,6 +4479,8 @@ prod.goal123.com
 profile.w88.vin
 prok8.com
 pt1.fabet.win
+pub88.camera
+pub88.channel
 pub88.com
 pub88.day
 pub88.forum
@@ -4739,6 +4757,7 @@ sock.sky88.in
 socket.9bet.army
 socket.9bet.band
 socket.9bet.care
+socket.9bet.fund
 socket.9bet.green
 socket.9bet.mobi
 socket.9bet.photo
@@ -5078,6 +5097,7 @@ tx88.now
 tx88.onl
 tx88.photo
 tx88.pink
+tx88.rest
 tx88.top
 tx88.vet
 tx88.zone
@@ -5478,6 +5498,7 @@ won88.win
 wp.9bet.army
 wp.9bet.band
 wp.9bet.care
+wp.9bet.fund
 wp.9bet.green
 wp.9bet.mobi
 wp.9bet.photo
@@ -6065,6 +6086,7 @@ zowin.bh
 zowin.ci
 zowin.esq
 zowin.fan
+zowin.fm
 zowin.im
 zowin.is
 zowin.kim
@@ -8744,4 +8766,7 @@ www.g488hshsssaaz.xyz
 www.sealjl.bar
 www.zzzhhhhwoog488.cyou
 www.acewin999.top
+winning228.sch.id
 www.191slotsgo.cc
+nextbola.ac.id
+bolaku.sch.id

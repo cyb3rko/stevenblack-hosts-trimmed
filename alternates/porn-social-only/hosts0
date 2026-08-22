@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 14 August 2026 00:45:28 (UTC)
+# Date: 20 August 2026 14:01:32 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: porn, social
-# Number of unique domains: 80,552
+# Number of unique domains: 80,557
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Adult VN
-# Last modified: 10 Aug 2026 14:14 UTC+7
-# Version: 2608101414
-# Blocked: 1.899 domains
+# Last modified: 18 Aug 2026 13:56 UTC+7
+# Version: 2608181356
+# Blocked: 1.902 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -510,6 +510,7 @@ javfinder.li
 javgg.me
 javgg.sbs
 javgiga.com
+javhay.buzz
 javhay.click
 javhay.co
 javhay.cyou
@@ -547,6 +548,7 @@ javhdhay.me
 javhdhay.us
 javhdhayz.com
 javhdvietsub.com
+javhdz.city
 javhdz.fun
 javhdz.hot
 javhdz.pro
@@ -1691,6 +1693,7 @@ vlxx.mobi
 vlxx.moe
 vlxx.moi
 vlxx.money
+vlxx.ms
 vlxx.mx
 vlxx.net
 vlxx.network
@@ -76500,6 +76503,8 @@ missav.ai
 cdn2.pvvstream.pro
 analzoofilia.xyz
 zoophilia.me
+porndd.com
+orangepix.is
 # Title: Snuff hosts
 
 bitcheese.net
