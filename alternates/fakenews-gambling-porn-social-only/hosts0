@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 August 2026 19:34:04 (UTC)
+# Date: 04 September 2026 13:35:28 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 89,295
+# Number of unique domains: 89,332
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2201,9 +2201,9 @@ youtubecensorship.com
 yubasuttertimes.com
 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 27 Aug 2026 14:23 UTC+7
-# Version: 2608271423
-# Blocked: 3.928 domains
+# Last modified: 31 Aug 2026 22:44 UTC+7
+# Version: 2608312244
+# Blocked: 3.953 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2244,6 +2244,7 @@ zombie.news
 11betvnd.com
 11win.beer
 11win.casa
+11win.fashion
 11win.free
 11win.link
 11win.llc
@@ -2282,6 +2283,7 @@ zombie.news
 188bet.vote
 188betcn2.com
 188goal.com
+188lux.com
 188pscn2.com
 188thethao.com
 18luck.pro
@@ -2535,6 +2537,7 @@ zombie.news
 9bet.blue
 9bet.care
 9bet.diy
+9bet.es
 9bet.fund
 9bet.green
 9bet.krd
@@ -2641,6 +2644,7 @@ api.9bet.army
 api.9bet.band
 api.9bet.care
 api.9bet.diy
+api.9bet.es
 api.9bet.fund
 api.9bet.green
 api.9bet.krd
@@ -3104,6 +3108,7 @@ du88.care
 du88.click
 du88.club
 du88.com
+du88.diy
 du88.fashion
 du88.football
 du88.guru
@@ -3426,6 +3431,7 @@ god55.zone
 god55viet.com
 gogobolaku.com
 gw.gen88.com
+gw.mubet.help
 gw.mubet.media
 gw.mubet.talk
 gw.mubet.tips
@@ -3475,6 +3481,7 @@ hbet.spa
 hbet.srl
 hbet.vc
 hbet.win
+hbet.wtf
 hcm66.com
 hd88.tv
 hdbet.com
@@ -3738,6 +3745,7 @@ k88.moe
 k88.mov
 k88.now
 k88.nz
+k88.phd
 k88.pro
 k88.soy
 k88.sx
@@ -3986,6 +3994,7 @@ lp.vuiuk88.club
 lp.zo1.win
 lt991.com
 lu88.ai
+lu88.app
 lu88.bio
 lu88.ch
 lu88.co
@@ -4029,6 +4038,7 @@ lucky88.vin
 lucky88.win
 lucky88vn.com
 lxviet66.com
+m.188lux.com
 m.188thethao.com
 m.88viet.com
 m.88vnd.com
@@ -4075,6 +4085,7 @@ m.tf88265.com
 m.tf88v.com
 m.tf88vn.com
 m.tin888.club
+m.tin888.top
 m.ud1a.com
 m.udw87.cc
 m.udw881.cc
@@ -4147,6 +4158,7 @@ man88.cl
 man88.co
 man88.io
 man88.la
+man88.lat
 man88.li
 man88.net
 man88.ng
@@ -4260,6 +4272,7 @@ mu92.com
 mu922.com
 mubet.best
 mubet.dev
+mubet.help
 mubet.info
 mubet.media
 mubet.sh
@@ -4501,6 +4514,7 @@ pub88.channel
 pub88.charity
 pub88.college
 pub88.com
+pub88.company
 pub88.day
 pub88.forum
 pub88.ltd
@@ -4624,6 +4638,7 @@ s3.sin88.si
 s3.sin88.sx
 s3.sin88.tw
 s4.gen88.com
+s4.mubet.help
 s4.mubet.vip
 s4.tot88.store
 s555.com
@@ -4731,6 +4746,7 @@ sk.vin88.vin
 sk.vin88.vip
 sk.xibet.com
 sk.xibet.ec
+sk.xibet.foo
 sk.xibet.fun
 sk.xibet.ing
 sk.xibet.now
@@ -4779,6 +4795,7 @@ socket.9bet.army
 socket.9bet.band
 socket.9bet.care
 socket.9bet.diy
+socket.9bet.es
 socket.9bet.fund
 socket.9bet.green
 socket.9bet.krd
@@ -5029,6 +5046,8 @@ tin88.in
 tin88.top
 tin88.vip
 tin888.club
+tin888.net
+tin888.top
 tintuc.vlott88.com
 tip.club
 tip88.app
@@ -5099,6 +5118,7 @@ tructiepdaga.info
 tt128.net
 twin5568.com
 tx1.vip
+tx88.band
 tx88.biz
 tx88.ch
 tx88.com
@@ -5231,6 +5251,7 @@ vic88.mx
 vic88.net
 vicclub.ac
 vicclub.id
+vicclub.ink
 vicclub.mx
 vicclub.sh
 victorwin555.com
@@ -5345,6 +5366,7 @@ vsports88.asia
 vstar79.com
 vu88.ac
 vu88.best
+vu88.bio
 vu88.com
 vu88.cz
 vu88.de
@@ -5528,6 +5550,7 @@ wp.9bet.army
 wp.9bet.band
 wp.9bet.care
 wp.9bet.diy
+wp.9bet.es
 wp.9bet.fund
 wp.9bet.green
 wp.9bet.krd
@@ -6022,6 +6045,7 @@ xemdagacampuchia.com
 xemtylecacuoc.bong99.com
 xibet.com
 xibet.ec
+xibet.foo
 xibet.fun
 xibet.ing
 xibet.moi
@@ -6120,6 +6144,7 @@ zowin.ci
 zowin.esq
 zowin.fan
 zowin.fm
+zowin.gripe
 zowin.im
 zowin.is
 zowin.kim
@@ -8805,9 +8830,9 @@ www.191slotsgo.cc
 nextbola.ac.id
 bolaku.sch.id
 # Title: hostsVN Adult VN
-# Last modified: 27 Aug 2026 14:23 UTC+7
-# Version: 2608271423
-# Blocked: 1.906 domains
+# Last modified: 31 Aug 2026 22:44 UTC+7
+# Version: 2608312244
+# Blocked: 1.918 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8900,6 +8925,7 @@ cangcuc.com
 cap3.autos
 cap3.beer
 cap3.click
+cap3.email
 cap3.monster
 cap3.pics
 cap3.pro
@@ -9071,7 +9097,10 @@ gai2.buomngon.com
 gaicaocap.xyz
 gaichanh.co
 gaidam18.com
+gaidep.blog
 gaidepvn.xyz
+gaidepxx.com
+gaidepxx.me
 gaigoi.homes
 gaigoi.id
 gaigoi.live
@@ -9316,6 +9345,7 @@ javhd.ai
 javhd.best
 javhd.bio
 javhd.charity
+javhd.co.uk
 javhd.contact
 javhd.exchange
 javhd.im
@@ -9550,6 +9580,7 @@ phim18hd.info
 phim18hd.net
 phim18hd.one
 phim18hd.top
+phim18k.blog
 phim18k.com
 phim18vn.com
 phim18x.net
@@ -9885,6 +9916,7 @@ rphangx.me
 rphangx.net
 rphangx.tv
 s.chinav.sex
+s.gaidep.blog
 s.phimsexvip.cc
 s.vnchich.net
 s3xvn.com
@@ -10075,6 +10107,7 @@ sextop1.mom
 sextop1.one
 sextop1.page
 sextop1.site
+sextop1.spa
 sextop1.team
 sextop1.video
 sextop10.pro
@@ -10179,6 +10212,7 @@ solon.vip
 ssieukhung.com
 static.manhwa24hs.com
 stream.quatvn.lol
+subjav.buzz
 subjav.live
 subjav.org
 subjav.sex
@@ -10341,6 +10375,7 @@ twtgaixinh.com
 tzqctz.com
 up1.hhentai.net
 up2.hentaivn.tv
+v.javhd.co.uk
 vailonxx.co
 vailonxx.com
 vailonxx.vip
@@ -10546,6 +10581,7 @@ vnanchoi.ca
 vnchich.com
 vnchich.net
 vnok.net
+vnsextop1.com
 vnvn77.com
 vnxnxx.cc
 vnxnxx.xyz
@@ -10586,6 +10622,7 @@ www.sexvip18.com
 www.xamvn.top
 www.xnxx.gold
 wwwxxx.pro
+x.javhd.co.uk
 x.phimsexsub.pw
 x10.viet69.life
 xamvn.pro
