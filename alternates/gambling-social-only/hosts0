@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 September 2026 13:35:36 (UTC)
+# Date: 09 September 2026 22:47:07 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 10,426
+# Number of unique domains: 10,452
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 31 Aug 2026 22:44 UTC+7
-# Version: 2608312244
-# Blocked: 3.953 domains
+# Last modified: 08 Sep 2026 15:55 UTC+7
+# Version: 2609081555
+# Blocked: 3.954 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2686,6 +2686,7 @@ sunwin.id
 sunwin.inc
 sunwin.lt
 sunwin.moi
+sunwin.parts
 sunwin.pro
 sunwin.pw
 sunwin.show
@@ -3977,6 +3978,31 @@ zowin.vg
 zowin.vu
 zowin.ws
 zowinchinhhang.online
+tipico.de
+bwin.de
+bet365.de
+betano.de
+betway.de
+bet-at-home.de
+interwetten.de
+sportwetten.de
+pddset.de
+daznbet.de
+vbet.de
+sportingbet.de
+winamax.de
+tipwin.de
+bet3000.de
+betbird.de
+letsbet.de
+merkur-sports.de
+merkurbets.de
+wettarena.de
+tiptorro.de
+original-wetten.de
+betstar.sportwetten.de
+betstar.sw.de
+888sport.de
 10bet.com
 10luxury39.com
 11wickets.com
