@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 17 September 2026 00:22:44 (UTC)
+# Date: 25 September 2026 19:30:23 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 10,452
+# Number of unique domains: 10,481
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 08 Sep 2026 15:55 UTC+7
-# Version: 2609081555
-# Blocked: 3.954 domains
+# Last modified: 23 Sep 2026 11:05 UTC+7
+# Version: 2609231105
+# Blocked: 3.983 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -57,6 +57,7 @@
 11betvnd.com
 11win.beer
 11win.casa
+11win.dance
 11win.fashion
 11win.free
 11win.link
@@ -230,6 +231,7 @@
 789club.nu
 789club.org
 789club.rich
+789club.spa
 789club.sx
 789club.tr
 789club.vg
@@ -355,10 +357,12 @@
 9bet.green
 9bet.krd
 9bet.mobi
+9bet.navy
 9bet.net
 9bet.photo
 9bet.pink
 9bet.rest
+9bet.vote
 9bet.win
 9bet.world
 9e3c.com
@@ -463,6 +467,7 @@ api.9bet.green
 api.9bet.krd
 api.9bet.mobi
 api.9bet.photo
+api.9bet.vote
 api.9bet.win
 api.ae888.com
 api.ae88827.com
@@ -649,10 +654,12 @@ bk8win.top
 bntv.bongvip.com
 bom52.club
 bom88.ac
+bom88.adqc.net
 bom88.baby
 bom88.casa
 bom88.city
 bom88.click
+bom88.coach
 bom88.com
 bom88.cool
 bom88.diy
@@ -697,6 +704,7 @@ bwing88.com
 bwingno1.com
 bwingthethao.com
 c.bong99.com
+c168.biz
 c54373.com
 c54455.com
 c547777.com
@@ -918,6 +926,7 @@ du88.art
 du88.blue
 du88.cafe
 du88.care
+du88.chat
 du88.click
 du88.club
 du88.com
@@ -1244,10 +1253,12 @@ god55.zone
 god55viet.com
 gogobolaku.com
 gw.gen88.com
+gw.mubet.care
 gw.mubet.help
 gw.mubet.media
 gw.mubet.talk
 gw.mubet.tips
+gw.mubet.toys
 gw.mubet.vip
 gw.tot88.store
 h3bet.com
@@ -1280,6 +1291,7 @@ hbet.bar
 hbet.bio
 hbet.club
 hbet.cz
+hbet.esq
 hbet.fm
 hbet.la
 hbet.li
@@ -1341,6 +1353,7 @@ hitclub.yoga
 hitclubchinhhang.com
 hl8thai8.com
 hn8.link
+hoibannghien.com
 hong88vn.click
 hong88vn.win
 host.im99.com
@@ -1551,6 +1564,7 @@ k88.art
 k88.bz
 k88.cam
 k88.club
+k88.cyou
 k88.day
 k88.mba
 k88.mobi
@@ -1820,9 +1834,11 @@ lu88.gdn
 lu88.kim
 lu88.lc
 lu88.lv
+lu88.mba
 lu88.mn
 lu88.nz
 lu88.pro
+lu88.pub
 lu88.pw
 lu88.tv
 lu88.tw
@@ -1979,6 +1995,7 @@ man88.ph
 man88.pl
 man88.pw
 man88.sh
+man88.spa
 man88.top
 man88.vc
 man88.vip
@@ -2084,6 +2101,7 @@ mu90.com
 mu92.com
 mu922.com
 mubet.best
+mubet.care
 mubet.dev
 mubet.help
 mubet.info
@@ -2091,6 +2109,7 @@ mubet.media
 mubet.sh
 mubet.talk
 mubet.tips
+mubet.toys
 mubet.video
 mubet.vip
 mubet.website
@@ -2333,6 +2352,7 @@ pub88.forum
 pub88.ltd
 pub88.monster
 pub88.pw
+pub88.tips
 pub88.win
 pum88.com
 qc.789.mobi
@@ -2451,6 +2471,7 @@ s3.sin88.si
 s3.sin88.sx
 s3.sin88.tw
 s4.gen88.com
+s4.mubet.care
 s4.mubet.help
 s4.mubet.vip
 s4.tot88.store
@@ -2557,6 +2578,7 @@ sk.vin88.pub
 sk.vin88.pw
 sk.vin88.vin
 sk.vin88.vip
+sk.xibet.cat
 sk.xibet.com
 sk.xibet.ec
 sk.xibet.foo
@@ -2614,6 +2636,7 @@ socket.9bet.green
 socket.9bet.krd
 socket.9bet.mobi
 socket.9bet.photo
+socket.9bet.vote
 socket.9bet.win
 socket.debet.so
 socket.debet.uk
@@ -2959,6 +2982,7 @@ tx88.pink
 tx88.rest
 tx88.top
 tx88.vet
+tx88.vote
 tx88.zone
 tydo88.com
 tz.bet20.bet
@@ -3064,6 +3088,7 @@ vic88.link
 vic88.mx
 vic88.net
 vicclub.ac
+vicclub.at
 vicclub.id
 vicclub.ink
 vicclub.mx
@@ -3172,6 +3197,7 @@ vnvwbet.com
 vnvwin.com
 vnxoso-web.com
 vpn8k.top
+vsbetvbs.net
 vscore.bet
 vscore.pro
 vsports.bet
@@ -3197,6 +3223,7 @@ vu88.net
 vu88.ng
 vu88.ro
 vu88.sh
+vu88.tax
 vu88.tel
 vu88.tv
 vu88.vu
@@ -3370,6 +3397,7 @@ wp.9bet.green
 wp.9bet.krd
 wp.9bet.mobi
 wp.9bet.photo
+wp.9bet.vote
 wp.9bet.win
 wp.debet79.info
 wp.hdbet.com
@@ -3857,6 +3885,7 @@ x8vn.top
 xemdabanh.club
 xemdagacampuchia.com
 xemtylecacuoc.bong99.com
+xibet.cat
 xibet.com
 xibet.ec
 xibet.foo
