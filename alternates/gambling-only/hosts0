@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 18 October 2026 19:09:26 (UTC)
+# Date: 29 October 2026 15:30:47 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 6,712
+# Number of unique domains: 6,723
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 12 Oct 2026 16:00 UTC+7
-# Version: 2610121600
-# Blocked: 4.022 domains
+# Last modified: 24 Oct 2026 22:48 UTC+7
+# Version: 2610242248
+# Blocked: 4.033 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -61,11 +61,13 @@
 11win.dance
 11win.fashion
 11win.free
+11win.garden
 11win.link
 11win.llc
 11win.mobi
 11win.mx
 11win.net
+11win.parts
 11win.skin
 11win.style
 11win.support
@@ -355,6 +357,7 @@
 9bet.care
 9bet.diy
 9bet.es
+9bet.estate
 9bet.fund
 9bet.green
 9bet.krd
@@ -734,6 +737,7 @@ cdn.megawin88.mobi
 cdn.vbet88.fun
 cdn2.vua88.diy
 cdn2.vua88.food
+cdn2.vua88.pub
 cdvn.vip
 cf68.app
 cf68.club
@@ -747,6 +751,7 @@ cf68club.net
 cf68vn.com
 chat.vua88.diy
 chat.vua88.food
+chat.vua88.pub
 chatserverv.ooooooo2.com
 cheer68.com
 choang.fun
@@ -937,6 +942,7 @@ dp568bet.com
 du88.art
 du88.blue
 du88.cafe
+du88.cards
 du88.care
 du88.chat
 du88.click
@@ -946,6 +952,7 @@ du88.diy
 du88.estate
 du88.fashion
 du88.football
+du88.gg
 du88.guru
 du88.health
 du88.house
@@ -1744,6 +1751,7 @@ ku88.cool
 ku88.fun
 ku88.okinawa
 ku88.pro
+ku88.study
 ku88.win
 ku998.net
 kubet.ac
@@ -3012,6 +3020,7 @@ tx88.rest
 tx88.top
 tx88.vet
 tx88.vote
+tx88.works
 tx88.zone
 tydo88.com
 tz.bet20.bet
@@ -3121,6 +3130,7 @@ vicclub.at
 vicclub.host
 vicclub.id
 vicclub.ink
+vicclub.legal
 vicclub.mx
 vicclub.sh
 vicclub.trade
@@ -3266,6 +3276,7 @@ vua88.com
 vua88.diy
 vua88.food
 vua88.host
+vua88.pub
 vuabai9.com
 vuabai9vn.com
 vuabet.com
