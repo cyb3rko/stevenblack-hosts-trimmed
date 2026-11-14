@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 01 November 2026 18:49:20 (UTC)
+# Date: 14 November 2026 02:05:01 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 10,531
+# Number of unique domains: 10,552
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -14,9 +14,9 @@
 #
 # ===============================================================
 # Title: hostsVN Gambling VN
-# Last modified: 24 Oct 2026 22:48 UTC+7
-# Version: 2610242248
-# Blocked: 4.033 domains
+# Last modified: 08 Nov 2026 22:51 UTC+7
+# Version: 2611082251
+# Blocked: 4.054 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -62,6 +62,7 @@
 11win.fashion
 11win.free
 11win.garden
+11win.gripe
 11win.link
 11win.llc
 11win.mobi
@@ -367,6 +368,7 @@
 9bet.photo
 9bet.pink
 9bet.rest
+9bet.stream
 9bet.taxi
 9bet.vote
 9bet.win
@@ -390,6 +392,7 @@ ad.playhit.biz
 ad.viprik.click
 ad.yo88.tv
 ad.yo88.win
+adqc.net
 ads.8live.com
 ads.playmay88.top
 ads03.win888b.com
@@ -474,6 +477,7 @@ api.9bet.green
 api.9bet.krd
 api.9bet.mobi
 api.9bet.photo
+api.9bet.stream
 api.9bet.vote
 api.9bet.win
 api.ae888.com
@@ -487,6 +491,7 @@ api.haybet.ws
 api.hb8887.com
 api.hdbet.com
 api.ku88.accountant
+api.ku88.capital
 api.ku88.cool
 api.ku88.okinawa
 api.max79.win
@@ -736,6 +741,7 @@ cdn.868vip.live
 cdn.megawin88.mobi
 cdn.vbet88.fun
 cdn2.vua88.diy
+cdn2.vua88.fans
 cdn2.vua88.food
 cdn2.vua88.pub
 cdvn.vip
@@ -948,6 +954,7 @@ du88.chat
 du88.click
 du88.club
 du88.com
+du88.coupons
 du88.diy
 du88.estate
 du88.fashion
@@ -1747,6 +1754,7 @@ ku6110.net
 ku6131.net
 ku777bet.com
 ku88.accountant
+ku88.capital
 ku88.cool
 ku88.fun
 ku88.okinawa
@@ -2134,6 +2142,7 @@ mubet.help
 mubet.icu
 mubet.info
 mubet.media
+mubet.money
 mubet.sh
 mubet.talk
 mubet.tips
@@ -2341,6 +2350,7 @@ play.vicclub.ac
 play.vicclub.host
 play.vicclub.id
 play.vicclub.mx
+play.vicclub.name
 play.vicclub.sh
 play.vip79.top
 play.win79.vip
@@ -2668,6 +2678,7 @@ socket.9bet.green
 socket.9bet.krd
 socket.9bet.mobi
 socket.9bet.photo
+socket.9bet.stream
 socket.9bet.vote
 socket.9bet.win
 socket.debet.so
@@ -2675,6 +2686,7 @@ socket.debet.uk
 socket.debet.win
 socket.hdbet.com
 socket.ku88.accountant
+socket.ku88.capital
 socket.ku88.cool
 socket.ku88.okinawa
 socket.topbet.top
@@ -2737,6 +2749,9 @@ sun52.fun
 sun52.live
 sun52.tv
 sun6.win
+sun88.adqc.net
+sun88.channel
+sun88.moi
 sun88.sc
 sunwin.af
 sunwin.club
@@ -3017,6 +3032,7 @@ tx88.onl
 tx88.photo
 tx88.pink
 tx88.rest
+tx88.support
 tx88.top
 tx88.vet
 tx88.vote
@@ -3132,6 +3148,7 @@ vicclub.id
 vicclub.ink
 vicclub.legal
 vicclub.mx
+vicclub.name
 vicclub.sh
 vicclub.trade
 victorwin555.com
@@ -3274,6 +3291,7 @@ vua88.biz
 vua88.club
 vua88.com
 vua88.diy
+vua88.fans
 vua88.food
 vua88.host
 vua88.pub
@@ -3373,6 +3391,7 @@ web.hitclub.top
 web.macauclub.fun
 web.mayclub.net
 web.nhatvip.net
+web.sun88.moi
 web.sun88.sc
 web.sunwin.pro
 web.topzo.com
@@ -3444,11 +3463,13 @@ wp.9bet.green
 wp.9bet.krd
 wp.9bet.mobi
 wp.9bet.photo
+wp.9bet.stream
 wp.9bet.vote
 wp.9bet.win
 wp.debet79.info
 wp.hdbet.com
 wp.ku88.accountant
+wp.ku88.capital
 wp.ku88.okinawa
 wp.mibet.net
 wp.nbet.fan
